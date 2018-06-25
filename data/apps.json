@@ -1,0 +1,184 @@
+{
+	"bannerCategory": {
+		"name": "",
+			"apps": [
+				{
+					"ImageName": "http://www.rtodd.net/swift/images/square/colton-haynes.jpg"
+				},
+				{
+					"ImageName": "http://www.rtodd.net/swift/images/square/colton-haynes.jpg"
+				},
+				{
+					"ImageName": "http://www.rtodd.net/swift/images/square/colton-haynes.jpg"
+				},
+				{
+					"ImageName": "http://www.rtodd.net/swift/images/square/colton-haynes.jpg"
+				}
+			],
+		"type": ""
+	},
+	"categories": [
+		{
+			"name": "Best New Apps",
+			"apps": [
+				{
+					"Id": 1,
+					"Name": "Adam Lambert",
+					"Category": "Singer/Musician",
+					"Price": 3.99,
+					"ImageName": "http://www.rtodd.net/swift/images/square/adam-lambert.jpg"
+				},
+				{
+					"Name": "Andrew Garfield",
+					"Category": "Actor",
+					"ImageName": "http://www.rtodd.net/swift/images/square/andrew-garfield.jpg"
+				},
+				{
+					"Name": "Andy Mientus",
+					"Category": "Actor/Singer",
+					"ImageName": "http://www.rtodd.net/swift/images/square/andy-mientus.jpg"
+				},
+				{
+					"Name": "Charlie Puth",
+					"Category": "Singer",
+					"ImageName": "http://www.rtodd.net/swift/images/square/charlie-puth.jpg"
+				},
+				{
+					"Id": 1,
+					"Name": "Connor Franta",
+					"Category": "Youtuber/Author",
+					"Price": 3.99,
+					"ImageName": "http://www.rtodd.net/swift/images/square/connor-franta.jpg"
+				},
+				{
+					"Name": "Darren Criss",
+					"Category": "Actor/Musician/Singer",
+					"ImageName": "http://www.rtodd.net/swift/images/square/darren-criss.jpg"
+				},
+				{
+					"Name": "Eli Lieb",
+					"Category": "Musician/Singer",
+					"ImageName": "http://www.rtodd.net/swift/images/square/eli-lieb.jpg"
+				},
+				{
+					"Name": "Gideon Glick",
+					"Category": "Actor",
+					"ImageName": "http://www.rtodd.net/swift/images/square/gideon-glick.jpg"
+				}
+			],
+			"type": ""
+		},
+		{
+			"name": "Best New Games",
+			"apps": [
+				{
+					"Id": 2,
+					"Name": "Jonathan Groff",
+					"Category": "Actor/Singer",
+					"Price": 2.99,
+					"ImageName": "http://www.rtodd.net/swift/images/square/jonathan-groff.jpg"
+				},
+				{
+					"Name": "Joseph Altuzarra",
+					"Category": "Director",
+					"Price": 1.99,
+					"ImageName": "http://www.rtodd.net/swift/images/square/joseph-altuzarra.jpg"
+				},
+				{
+					"Name": "Nico Tortorella",
+					"Category": "Actor/Model",
+					"ImageName": "http://www.rtodd.net/swift/images/square/nico-tortorella.jpg"
+				},
+				{
+					"Name": "Omar Sharif Jr",
+					"Category": "Personality",
+					"Price": 1.99,
+					"ImageName": "http://www.rtodd.net/swift/images/square/omar-sharif.jpg"
+				},
+				{
+					"Id": 2,
+					"Name": "Robin Lord Taylor",
+					"Category": "Actor",
+					"Price": 2.99,
+					"ImageName": "http://www.rtodd.net/swift/images/square/robin-lord-taylor.jpg"
+				},
+				{
+					"Name": "Taron Egerton",
+					"Category": "Actor",
+					"Price": 1.99,
+					"ImageName": "http://www.rtodd.net/swift/images/square/taron-egerton.jpg"
+				},
+				{
+					"Name": "Tommy Dorfman",
+					"Category": "Actor",
+					"ImageName": "http://www.rtodd.net/swift/images/square/tommy-dorfman.jpg"
+				},
+				{
+					"Name": "Xavier Dolan",
+					"Category": "Actor/Director",
+					"Price": 1.99,
+					"ImageName": "http://www.rtodd.net/swift/images/square/xavier-dolan.jpg"
+				}
+			],
+			"type": ""
+		},
+		{
+			"name": "50% Off for a Limited Time",
+			"apps": [
+				{
+					"ImageName": "http://www.rtodd.net/swift/images/square/xavier-dolan.jpg"
+				},
+				{
+					"ImageName": "http://www.rtodd.net/swift/images/square/xavier-dolan.jpg"
+				},
+				{
+					"ImageName": "http://www.rtodd.net/swift/images/square/xavier-dolan.jpg"
+				},
+				{
+					"ImageName": "http://www.rtodd.net/swift/images/square/xavier-dolan.jpg"
+				},
+				{
+					"ImageName": "http://www.rtodd.net/swift/images/square/xavier-dolan.jpg"
+				},
+				{
+					"ImageName": "http://www.rtodd.net/swift/images/square/xavier-dolan.jpg"
+				},
+				{
+					"ImageName": "http://www.rtodd.net/swift/images/square/xavier-dolan.jpg"
+				},
+				{
+					"ImageName": "http://www.rtodd.net/swift/images/square/xavier-dolan.jpg"
+				}
+			],
+			"type": "large"
+		},
+		{
+			"name": "More Games You Might Like",
+			"apps": [
+				{
+					"Name": "Brendon Urie",
+					"Category": "Singer/Musician",
+					"ImageName": "http://www.rtodd.net/swift/images/square/brendon-urie.jpg"
+				},
+				{
+					"Name": "Colton Haynes",
+					"Category": "Actor",
+					"Price": 0.99,
+					"ImageName": "http://www.rtodd.net/swift/images/square/colton-haynes.jpg"
+				},
+				{
+					"Name": "Joseph Gordon Levitt",
+					"Category": "Actor",
+					"ImageName": "http://www.rtodd.net/swift/images/square/joseph-gordon-levitt.jpg"
+				},
+				{
+					"Name": "Matt Doyle",
+					"Category": "Actor/Singer",
+					"Price": 2.99,
+					"ImageName": "http://www.rtodd.net/swift/images/square/matt-doyle.jpg"
+				}
+			],
+			"type": ""
+		}
+	]
+}

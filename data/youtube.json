@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Adam Levine",
+    "number_of_views": 319644991,
+    "thumbnail_image_name": "http://www.rtodd.net/swift/images/adam-levine.jpg",
+    "subtitle_text": "An American singer, songwriter, multi-instrumentalist, actor, and record producer. He is the lead singer for the pop rock band Maroon 5.",
+    "channel": {
+      "name": "Andrew Garfield",
+      "profile_image_name": "http://www.rtodd.net/swift/images/andrew-garfield.jpg"
+    },
+    "duration": 210
+  },
+  {
+    "title": "Darren Everett Criss - An American actor, singer and songwriter",
+    "number_of_views": 92839921,
+    "thumbnail_image_name": "http://www.rtodd.net/swift/images/darren-criss.jpg",
+    "subtitle_text": "An American actor, singer and songwriter and is one of the founding members and co-owners of StarKid Productions",
+    "channel": {
+      "name": "Jonathan Groff",
+      "profile_image_name": "http://www.rtodd.net/swift/images/jonathan-groff.jpg"
+    },
+    "duration": 189
+  },
+  {
+    "title": "Nico Tortorella",
+    "number_of_views": 52321223,
+    "thumbnail_image_name": "http://www.rtodd.net/swift/images/nico-tortorella.jpg",
+    "subtitle_text": "An American actor and model (born July 30, 1988)",
+    "channel": {
+      "name": "Andy Mientus",
+      "profile_image_name": "http://www.rtodd.net/swift/images/andy-mientus.jpg"
+    },
+    "duration": 410
+  },
+  {
+    "title": "Connor Franta",
+    "number_of_views": 9999999999999,
+    "thumbnail_image_name": "http://www.rtodd.net/swift/images/connor-franta.jpg",
+    "subtitle_text": "Connor Joel Franta (born September 12, 1992) is an American YouTuber, entrepreneur, entertainer, and writer",
+    "channel": {
+      "name": "Adam Lambert",
+      "profile_image_name": "http://www.rtodd.net/swift/images/adam-lambert.jpg"
+    },
+    "duration": 80
+  },
+  {
+    "title": "Gideon Glick",
+    "number_of_views": 12312344,
+    "thumbnail_image_name": "http://www.rtodd.net/swift/images/gideon-glick.jpg",
+    "subtitle_text": "Gideon Glick is an American stage performer and movie actor (born June 6, 1988)",
+    "channel": {
+      "name": "Debbie Harry",
+      "profile_image_name": "http://www.rtodd.net/swift/images/deborah-harry.jpg"
+    },
+    "duration": 232
+  },
+  {
+    "title": "Josh Hutcherson",
+    "number_of_views": 334435123,
+    "thumbnail_image_name": "http://www.rtodd.net/swift/images/josh-hutcherson.jpg",
+    "subtitle_text": "An American actor (born October 12, 1992)",
+    "channel": {
+      "name": "Ellen Page",
+      "profile_image_name": "http://www.rtodd.net/swift/images/ellen-page.jpg"
+    },
+    "duration": 301
+  }
+]

@@ -1,0 +1,62 @@
+{
+	"version": "2.0",
+	"title": "Dawgnation",
+	"branding": {
+		"logo": "http://www.rtodd.net/swift/images/dawgnation/theme-logo.png",
+		"color_main": "#d31c1e"
+	},
+	"menu_items": [
+		{
+			"title": "Home",
+			"view": ""
+		},
+		{
+			"title": "Football",
+			"view": ""
+		},
+		{
+			"title": "Recruiting",
+			"view": ""
+		},
+		{
+			"title": "DN Daily Podcast",
+			"view": ""
+		},
+		{
+			"title": "Dawgnation Invasion ATL",
+			"view": ""
+		},
+		{
+			"title": "2018 Recruits",
+			"view": ""
+		},
+		{
+			"title": "Dawgnation Forum",
+			"view": ""
+		},
+		{
+			"title": "Shop",
+			"view": ""
+		},
+		{
+			"title": "Feedback",
+			"view": ""
+		},
+		{
+			"title": "Contact Us",
+			"view": ""
+		},
+		{
+			"title": "Terms of Service",
+			"view": ""
+		},
+		{
+			"title": "Privacy Policy",
+			"view": ""
+		},
+		{
+			"title": "Notifications",
+			"view": ""
+		}
+	]
+}

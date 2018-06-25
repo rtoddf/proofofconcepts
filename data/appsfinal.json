@@ -1,0 +1,188 @@
+{
+	"bannerCategory": {
+		"name": "",
+			"apps": [
+				{
+					"imageName": "http://www.rtodd.net/swift/images/apps/colton-haynes.jpg"
+				},
+				{
+					"imageName": "http://www.rtodd.net/swift/images/apps/colton-haynes.jpg"
+				},
+				{
+					"imageName": "http://www.rtodd.net/swift/images/apps/colton-haynes.jpg"
+				},
+				{
+					"imageName": "http://www.rtodd.net/swift/images/apps/colton-haynes.jpg"
+				}
+			],
+		"type": ""
+	},
+	"categories": [
+		{
+			"name": "Actors One",
+			"apps": [
+				{
+					"name": "Ben Barnes",
+					"short_bio": "British actor and singer",
+					"birth_date": "20 August 1981",
+					"imageName": "http://www.rtodd.net/swift/images/apps/ben-barnes.jpg"
+				},
+				{
+					"name": "Nico Tortorella",
+					"short_bio": "American actor and model",
+					"birth_date": "July 30, 1988",
+					"imageName": "http://www.rtodd.net/swift/images/apps/nico-tortorella.jpg"
+				},
+				{
+					"name": "Jonathan Groff",
+					"short_bio": "American actor and singer",
+					"birth_date": "March 26, 1985",
+					"imageName": "http://www.rtodd.net/swift/images/apps/jonathan-groff.jpg"
+				},
+				{
+					"name": "Eli Lieb",
+					"short_bio": "American pop singer-songwriter",
+					"birth_date": "September 11, 1979",
+					"imageName": "http://www.rtodd.net/swift/images/apps/eli-lieb.jpg"
+				},
+				{
+					"name": "Ben Barnes",
+					"short_bio": "British actor and singer",
+					"birth_date": "20 August 1981",
+					"imageName": "http://www.rtodd.net/swift/images/apps/ben-barnes.jpg"
+				},
+				{
+					"name": "Nico Tortorella",
+					"short_bio": "American actor and model",
+					"birth_date": "July 30, 1988",
+					"imageName": "http://www.rtodd.net/swift/images/apps/nico-tortorella.jpg"
+				},
+				{
+					"name": "Jonathan Groff",
+					"short_bio": "American actor and singer",
+					"birth_date": "March 26, 1985",
+					"imageName": "http://www.rtodd.net/swift/images/apps/jonathan-groff.jpg"
+				},
+				{
+					"name": "Eli Lieb",
+					"short_bio": "American pop singer-songwriter",
+					"birth_date": "September 11, 1979",
+					"imageName": "http://www.rtodd.net/swift/images/apps/eli-lieb.jpg"
+				}
+			],
+			"type": ""
+		},
+		{
+			"name": "Actors Two",
+			"apps": [
+				{
+					"name": "Tom Daley",
+					"short_bio": "British driver",
+					"birth_date": "21 May 1994",
+					"imageName": "http://www.rtodd.net/swift/images/apps/tom-daley.jpg"
+				},
+				{
+					"name": "Robbie Rogers",
+					"short_bio": "American professional soccer player",
+					"birth_date": "May 12, 1987",
+					"imageName": "http://www.rtodd.net/swift/images/apps/robbie-rogers.jpg"
+				},
+				{
+					"name": "Tom Daley",
+					"short_bio": "British driver",
+					"birth_date": "21 May 1994",
+					"imageName": "http://www.rtodd.net/swift/images/apps/tom-daley.jpg"
+				},
+				{
+					"name": "Robbie Rogers",
+					"short_bio": "American professional soccer player",
+					"birth_date": "May 12, 1987",
+					"imageName": "http://www.rtodd.net/swift/images/apps/robbie-rogers.jpg"
+				},
+				{
+					"name": "Tom Daley",
+					"short_bio": "British driver",
+					"birth_date": "21 May 1994",
+					"imageName": "http://www.rtodd.net/swift/images/apps/tom-daley.jpg"
+				},
+				{
+					"name": "Robbie Rogers",
+					"short_bio": "American professional soccer player",
+					"birth_date": "May 12, 1987",
+					"imageName": "http://www.rtodd.net/swift/images/apps/robbie-rogers.jpg"
+				},
+				{
+					"name": "Tom Daley",
+					"short_bio": "British driver",
+					"birth_date": "21 May 1994",
+					"imageName": "http://www.rtodd.net/swift/images/apps/tom-daley.jpg"
+				},
+				{
+					"name": "Robbie Rogers",
+					"short_bio": "American professional soccer player",
+					"birth_date": "May 12, 1987",
+					"imageName": "http://www.rtodd.net/swift/images/apps/robbie-rogers.jpg"
+				}
+			],
+			"type": ""
+		},
+		{
+			"name": "50% Off for a Limited Time",
+			"apps": [
+				{
+					"imageName": "http://www.rtodd.net/swift/images/apps/xavier-dolan.jpg"
+				},
+				{
+					"imageName": "http://www.rtodd.net/swift/images/apps/xavier-dolan.jpg"
+				},
+				{
+					"imageName": "http://www.rtodd.net/swift/images/apps/xavier-dolan.jpg"
+				},
+				{
+					"imageName": "http://www.rtodd.net/swift/images/apps/xavier-dolan.jpg"
+				},
+				{
+					"imageName": "http://www.rtodd.net/swift/images/apps/xavier-dolan.jpg"
+				},
+				{
+					"imageName": "http://www.rtodd.net/swift/images/apps/xavier-dolan.jpg"
+				},
+				{
+					"imageName": "http://www.rtodd.net/swift/images/apps/xavier-dolan.jpg"
+				},
+				{
+					"imageName": "http://www.rtodd.net/swift/images/apps/xavier-dolan.jpg"
+				}
+			],
+			"type": "large"
+		},
+		{
+			"name": "More Games You Might Like",
+			"apps": [
+				{
+					"name": "Brendon Urie",
+					"Category": "Singer/Musician",
+					"imageName": "http://www.rtodd.net/swift/images/apps/brendon-urie.jpg"
+				},
+				{
+					"name": "Colton Haynes",
+					"Category": "Actor",
+					"Price": 0.99,
+					"imageName": "http://www.rtodd.net/swift/images/apps/colton-haynes.jpg"
+				},
+				{
+					"name": "Joseph Gordon Levitt",
+					"Category": "Actor",
+					"imageName": "http://www.rtodd.net/swift/images/apps/joseph-gordon-levitt.jpg"
+				},
+				{
+					"name": "Matt Doyle",
+					"Category": "Actor/Singer",
+					"Price": 2.99,
+					"imageName": "http://www.rtodd.net/swift/images/apps/matt-doyle.jpg"
+				}
+			],
+			"type": ""
+		}
+	]
+}

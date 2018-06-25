@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Nico Tortorella",
+		"description": "\nNico Tortorella is an American actor and model.",
+		"profileImage": "http://www.rtodd.net/swift/images/facebook/nico-tortorella-profile.jpg",
+		"statusImage": "http://www.rtodd.net/swift/images/facebook/nico-tortorella.jpg",
+		"statusText": "Speaking to the New York Post's Page Six in June 2016, Tortorella declared himself to be sexually fluid.",
+		"subStatusText": "In 2016, Tortorella launched his podcast The Love Bomb"
+	},
+	{
+		"name": "Ben Barnes",
+		"description": "\nBenjamin Thomas Barnes is a British actor and singer.",
+		"profileImage": "http://www.rtodd.net/swift/images/facebook/ben-barnes-profile.jpg",
+		"statusImage": "http://www.rtodd.net/swift/images/facebook/ben-barnes.jpg",
+		"statusText": "On 20 July 2015 it was announced that Barnes would replace Eion Bailey as Logan in HBO's science fiction thriller Westworld, the first season of which aired in the fall of 2016.\n\nWe can save this world.\nWe can burn it to the ground.\nFrom the ashes, build a new world.\nOur world.",
+		"subStatusText": "In 2016, Barnes was cast in the Marvel Netflix series The Punisher"
+	},
+	{
+		"name": "Tom Daley",
+		"description": "\nThomas Robert Daley is a British diver.",
+		"profileImage": "http://www.rtodd.net/swift/images/facebook/tom-daley-profile.jpg",
+		"statusImage": "http://www.rtodd.net/swift/images/facebook/tom-daley.jpg",
+		"statusText": "My reaction to others’ hate, bigotry & misinformation will not include anger or hate. For me, the path forward is lit with curiosity, listening, correcting the record when possible, and as best I can, leading with an example of strength & love.",
+		"subStatusText": "Daley and Black married at Bovey Castle in Devon on 6 May 2017"
+	},
+	{
+		"name": "Jonathan Groff",
+		"description": "\nJonathan Groff is an American actor and singer.",
+		"profileImage": "http://www.rtodd.net/swift/images/facebook/jonathan-groff-profile.jpg",
+		"statusImage": "http://www.rtodd.net/swift/images/facebook/jonathan-groff.jpg",
+		"statusText": "Make sure that you always follow your heart and your gut, and let yourself be who you want to be, and who you know you are. And don't let anyone steal your joy.",
+		"subStatusText": "Groff publicly came out as gay in October 2009"
+	}
+]

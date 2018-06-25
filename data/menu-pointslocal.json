@@ -1,0 +1,26 @@
+{
+	"version": "1.0",
+	"title": "Points Local",
+	"branding": {
+		"logo": "http://www.rtodd.net/swift/images/reviews-music/logo.png",
+		"color_main": "#003264"
+	},
+	"menu_items": [
+		{
+			"title": "What to Know",
+			"view": ""
+		},
+		{
+			"title": "What to Do",
+			"view": ""
+		},
+		{
+			"title": "What to Love",
+			"view": ""
+		},
+		{
+			"title": "Weather",
+			"view": ""
+		}
+	]
+}

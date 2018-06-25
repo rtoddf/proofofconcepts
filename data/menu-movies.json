@@ -1,0 +1,62 @@
+{
+	"version": "1.0",
+	"title": "Movies",
+	"branding": {
+		"logo": "http://www.rtodd.net/swift/images/reviews-movies/logo.png",
+		"color_main": "#7505b5"
+	},
+	"menu_items": [
+		{
+			"title": "Home",
+			"view": ""
+		},
+		{
+			"title": "Comedy",
+			"view": ""
+		},
+		{
+			"title": "Kids & Family",
+			"view": ""
+		},
+		{
+			"title": "Action & Adventure",
+			"view": ""
+		},
+		{
+			"title": "Classics",
+			"view": ""
+		},
+		{
+			"title": "Documentary",
+			"view": ""
+		},
+		{
+			"title": "Drama",
+			"view": ""
+		},
+		{
+			"title": "Foreign",
+			"view": ""
+		},
+		{
+			"title": "Horror",
+			"view": ""
+		},
+		{
+			"title": "Independent",
+			"view": ""
+		},
+		{
+			"title": "Music Movies",
+			"view": ""
+		},
+		{
+			"title": "Sci-Fi & Fantasy",
+			"view": ""
+		},
+		{
+			"title": "Thriller",
+			"view": ""
+		}
+	]
+}

@@ -1,0 +1,861 @@
+{
+	"version": "2.0",
+	"title": "Dawgnation",
+	"branding": {
+		"logo": "http://www.rtodd.net/swift/images/dawgnation/theme-logo.png",
+		"color_main": "#d31c1e"
+	},
+	"menu_items": [
+		{
+			"title": "Home",
+			"view": ""
+		},
+		{
+			"title": "Football",
+			"view": ""
+		},
+		{
+			"title": "Recruiting",
+			"view": ""
+		},
+		{
+			"title": "DN Daily Podcast",
+			"view": ""
+		},
+		{
+			"title": "Dawgnation Invasion ATL",
+			"view": ""
+		},
+		{
+			"title": "2018 Recruits",
+			"view": ""
+		},
+		{
+			"title": "Dawgnation Forum",
+			"view": ""
+		},
+		{
+			"title": "Shop",
+			"view": ""
+		},
+		{
+			"title": "Feedback",
+			"view": ""
+		},
+		{
+			"title": "Contact Us",
+			"view": ""
+		},
+		{
+			"title": "Terms of Service",
+			"view": ""
+		},
+		{
+			"title": "Privacy Policy",
+			"view": ""
+		},
+		{
+			"title": "Notifications",
+			"view": ""
+		}
+	],
+	"items": [
+		{
+			"headline": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+			"subhead": "",
+			"creator": {
+				"name": "Cy Brown",
+				"title": "Dawgnation Staff",
+				"image": "http://www.rtodd.net/swift/images/dawgnation/creators/cybrown.jpg",
+				"social": [
+					{
+						"network": "facebook",
+						"user": ""
+					},
+					{
+						"network": "twitter",
+						"user": ""
+					},
+					{
+						"network": "instagram",
+						"user": ""
+					}
+				]
+			},
+			"item_class": "story",
+			"category": {
+				"title": "Georgia football",
+				"background_color": "#d31c1e",
+				"text_color": "#fff"
+			},
+			"guid": "f21f6d26-aaaa-1111-8401-ed4dfe8ebc2c",
+			"pub_date": "Tue, 08 May 2018 07:13:00 EDT",
+			"summary": "In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.",
+			"full_text": "<h4>Depth chart breakdown: Defensive line</h4><p>In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.</p><p>The biggest issue with the defensive line is that it's top heavy. Each member of the starting front three is proven and could be All-SEC. After that, however, it's a whole lot of meh. The backups are long on potential but short on production. So far, at least.</p><p>A talented first-team defensive line simply doesn't cut it at the top level of college football these days. That unit needs to go two or three deep to keep up with no-huddle offenses and be able to survive a long, draining season. So something needs to give here for Georgia to make this season as successful as the last.</p><p>Smart already has brought in one graduate transfer lineman, and I wouldn't be surprised to see a spare offensive lineman or two shipped over to the defense. Ultimately, Georgia has who it has. There's no magic spell that can fix the potential problems brewing. There are just a bunch of unproven Dawgs. It's incumbent on them to step and render any concerns about them as unwarranted.</p><p><em>This post is part of an ongoing series breaking down Georgia's post-spring depth chart position by position. For links to the other posts in this series, check the bottom of this section.</em></p><h4>Defensive End</h4><ol><li><strong>Jonathan Ledbetter (Senior)</strong> - Ledbetter is the senior leader of the defensive line and one of its best players. If he improves his pass rushing, he could have a breakout season.</li><li><strong>David Marshall (Junior)</strong> - Marshall been on the periphery of the defensive line for a while and was solid in relief of Ledbetter last season. But I get the sense he has another gear he hasn't found quite yet.</li><li><strong>Malik Herring (Sophomore)</strong> - Herring played in every game his freshman season and gained a lot of valuable experience. More should be asked of him as a sophomore.</li></ol><h4>Defensive Tackle</h4><ol><li><strong>Tyler Clark (Junior)</strong> - Clark made his star turn last season and enters this one as Georgia's top overall defensive linemen. If he again progresses that much as a junior, he'll finish 2018 as one of the best in the SEC.</li><li><strong>Jay Hayes (Graduate)</strong> - Nothing did more to assuage concerns about the defensive line this spring than Hayes' decision to transfer to Georgia. The former Notre Dame player gives the Dawgs an immediate injection of depth and talent. Learn the name, because Hayes figures to be a major player this season.</li><li><strong>Devonte Wyatt (Freshman)</strong> - Wyatt, originally a Class of 2017 signee, joined the team during bowl season and thus has a slight advantage even over his fellow early enrollees. Keep an eye on him to assert himself in the rotation.</li><li><strong>Michail Carter (Junior)</strong> - Carter is another talented guy who hasn't figured it out at Georgia for whatever reason, and he's running out of chances.</li><li><strong>Tramel Walthour (Freshman)</strong> - It was reported this spring that Walthour will take a grayshirt if Georgia can't make its scholarship numbers work, but that has since come into dispute. If he does make it to Athens this fall, expect him to arrive with a significant chip on his shoulder.</li></ol>",
+			"lead_media": {
+				"type": "image",
+				"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation06.jpg",
+				"title": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+				"caption": "Georgia Bulldogs defensive lineman Julian Rochester could be doing more than the typical Georgia nose tackle.",
+				"credit": "Bob Andres/AJC"
+			},
+			"media": [
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation01.jpg",
+					"title": "Former Georgia running back Nick Chubb",
+					"caption": "Former Georgia running back Nick Chubb expects big things out of the Bulldogs in 2018.",
+					"credit": "Sean M. Haffrey/Getty Images"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation02.jpg",
+					"title": "Who are Georgia football's top 2019 NFL Draft prospects?",
+					"caption": "Cornerback Deandre Baker figures to be Georgia football's top prospect in the 2019 NFL Draft.",
+					"credit": "Hyosub Shin/AJC"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation03.jpg",
+					"title": "Georgia joins Golden State Warriors, Notre Dame in concussion monitoring efforts",
+					"caption": "Georgia has joined forces with SyncThink, a California-based neuro-technology company that helps sports teams identify concussions.",
+					"credit": "Mike Zarrilli/Getty Images"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation04.jpg",
+					"title": "What Power 5 opponent would you like to see the Dawgs play?",
+					"caption": "Georgia vs. Clemson once was an annual rivalry, but no future games have been announced.",
+					"credit": "Streeter Lecka/Getty Images"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation06.jpg",
+					"title": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+					"caption": "Georgia Bulldogs defensive lineman Julian Rochester could be doing more than the typical Georgia nose tackle.",
+					"credit": "Bob Andres/AJC"
+				}
+			],
+			"locations": [
+				{
+					"latitude": 33.948005,
+					"longitude": -83.377322,
+					"name": "University of Georgia"
+				}
+			],
+			"related_content": {
+				"title": "More Stories",
+				"items": [
+					{
+						"headline": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+						"summary": "In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.",
+						"pub_date": "Tue, 08 May 2018 07:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related01.jpg",
+							"title": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+							"caption": "In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Why that 'Big 6' nickname fits Georgia target Jammie Robinson so well",
+						"summary": "Jammie \"Big 6\" Robinson is considering the chance to play at Notre Dame and Vanderbilt, among those other big-name options.",
+						"pub_date": "Mon, 07 May 2018 23:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related02.jpg",
+							"title": "Why that 'Big 6' nickname fits Georgia target Jammie Robinson so well",
+							"caption": "Jammie \"Big 6\" Robinson is considering the chance to play at Notre Dame and Vanderbilt, among those other big-name options.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Will money and team-apparel influences expose college football to more corruption?",
+						"summary": "There certainly has been much evidence of corruption in college basketball recruiting. That was apparent even before the FBI launched its ongoing investigation and started arresting college assistant coaches. Paying out money to land the best recruits in the county to suit up for State U is nothing new, but what takes this up a notch is this is the first time the federal government has gotten involved.",
+						"pub_date": "Mon, 07 May 2018 16:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related03.jpg",
+							"title": "Will money and team-apparel influences expose college football to more corruption?",
+							"caption": "There certainly has been much evidence of corruption in college basketball recruiting. That was apparent even before the FBI launched its ongoing investigation and started arresting college assistant coaches. Paying out money to land the best recruits in the county to suit up for State U is nothing new, but what takes this up a notch is this is the first time the federal government has gotten involved.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Former UGA OL Pat Allen announces transfer to Southeastern Louisiana",
+						"summary": "Former Georgia offensive lineman Pat Allen has made his decision on life after the Bulldogs.",
+						"pub_date": "Tue, 08 May 2018 09:11:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related04.jpg",
+							"title": "Former UGA OL Pat Allen announces transfer to Southeastern Louisiana",
+							"caption": "Former Georgia offensive lineman Pat Allen has made his decision on life after the Bulldogs.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					}
+				]
+			}
+		},
+		{
+			"headline": "UGA recruiting: What will nation's No. 1 class mean to 2018 team?",
+			"subhead": "",
+			"creator": {
+				"name": "Cy Brown",
+				"title": "Dawgnation Staff",
+				"image": "http://www.rtodd.net/swift/images/dawgnation/creators/cybrown.jpg",
+				"social": [
+					{
+						"network": "facebook",
+						"user": ""
+					},
+					{
+						"network": "twitter",
+						"user": ""
+					},
+					{
+						"network": "instagram",
+						"user": ""
+					}
+				]
+			},
+			"item_class": "story",
+			"category": {
+				"title": "Georgia recruiting",
+				"background_color": "#d31c1e",
+				"text_color": "#fff"
+			},
+			"guid": "f21f6d26-aaaa-1111-8401-ed4dfe8ebc2c",
+			"pub_date": "Tue, 01 May 2018 13:25:00 EDT",
+			"summary": "Georgia finished first in the recruiting rankings in the 2018 class. Expect the Bulldogs to be at the top in 2019, too. DawgNation's Jeff Sentell will answer a Recruiting Question of the Day on Tuesdays and Thursdays. You can ask him your questions on Twitter or the DawgNation Message board forum. Previous QODs can be found on our question of the day archives page. ",
+			"full_text": "<p>Georgia finished first in the recruiting rankings in the 2018 class. Expect the Bulldogs to be at the top in 2019, too. DawgNation's Jeff Sentell will answer a Recruiting Question of the Day on Tuesdays and Thursdays. You can ask him your questions on Twitter or the DawgNation Message board forum. Previous QODs can be found on our question of the day archives page.</p><p>Georgia finished first in the recruiting rankings in the 2018 class. Expect the Bulldogs to be at the top in 2019, too. DawgNation's Jeff Sentell will answer a Recruiting Question of the Day on Tuesdays and Thursdays. You can ask him your questions on Twitter or the DawgNation Message board forum. Previous QODs can be found on our question of the day archives page.</p><div><img src=\"http://www.rtodd.net/swift/images/dawgnation/dawgnation05b.jpg\"></div><h3>QUESTION OF THE DAY</h3><p>DawgNation message board user @jinx55 asks: Can you provide your take on what the rest of the 2018 class brings to the team, as guys like Adam Anderson, Chris Smith, Channing Tindall and company arrive in June. Any guys you think will standout or push for positions following what you've seen and heard during the Spring??</p><p>Good question. I kicked around a few ways to share this level of information quickly for a 26-man signing class. To do so, I'll borrow a ratings scale used by NFL.com for its 2018 draft pick evaluations.</p><p>I'll offer just one note of clarification here. It would be very easy to lump a bunch of guys together with so many high-level signees for 2018. Here's my best guess at doing so while trying to add a level of variety.</p><p>A few of the 2018 signees, using James Cook as a perfect example, should be major factors by their junior years, but they are not expected to contribute heavily in 2018.</p><p>That serves as a proper illustration regarding the true intent here to balance short-term value with a long-term projection. Of the 26 signees, it does not seem likely to forecast more than 14-15 of these guys to one day be drafted by NFL teams.</p><ul><li>9.0-10.0 - All-SEC-to-All-American-to-NFL first-round draft pick material</li><li>8.0-8.9 - All-SEC candidate-to-All-American potential/can go in the top 3 rounds of NFL draft</li><li>7.0-7.9 - Multi-year starter and eventual All-SEC candidate/NFL draft potential</li></ul><h4>9.0-10.0</h4><ul><li>OLB Adam Anderson</li><li>OLB Brenton Cox (early enrollee)</li><li>QB Justin Fields (early enrollee)</li><li>RB Zamir White (early enrollee)</li><li>G Jamaree Salyer</li></ul>",
+			"lead_media": {
+				"type": "image",
+				"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation05.jpg",
+				"title": "What will nation's No. 1 class mean to 2018 team?",
+				"caption": "Jamaree Salyer is one of several incoming Bulldogs with huge potential.",
+				"credit": "Jeff Sentell"
+			},
+			"media": [
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation01.jpg",
+					"title": "Former Georgia running back Nick Chubb",
+					"caption": "Former Georgia running back Nick Chubb expects big things out of the Bulldogs in 2018.",
+					"credit": "Sean M. Haffrey/Getty Images"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation02.jpg",
+					"title": "Who are Georgia football's top 2019 NFL Draft prospects?",
+					"caption": "Cornerback Deandre Baker figures to be Georgia football's top prospect in the 2019 NFL Draft.",
+					"credit": "Hyosub Shin/AJC"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation03.jpg",
+					"title": "Georgia joins Golden State Warriors, Notre Dame in concussion monitoring efforts",
+					"caption": "Georgia has joined forces with SyncThink, a California-based neuro-technology company that helps sports teams identify concussions.",
+					"credit": "Mike Zarrilli/Getty Images"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation04.jpg",
+					"title": "What Power 5 opponent would you like to see the Dawgs play?",
+					"caption": "Georgia vs. Clemson once was an annual rivalry, but no future games have been announced.",
+					"credit": "Streeter Lecka/Getty Images"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation06.jpg",
+					"title": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+					"caption": "Georgia Bulldogs defensive lineman Julian Rochester could be doing more than the typical Georgia nose tackle.",
+					"credit": "Bob Andres/AJC"
+				}
+			],
+			"locations": [
+				{
+					"latitude": 33.948005,
+					"longitude": -83.377322,
+					"name": "University of Georgia"
+				}
+			],
+			"related_content": {
+				"title": "More Stories",
+				"items": [
+					{
+						"headline": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+						"summary": "In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.",
+						"pub_date": "Tue, 08 May 2018 07:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related01.jpg",
+							"title": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+							"caption": "In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Why that 'Big 6' nickname fits Georgia target Jammie Robinson so well",
+						"summary": "Jammie \"Big 6\" Robinson is considering the chance to play at Notre Dame and Vanderbilt, among those other big-name options.",
+						"pub_date": "Mon, 07 May 2018 23:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related02.jpg",
+							"title": "Why that 'Big 6' nickname fits Georgia target Jammie Robinson so well",
+							"caption": "Jammie \"Big 6\" Robinson is considering the chance to play at Notre Dame and Vanderbilt, among those other big-name options.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Will money and team-apparel influences expose college football to more corruption?",
+						"summary": "There certainly has been much evidence of corruption in college basketball recruiting. That was apparent even before the FBI launched its ongoing investigation and started arresting college assistant coaches. Paying out money to land the best recruits in the county to suit up for State U is nothing new, but what takes this up a notch is this is the first time the federal government has gotten involved.",
+						"pub_date": "Mon, 07 May 2018 16:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related03.jpg",
+							"title": "Will money and team-apparel influences expose college football to more corruption?",
+							"caption": "There certainly has been much evidence of corruption in college basketball recruiting. That was apparent even before the FBI launched its ongoing investigation and started arresting college assistant coaches. Paying out money to land the best recruits in the county to suit up for State U is nothing new, but what takes this up a notch is this is the first time the federal government has gotten involved.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Former UGA OL Pat Allen announces transfer to Southeastern Louisiana",
+						"summary": "Former Georgia offensive lineman Pat Allen has made his decision on life after the Bulldogs.",
+						"pub_date": "Tue, 08 May 2018 09:11:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related04.jpg",
+							"title": "Former UGA OL Pat Allen announces transfer to Southeastern Louisiana",
+							"caption": "Former Georgia offensive lineman Pat Allen has made his decision on life after the Bulldogs.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					}
+				]
+			}
+		},
+		{
+			"headline": "Nick Chubb on Georgia football in 2018: ‘I think they can win it all'",
+			"subhead": "",
+			"creator": {
+				"name": "Cy Brown",
+				"title": "Dawgnation Staff",
+				"image": "http://www.rtodd.net/swift/images/dawgnation/creators/cybrown.jpg",
+				"social": [
+					{
+						"network": "facebook",
+						"user": ""
+					},
+					{
+						"network": "twitter",
+						"user": ""
+					},
+					{
+						"network": "instagram",
+						"user": ""
+					}
+				]
+			},
+			"item_class": "story",
+			"category": {
+				"title": "Football",
+				"background_color": "#d31c1e",
+				"text_color": "#fff"
+			},
+			"guid": "f21f6d26-aaaa-1111-8401-ed4dfe8ebc2c",
+			"pub_date": "Mon, 30 Apr 2018 09:25:00 EDT",
+			"summary": "With the NFL draft now in the rear-view mirror, it's safe to say that the decisions made by Nick Chubb, Sony Michel, Lorenzo Carter and Davin Bellamy to return for their senior seasons worked out for all parties involved. That's everyone, the players, the 2017 team and - according to Chubb - the future of the Georgia football program.",
+			"full_text": "<p><strong>With the NFL draft now in the rear-view mirror, it's safe to say that the decisions made by Nick Chubb, Sony Michel, Lorenzo Carter and Davin Bellamy to return for their senior seasons worked out for all parties involved. That's everyone, the players, the 2017 team and - according to Chubb - the future of the Georgia football program.</strong></p><p>Had the four come out a year ago, there was certainly the chance that all four would've been drafted. But there's almost no chance they would go as high as they did. With Chubb and Michel and particular, that's almost certainly true, given that last year the only running backs taken in the top 35 were Leonard Fournette and Christian McCaffrey. With Dalvin Cook, Alvin Kamara and Kareem Hunt all having strong years, it showed that running backs might more valuable in today's NFL. Chubb was taken with the No. 35 pick and Michel was No. 31 in the 2018 NFL Draft.</p><p>As for the team benefiting, Georgia won the SEC with a freshman quarterback, beat the Heisman Trophy winner and the No. 1 overall draft pick in the Rose Bowl and went toe-to-toe with Alabama in the title game.</p><p>The team success obviously plays a part in Georgia football looking as healthy as it does. The four who returned were an integral part of last year's success. And when speaking with Chubb last week about his decision to return, he said that his decision to stay was also going to help everyone else in the program.</p><p>\"I thought it helped a lot, but not just for me,\" Chubb said on his decision to return to school. \"Just the big picture and showing guys that we can be a championship-caliber team and we're a team that'll continue to be good into the future.\"</p><p>To an extent, we've already seen a few players make the same decision that Chubb did and it will no doubt make the team better. Deandre Baker had an excellent 2017 season and was a big reason first-round draft pick Calvin Ridley had his lowest receiving output of the year in the national title game. Given his size and play, its safe to say he would've been picked, especially when some are mentioning him as a possible first-round pick in 2019. Much of the same can be said for wide receiver Terry Godwin, who made a number of huge catches throughout the season, most memorably his one-handed touchdown grab against Notre Dame.</p><p>Both came back and they'll help offset some of the losses that their respective position groups face, much how Chubb, Michel, Carter and Bellamy did the year before.</p><p>When asked to give a prediction on how Georgia would possibly fare without him next year, Chubb didn't downplay expectations that he help set.</p><p>\"I think they can win it all, they just have to get the job done. Definitely a lot better,\" Chubb said.</p><p>Georgia football won't be better without Chubb or Roquan Smith or Isaiah Wynn. But given what Georgia has returning in guys like Baker, Godwin, quarterback Jake Fromm and most of the offensive line, Chubb isn't too far off in saying that next year's team is a national title contender. A year ago, it did seem a little unrealistic to say that about the 2017 team.</p><p>But Chubb's final season showed that the infrastructure is there to be a championship team. And even though he won't play a snap for Georgia next year, Chubb and his now NFL bound teammates are a big reason that his Georgia fans can legitimately believe in winning a naitonal title.</p>",
+			"lead_media": {
+				"type": "image",
+				"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation01.jpg",
+				"title": "Former Georgia running back Nick Chubb",
+				"caption": "Former Georgia running back Nick Chubb expects big things out of the Bulldogs in 2018.",
+				"credit": "Sean M. Haffrey/Getty Images"
+			},
+			"media": [
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation02.jpg",
+					"title": "Who are Georgia football's top 2019 NFL Draft prospects?",
+					"caption": "Cornerback Deandre Baker figures to be Georgia football's top prospect in the 2019 NFL Draft.",
+					"credit": "Hyosub Shin/AJC"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation03.jpg",
+					"title": "Georgia joins Golden State Warriors, Notre Dame in concussion monitoring efforts",
+					"caption": "Georgia has joined forces with SyncThink, a California-based neuro-technology company that helps sports teams identify concussions.",
+					"credit": "Mike Zarrilli/Getty Images"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation04.jpg",
+					"title": "What Power 5 opponent would you like to see the Dawgs play?",
+					"caption": "Georgia vs. Clemson once was an annual rivalry, but no future games have been announced.",
+					"credit": "Streeter Lecka/Getty Images"
+				}
+			],
+			"locations": [
+				{
+					"latitude": 33.948005,
+					"longitude": -83.377322,
+					"name": "University of Georgia"
+				}
+			],
+			"related_content": {
+				"title": "More Stories",
+				"items": [
+					{
+						"headline": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+						"summary": "In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.",
+						"pub_date": "Tue, 08 May 2018 07:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related01.jpg",
+							"title": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+							"caption": "In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Why that 'Big 6' nickname fits Georgia target Jammie Robinson so well",
+						"summary": "Jammie \"Big 6\" Robinson is considering the chance to play at Notre Dame and Vanderbilt, among those other big-name options.",
+						"pub_date": "Mon, 07 May 2018 23:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related02.jpg",
+							"title": "Why that 'Big 6' nickname fits Georgia target Jammie Robinson so well",
+							"caption": "Jammie \"Big 6\" Robinson is considering the chance to play at Notre Dame and Vanderbilt, among those other big-name options.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Will money and team-apparel influences expose college football to more corruption?",
+						"summary": "There certainly has been much evidence of corruption in college basketball recruiting. That was apparent even before the FBI launched its ongoing investigation and started arresting college assistant coaches. Paying out money to land the best recruits in the county to suit up for State U is nothing new, but what takes this up a notch is this is the first time the federal government has gotten involved.",
+						"pub_date": "Mon, 07 May 2018 16:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related03.jpg",
+							"title": "Will money and team-apparel influences expose college football to more corruption?",
+							"caption": "There certainly has been much evidence of corruption in college basketball recruiting. That was apparent even before the FBI launched its ongoing investigation and started arresting college assistant coaches. Paying out money to land the best recruits in the county to suit up for State U is nothing new, but what takes this up a notch is this is the first time the federal government has gotten involved.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Former UGA OL Pat Allen announces transfer to Southeastern Louisiana",
+						"summary": "Former Georgia offensive lineman Pat Allen has made his decision on life after the Bulldogs.",
+						"pub_date": "Tue, 08 May 2018 09:11:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related04.jpg",
+							"title": "Former UGA OL Pat Allen announces transfer to Southeastern Louisiana",
+							"caption": "Former Georgia offensive lineman Pat Allen has made his decision on life after the Bulldogs.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					}
+				]
+			}
+		},
+		{
+			"headline": "Who are Georgia football's top 2019 NFL Draft prospects?",
+			"subhead": "Welcome to Good Day, UGA, your one-stop shop for Georgia football news and takes. Check us out every weekday morning for everything you need to know about Georgia football, recruiting, basketball and more.",
+			"creator": {
+				"name": "Cy Brown",
+				"title": "Dawgnation Staff",
+				"image": "http://www.rtodd.net/swift/images/dawgnation/creators/cybrown.jpg",
+				"social": [
+					{
+						"network": "facebook",
+						"user": ""
+					},
+					{
+						"network": "twitter",
+						"user": ""
+					},
+					{
+						"network": "instagram",
+						"user": ""
+					}
+				]
+			},
+			"item_class": "story",
+			"category": {
+				"title": "Football",
+				"background_color": "#d31c1e",
+				"text_color": "#fff"
+			},
+			"guid": "f21f6d26-aaaa-1111-8401-ed4dfe8ebc2c",
+			"pub_date": "Mon, 30 Apr 2018 09:25:00 EDT",
+			"summary": "With the NFL draft now in the rear-view mirror, it's safe to say that the decisions made by Nick Chubb, Sony Michel, Lorenzo Carter and Davin Bellamy to return for their senior seasons worked out for all parties involved. That's everyone, the players, the 2017 team and - according to Chubb - the future of the Georgia football program.",
+			"full_text": "<p><em>Georgia's top 2019 prospects</em></p><p>2018 was a banner year for Georgia football in the NFL draft. The Dawgs had six players taken in the 2018 NFL Draft - a school-record three going in the first round - which is tied for third-most from a single school alongside three others. Georgia is traditionally one of the top-performing programs in the NFL draft, and there's no reason to expect that to slow down under coach Kirby Smart.</p><p>Although Georgia is unlikely to see three players selected in the first round again in 2019, there are still plenty of talented Dawgs who teams will be lining up to draft. A lot can and will change between now and next April, but that doesn't mean we can't take an early look at Georgia's best potential draftees. In order, here are the players I consider to be UGA's top 2019 NFL Draft prospects:</p><p>Deandre Baker, CB, Senior - Baker figures to be Georgia's best prospect in the 2019 draft, as well as Georgia's best corner prospect since Tim Jennings. If he is as dominant this season as he was last, there's a good chance he'll go off the board in the first round.</p><p>Tyler Clark, DT, Junior - Clark made larger strides than perhaps any other Georgia player last season and ended the year as one of the best on defense. He has all the size and athleticism you want from an NFL defensive lineman. If he progresses as much as a junior year as he did as a sophomore, I doubt he'll stick around for a fourth year.</p><p>J.R. Reed, S, Redshirt junior  - Reed plays with aggression, instincts and speed. He's a missile in the secondary. On top of all that, his father played in the NFL. In all likelihood, he'll be ready to make the jump next season.</p><p>D'Andre Walker, OLB, Senior - Walker led the team in sacks as a backup last season. It's safe to say he has the pass-rushing aspect of his game down pat. More will be asked of him this season, but if he's consistently proficient in coverage and against the run, he could be next in a growing line of Georgia linebackers to go high in the draft.</p><p>Jonathan Ledbetter, DE, Senior - Ledbetter considered jumping to the NFL after his junior season but decided to take one more season to refine his skills. If he can become a more adept pass rusher, his stock should go up this season.</p><p>Terry Godwin, WR, Senior - Aside from a few highlight-reel snags, Godwin has been steady but unspectacular in his first three seasons. But he'll be a major target for Jake Fromm this season, giving him a good chance to raise his stock.</p><p>Isaac Nauta, TE, Junior - Nauta looked like a future star as a freshman but saw a huge dip in production as a sophomore, thanks to a diminished focus on tight ends in the passing game. That isn't necessarily a negative, though. It's allowed him to improve his blocking and become a more complete tight end. Regardless of production, he has all the measurables to play in the NFL.</p>",
+			"lead_media": {
+				"type": "image",
+				"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation02.jpg",
+				"title": "Who are Georgia football's top 2019 NFL Draft prospects?",
+				"caption": "Cornerback Deandre Baker figures to be Georgia football's top prospect in the 2019 NFL Draft.",
+				"credit": "Hyosub Shin/AJC"
+			},
+			"media": [
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation01.jpg",
+					"title": "Former Georgia running back Nick Chubb",
+					"caption": "Former Georgia running back Nick Chubb expects big things out of the Bulldogs in 2018.",
+					"credit": "Sean M. Haffrey/Getty Images"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation03.jpg",
+					"title": "Georgia joins Golden State Warriors, Notre Dame in concussion monitoring efforts",
+					"caption": "Georgia has joined forces with SyncThink, a California-based neuro-technology company that helps sports teams identify concussions.",
+					"credit": "Mike Zarrilli/Getty Images"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation04.jpg",
+					"title": "What Power 5 opponent would you like to see the Dawgs play?",
+					"caption": "Georgia vs. Clemson once was an annual rivalry, but no future games have been announced.",
+					"credit": "Streeter Lecka/Getty Images"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation06.jpg",
+					"title": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+					"caption": "Georgia Bulldogs defensive lineman Julian Rochester could be doing more than the typical Georgia nose tackle.",
+					"credit": "Bob Andres/AJC"
+				}
+			],
+			"locations": [
+				{
+					"latitude": 33.948005,
+					"longitude": -83.377322,
+					"name": "University of Georgia"
+				}
+			],
+			"related_content": {
+				"title": "More Stories",
+				"items": [
+					{
+						"headline": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+						"summary": "In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.",
+						"pub_date": "Tue, 08 May 2018 07:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related01.jpg",
+							"title": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+							"caption": "In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Why that 'Big 6' nickname fits Georgia target Jammie Robinson so well",
+						"summary": "Jammie \"Big 6\" Robinson is considering the chance to play at Notre Dame and Vanderbilt, among those other big-name options.",
+						"pub_date": "Mon, 07 May 2018 23:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related02.jpg",
+							"title": "Why that 'Big 6' nickname fits Georgia target Jammie Robinson so well",
+							"caption": "Jammie \"Big 6\" Robinson is considering the chance to play at Notre Dame and Vanderbilt, among those other big-name options.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Will money and team-apparel influences expose college football to more corruption?",
+						"summary": "There certainly has been much evidence of corruption in college basketball recruiting. That was apparent even before the FBI launched its ongoing investigation and started arresting college assistant coaches. Paying out money to land the best recruits in the county to suit up for State U is nothing new, but what takes this up a notch is this is the first time the federal government has gotten involved.",
+						"pub_date": "Mon, 07 May 2018 16:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related03.jpg",
+							"title": "Will money and team-apparel influences expose college football to more corruption?",
+							"caption": "There certainly has been much evidence of corruption in college basketball recruiting. That was apparent even before the FBI launched its ongoing investigation and started arresting college assistant coaches. Paying out money to land the best recruits in the county to suit up for State U is nothing new, but what takes this up a notch is this is the first time the federal government has gotten involved.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Former UGA OL Pat Allen announces transfer to Southeastern Louisiana",
+						"summary": "Former Georgia offensive lineman Pat Allen has made his decision on life after the Bulldogs.",
+						"pub_date": "Tue, 08 May 2018 09:11:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related04.jpg",
+							"title": "Former UGA OL Pat Allen announces transfer to Southeastern Louisiana",
+							"caption": "Former Georgia offensive lineman Pat Allen has made his decision on life after the Bulldogs.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					}
+				]
+			}
+		},
+		{
+			"headline": "Georgia joins Golden State Warriors, Notre Dame in concussion monitoring efforts",
+			"subhead": "",
+			"creator": {
+				"name": "Cy Brown",
+				"title": "Dawgnation Staff",
+				"image": "http://www.rtodd.net/swift/images/dawgnation/creators/cybrown.jpg",
+				"social": [
+					{
+						"network": "facebook",
+						"user": ""
+					},
+					{
+						"network": "twitter",
+						"user": ""
+					},
+					{
+						"network": "instagram",
+						"user": ""
+					}
+				]
+			},
+			"item_class": "story",
+			"category": {
+				"title": "Football",
+				"background_color": "#d31c1e",
+				"text_color": "#fff"
+			},
+			"guid": "f21f6d26-aaaa-1111-8401-ed4dfe8ebc2c",
+			"pub_date": "Mon, 30 Apr 2018 09:25:00 EDT",
+			"summary": "All 19 of Georgia's athletic programs will have an added layer of concussion monitoring following an agreement with California-based company SyncThink.",
+			"full_text": "<p>All 19 of Georgia's athletic programs will have an added layer of concussion monitoring following an agreement with California-based company SyncThink.</p><p>The neuro-technology leaders officially announced a partnership Monday with the University of Georgia Athletics Association. SyncThink had previously aligned with the NBA's Golden State Warriors and the University of Notre Dame, among others.</p><p>Stanford neurosurgeon Dr. Jamshid Ghajar spent a decade developing the EYE-SYNC technology, which \"uses a modified virtual-reality goggle to objectively measure and detect visual impairments in less than a minute,\" per a press release. The headset wirelessly connects to a sideline tablet, which quickly relays the necessary information to medical professionals.</p><p>As ESPN.com's Stephania Bell noted last fall, the technology does not diagnose concussions. Rather, it helps staff members identify visual impairments typically associated with brain injuries, allowing them to make more informed decisions in the heat of the moment.</p><p>The University of Texas, the Pac-12 Conference and Massachusetts General Hospital are included on the list of other clients.</p><p>SyncThink CCO Scott Anderson called the partnership with Georgia and director of sports medicine Ron Courson a \"great opportunity,\" and that the Bulldogs should find plenty of uses for the technology.</p><p>\"I expect we will  see them do some interesting things with our solution in an effort to more comprehensively understand how to ensure their athletes are ready to perform at their best,\" Anderson said in the press release. \"Objectively measuring readiness is a new frontier and what we are all about.\"</p><p>SyncThink employs former Stanford and current New Orleans Saints tight end Coby Fleener on its \"athlete advisory board,\" and he's been a vocal proponent of the system.</p><p>\"The biggest challenge to medical professionals and athletes working together is objectivity of tests,\" Fleener told ESPN.com's Bell last year. \"With this technology, the medical staff can say, ‘Here are these objective results for this test.' It's a huge help to give the athlete confidence, not only about when to sit out, but also when to go back in.\"</p><p>Concussions have been the subject of much debate - and legal action - in professional football over the past decade. Prevention and diagnosis have become key issues at all levels of the game.</p><p>SEC commissioner Greg Sankey helped push through a landmark NCAA rule in 2016 that gave \"autonomous and final authority\" to medical officials when deciding whether an athlete can return to the playing field after concussions and other injuries.</p><p>But that authority does not make it much easier for professionals to identify and treat concussions. SyncThink hopes to be the missing piece of the puzzle for Georgia and others.</p><p>\"Onboarding such a prestigious program as University of Georgia is further example of using EYE-SYNC's objective measurements of injury and performance as a best practice in the care of athletes and optimization of their training program\" CEO Laura Yecies said in the press release. \"We're excited to continue working with top organizations adopting our platform as part of their athlete management protocol.\"</p>",
+			"lead_media": {
+				"type": "image",
+				"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation03.jpg",
+				"title": "Georgia joins Golden State Warriors, Notre Dame in concussion monitoring efforts",
+				"caption": "Georgia has joined forces with SyncThink, a California-based neuro-technology company that helps sports teams identify concussions.",
+				"credit": "Mike Zarrilli/Getty Images"
+			},
+			"media": [
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation01.jpg",
+					"title": "Former Georgia running back Nick Chubb",
+					"caption": "Former Georgia running back Nick Chubb expects big things out of the Bulldogs in 2018.",
+					"credit": "Sean M. Haffrey/Getty Images"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation02.jpg",
+					"title": "Who are Georgia football's top 2019 NFL Draft prospects?",
+					"caption": "Cornerback Deandre Baker figures to be Georgia football's top prospect in the 2019 NFL Draft.",
+					"credit": "Hyosub Shin/AJC"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation04.jpg",
+					"title": "What Power 5 opponent would you like to see the Dawgs play?",
+					"caption": "Georgia vs. Clemson once was an annual rivalry, but no future games have been announced.",
+					"credit": "Streeter Lecka/Getty Images"
+				}
+			],
+			"locations": [
+				{
+					"latitude": 33.948005,
+					"longitude": -83.377322,
+					"name": "University of Georgia"
+				}
+			],
+			"related_content": {
+				"title": "More Stories",
+				"items": [
+					{
+						"headline": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+						"summary": "In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.",
+						"pub_date": "Tue, 08 May 2018 07:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related01.jpg",
+							"title": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+							"caption": "In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Why that 'Big 6' nickname fits Georgia target Jammie Robinson so well",
+						"summary": "Jammie \"Big 6\" Robinson is considering the chance to play at Notre Dame and Vanderbilt, among those other big-name options.",
+						"pub_date": "Mon, 07 May 2018 23:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related02.jpg",
+							"title": "Why that 'Big 6' nickname fits Georgia target Jammie Robinson so well",
+							"caption": "Jammie \"Big 6\" Robinson is considering the chance to play at Notre Dame and Vanderbilt, among those other big-name options.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Will money and team-apparel influences expose college football to more corruption?",
+						"summary": "There certainly has been much evidence of corruption in college basketball recruiting. That was apparent even before the FBI launched its ongoing investigation and started arresting college assistant coaches. Paying out money to land the best recruits in the county to suit up for State U is nothing new, but what takes this up a notch is this is the first time the federal government has gotten involved.",
+						"pub_date": "Mon, 07 May 2018 16:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related03.jpg",
+							"title": "Will money and team-apparel influences expose college football to more corruption?",
+							"caption": "There certainly has been much evidence of corruption in college basketball recruiting. That was apparent even before the FBI launched its ongoing investigation and started arresting college assistant coaches. Paying out money to land the best recruits in the county to suit up for State U is nothing new, but what takes this up a notch is this is the first time the federal government has gotten involved.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Former UGA OL Pat Allen announces transfer to Southeastern Louisiana",
+						"summary": "Former Georgia offensive lineman Pat Allen has made his decision on life after the Bulldogs.",
+						"pub_date": "Tue, 08 May 2018 09:11:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related04.jpg",
+							"title": "Former UGA OL Pat Allen announces transfer to Southeastern Louisiana",
+							"caption": "Former Georgia offensive lineman Pat Allen has made his decision on life after the Bulldogs.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					}
+				]
+			}
+		},
+		{
+			"headline": "What Power 5 opponent would you like to see the Dawgs play?",
+			"subhead": "",
+			"creator": {
+				"name": "Cy Brown",
+				"title": "Dawgnation Staff",
+				"image": "http://www.rtodd.net/swift/images/dawgnation/creators/cybrown.jpg",
+				"social": [
+					{
+						"network": "facebook",
+						"user": ""
+					},
+					{
+						"network": "twitter",
+						"user": ""
+					},
+					{
+						"network": "instagram",
+						"user": ""
+					}
+				]
+			},
+			"item_class": "story",
+			"category": {
+				"title": "Football",
+				"background_color": "#d31c1e",
+				"text_color": "#fff"
+			},
+			"guid": "f21f6d26-aaaa-1111-8401-ed4dfe8ebc2c",
+			"pub_date": "Mon, 30 Apr 2018 09:25:00 EDT",
+			"summary": "The scheduling of future nonconference opponents for the Dawgs, the quarterback competition between Jake Fromm and Justin Fields, and the one glaring deficiency at G-Day are just some of what UGA fans are talking about as we head into the long offseason.",
+			"full_text": "<p>The scheduling of future nonconference opponents for the Dawgs, the quarterback competition between Jake Fromm and Justin Fields, and the one glaring deficiency at G-Day are just some of what UGA fans are talking about as we head into the long offseason.</p><p>Let's check out some fans' thoughts and questions in the latest installment of Junkyard Mail...</p><p>Any thoughts or rumors on the Dawgs trying to schedule a Power 5 opponent between 2021-2024? They have a home and home with UCLA in 2025 and 2026. I get playing two easier games each year with Georgia Tech, however, the other nonconference game should be versus a Power 5 school. Fans deserve those type games and will travel, as we saw versus Notre Dame. Clemson, Florida State, Texas, Oklahoma and Michigan are my top 5. Go Dawgs! </p><p>— Cam L.</p><p>I agree. Other than Notre Dame in Athens in 2019, the upcoming nonconference schedules, aside from permanent fixture Georgia Tech, definitely aren't very exciting (with the nadir being the 2018 lineup of Austin Peay, Middle Tennessee and UMass). As you mentioned, the Dawgs play UCLA in 2025-2026, and they also will play Virginia in the 2020 Chick-fil-A Kickoff Game in Atlanta. The recent addition of Indiana State of the FCS Missouri Valley Conference in 2023 doesn't qualify as what you're asking for, Cam. I doubt San Jose State in 2021 does, either.</p><p>As you say, scheduling a couple of cupcakes per season is understandable, but three is asking too much of the fan base. Plus, as we saw last season, an early game against a Power 5 nonconference opponent looks really good on a program's résumé come College Football Playoff time.</p><p>The most-wished-for opponent that I hear about from UGA fans is Clemson, located about 78 miles from Athens. Once a storied annual rivalry, it's been reduced to a couple of times a decade or less - no new games against the Tigers have been announced since the 2013-14 series, which the two programs split.</p><p>Clemson coach Dabo Swinney would be on board with the Dawgs and the Tigers playing more often, as he's mentioned numerous times in recent years. Just this past week, he said that reviving the rivalry would be \"great for both fan bases.\" And, a couple of years ago, Swinney said, \"If it were up to me, we would play Georgia every year. It just makes sense.\"</p><p>I doubt Clemson ever will return to Georgia's schedule on a yearly basis, because both schools also have annual nonconference games against in-state Power 5 rivals, and it would limit scheduling flexibility. But, as I've said numerous times here, I'd like to see Georgia-Clemson on the schedule more frequently.</p><p>As for other potential Power 5 opponents, Michigan also would be a popular choice, but UGA athletics director Greg McGarity has said that a pairing with the Wolverines isn't likely because they are \"tied up\" with other scheduling. A couple of years ago, it was reported the Bulldogs were working on scheduling another Big Ten opponent, but nothing appears to have come of that.</p><p>Personally, I'd like to see Texas on the schedule, and I imagine Longhorns fans would, too. A few years ago, The Dallas Morning News ranked the loss to Georgia in the Jan. 2, 1984, Cotton Bowl as the most heart-wrenching moment in Texas football history.</p><p>How about you? What Power 5 program would you like to see Georgia schedule in football?</p>",
+			"lead_media": {
+				"type": "image",
+				"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation04.jpg",
+				"title": "What Power 5 opponent would you like to see the Dawgs play?",
+				"caption": "Georgia vs. Clemson once was an annual rivalry, but no future games have been announced.",
+				"credit": "Streeter Lecka/Getty Images"
+			},
+			"media": [
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation01.jpg",
+					"title": "Former Georgia running back Nick Chubb",
+					"caption": "Former Georgia running back Nick Chubb expects big things out of the Bulldogs in 2018.",
+					"credit": "Sean M. Haffrey/Getty Images"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation02.jpg",
+					"title": "Who are Georgia football's top 2019 NFL Draft prospects?",
+					"caption": "Cornerback Deandre Baker figures to be Georgia football's top prospect in the 2019 NFL Draft.",
+					"credit": "Hyosub Shin/AJC"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/dawgnation/dawgnation03.jpg",
+					"title": "Georgia joins Golden State Warriors, Notre Dame in concussion monitoring efforts",
+					"caption": "Georgia has joined forces with SyncThink, a California-based neuro-technology company that helps sports teams identify concussions.",
+					"credit": "Mike Zarrilli/Getty Images"
+				}
+			],
+			"locations": [
+				{
+					"latitude": 33.948005,
+					"longitude": -83.377322,
+					"name": "University of Georgia"
+				}
+			],
+			"related_content": {
+				"title": "More Stories",
+				"items": [
+					{
+						"headline": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+						"summary": "In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.",
+						"pub_date": "Tue, 08 May 2018 07:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related01.jpg",
+							"title": "Georgia's defensive line has a lot riding on it - and a lot to prove in 2018",
+							"caption": "In college football, defensive lines win championships. If Georgia wants to perennially earn a place in the College Football Playoff and compete for a national title, it needs a D-line that is as deep as it is talented. Kirby Smart knows this well, which is why you should take him seriously when he voices concerns about the state of Georgia's defensive front.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Why that 'Big 6' nickname fits Georgia target Jammie Robinson so well",
+						"summary": "Jammie \"Big 6\" Robinson is considering the chance to play at Notre Dame and Vanderbilt, among those other big-name options.",
+						"pub_date": "Mon, 07 May 2018 23:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related02.jpg",
+							"title": "Why that 'Big 6' nickname fits Georgia target Jammie Robinson so well",
+							"caption": "Jammie \"Big 6\" Robinson is considering the chance to play at Notre Dame and Vanderbilt, among those other big-name options.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Will money and team-apparel influences expose college football to more corruption?",
+						"summary": "There certainly has been much evidence of corruption in college basketball recruiting. That was apparent even before the FBI launched its ongoing investigation and started arresting college assistant coaches. Paying out money to land the best recruits in the county to suit up for State U is nothing new, but what takes this up a notch is this is the first time the federal government has gotten involved.",
+						"pub_date": "Mon, 07 May 2018 16:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related03.jpg",
+							"title": "Will money and team-apparel influences expose college football to more corruption?",
+							"caption": "There certainly has been much evidence of corruption in college basketball recruiting. That was apparent even before the FBI launched its ongoing investigation and started arresting college assistant coaches. Paying out money to land the best recruits in the county to suit up for State U is nothing new, but what takes this up a notch is this is the first time the federal government has gotten involved.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					},
+					{
+						"headline": "Former UGA OL Pat Allen announces transfer to Southeastern Louisiana",
+						"summary": "Former Georgia offensive lineman Pat Allen has made his decision on life after the Bulldogs.",
+						"pub_date": "Tue, 08 May 2018 09:11:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/dawgnation/related/related04.jpg",
+							"title": "Former UGA OL Pat Allen announces transfer to Southeastern Louisiana",
+							"caption": "Former Georgia offensive lineman Pat Allen has made his decision on life after the Bulldogs.",
+							"credit": "Dawgnation"
+						},
+						"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c"
+					}
+				]
+			}
+		}
+	]
+}

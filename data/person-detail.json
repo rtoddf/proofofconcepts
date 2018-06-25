@@ -1,0 +1,21 @@
+{
+	"id": 1001,
+	"name": "Ben Barnes",
+	"short_bio": "British actor and singer",
+	"birth_date": "20 August 1981",
+	"imageName": "http://www.rtodd.net/swift/images/guys/ben-barnes.jpg",
+	"screen_shots": [
+		"http://www.rtodd.net/swift/images/guys/ben-barnes.jpg",
+		"http://www.rtodd.net/swift/images/guys/ben-barnes.jpg",
+		"http://www.rtodd.net/swift/images/guys/ben-barnes.jpg",
+		"http://www.rtodd.net/swift/images/guys/ben-barnes.jpg",
+		"http://www.rtodd.net/swift/images/guys/ben-barnes.jpg"
+	],
+	"long_bio": "In September 2006, Barnes was cast as Prince Caspian in The Chronicles of Narnia films Prince Caspian and The Voyage of the Dawn Treader. He has also played Tom Ward in the fantasy film Seventh Son, Dorian Gray in the 2009 adaptation of Oscar Wilde's The Picture of Dorian Gray, had supporting roles in The Words, and The Big Wedding, and portrayed Samuel Adams in the 2015 miniseries Sons of Liberty.",
+	"person_info": [
+		{
+			"name": "Something",
+			"value": "Value"
+		}
+	]
+}

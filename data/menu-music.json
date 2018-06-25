@@ -1,0 +1,70 @@
+{
+	"version": "1.0",
+	"title": "Music",
+	"branding": {
+		"logo": "http://www.rtodd.net/swift/images/reviews-music/logo.png",
+		"color_main": "#003264"
+	},
+	"menu_items": [
+		{
+			"title": "Home",
+			"view": ""
+		},
+		{
+			"title": "Alternative",
+			"view": ""
+		},
+		{
+			"title": "Blues",
+			"view": ""
+		},
+		{
+			"title": "Classical",
+			"view": ""
+		},
+		{
+			"title": "Comedy",
+			"view": ""
+		},
+		{
+			"title": "Country",
+			"view": ""
+		},
+		{
+			"title": "Dance",
+			"view": ""
+		},
+		{
+			"title": "Electronic",
+			"view": ""
+		},
+		{
+			"title": "Hip Hop/Rap",
+			"view": ""
+		},
+		{
+			"title": "Jazz",
+			"view": ""
+		},
+		{
+			"title": "K-Pop",
+			"view": ""
+		},
+		{
+			"title": "Latino",
+			"view": ""
+		},
+		{
+			"title": "Metal",
+			"view": ""
+		},
+		{
+			"title": "Pop",
+			"view": ""
+		},
+		{
+			"title": "Soundtrack",
+			"view": ""
+		}
+	]
+}

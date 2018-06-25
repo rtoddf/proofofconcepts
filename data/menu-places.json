@@ -1,0 +1,34 @@
+{
+	"version": "1.0",
+	"title": "Places",
+	"branding": {
+		"logo": "http://www.rtodd.net/swift/images/reviews-places/logo.png",
+		"color_main": "#603765"
+	},
+	"menu_items": [
+		{
+			"title": "Home",
+			"view": ""
+		},
+		{
+			"title": "Menu01",
+			"view": ""
+		},
+		{
+			"title": "Menu01",
+			"view": ""
+		},
+		{
+			"title": "Menu01",
+			"view": ""
+		},
+		{
+			"title": "Menu01",
+			"view": ""
+		},
+		{
+			"title": "Menu01",
+			"view": ""
+		}
+	]
+}

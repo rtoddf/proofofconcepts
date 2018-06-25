@@ -1,0 +1,94 @@
+{
+	"banner": [
+		{
+			"name": "Header",
+			"description": "",
+			"people": [
+				{
+					"id": 9004,
+					"name": "Nick Jonas",
+					"short_bio": "American singer, songwriter, actor, and record producer",
+					"birth_date": "September 16, 1992 ",
+					"imageName": "http://www.rtodd.net/swift/images/guys/nick-jonas.jpg",
+					"screen_shots": [
+						"http://www.rtodd.net/swift/images/guys/nick-jonas01.jpg",
+						"http://www.rtodd.net/swift/images/guys/nick-jonas01.jpg",
+						"http://www.rtodd.net/swift/images/guys/nick-jonas01.jpg",
+						"http://www.rtodd.net/swift/images/guys/nick-jonas01.jpg",
+						"http://www.rtodd.net/swift/images/guys/nick-jonas01.jpg"
+					],
+					"long_bio": "Jonas opted to form a band with his older brothers, Joe and Kevin, known as the Jonas Brothers. The group released their debut studio album It's About Time. In 2005, Nick was diagnosed with Type 1 Diabetes at the age of 13. In 2006, through the Columbia label, which failed to achieve commercial success.",
+					"person_info": [
+						{
+							"name": "Something",
+							"value": "Value"
+						}
+					]
+				},
+				{
+					"id": 9001,
+					"name": "Aaron Rhodes",
+					"short_bio": "Youtuber",
+					"birth_date": "",
+					"imageName": "http://www.rtodd.net/swift/images/guys/aaron-rhodes.jpg",
+					"screen_shots": [
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg",
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg",
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg",
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg",
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg"
+					],
+					"long_bio": "In September 2006, Barnes was cast as Prince Caspian in The Chronicles of Narnia films Prince Caspian and The Voyage of the Dawn Treader. He has also played Tom Ward in the fantasy film Seventh Son, Dorian Gray in the 2009 adaptation of Oscar Wilde's The Picture of Dorian Gray, had supporting roles in The Words, and The Big Wedding, and portrayed Samuel Adams in the 2015 miniseries Sons of Liberty.",
+					"person_info": [
+						{
+							"name": "Something",
+							"value": "Value"
+						}
+					]
+				},
+				{
+					"id": 9002,
+					"name": "Connor Franta",
+					"short_bio": "American YouTuber, entrepreneur, entertainer, and writer",
+					"birth_date": "September 12, 1992",
+					"imageName": "http://www.rtodd.net/swift/images/guys/connor-franta.jpg",
+					"screen_shots": [
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg",
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg",
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg",
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg",
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg"
+					],
+					"long_bio": "In September 2006, Barnes was cast as Prince Caspian in The Chronicles of Narnia films Prince Caspian and The Voyage of the Dawn Treader. He has also played Tom Ward in the fantasy film Seventh Son, Dorian Gray in the 2009 adaptation of Oscar Wilde's The Picture of Dorian Gray, had supporting roles in The Words, and The Big Wedding, and portrayed Samuel Adams in the 2015 miniseries Sons of Liberty.",
+					"person_info": [
+						{
+							"name": "Something",
+							"value": "Value"
+						}
+					]
+				},
+				{
+					"id": 9003,
+					"name": "Colton Haynes",
+					"short_bio": "American actor, model and singer",
+					"birth_date": "July 13, 1988",
+					"imageName": "http://www.rtodd.net/swift/images/guys/colton-haynes.jpg",
+					"screen_shots": [
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg",
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg",
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg",
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg",
+						"http://www.rtodd.net/swift/images/guys/ben-barnes01.jpg"
+					],
+					"long_bio": "In September 2006, Barnes was cast as Prince Caspian in The Chronicles of Narnia films Prince Caspian and The Voyage of the Dawn Treader. He has also played Tom Ward in the fantasy film Seventh Son, Dorian Gray in the 2009 adaptation of Oscar Wilde's The Picture of Dorian Gray, had supporting roles in The Words, and The Big Wedding, and portrayed Samuel Adams in the 2015 miniseries Sons of Liberty.",
+					"person_info": [
+						{
+							"name": "Something",
+							"value": "Value"
+						}
+					]
+				}
+			]
+		}
+	]
+}

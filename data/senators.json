@@ -1,0 +1,2902 @@
+[
+	{
+		"name": "James M. Inhofe",
+		"shortname": "jamesminhofe",
+		"personal": [{
+			"birthdate": "November 17, 1934",
+			"birthplace": "Des Moines, IA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [41.6005448, -93.60910639999997]
+		}],
+		"state": "ok",
+		"region": "southwest",
+		"party": "republican",
+		"class": 2,
+		"took_office": 1994,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "205 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4721"
+		}],
+		"social": [{
+			"facebook": "jiminhofe",
+			"twitter": "jiminhofe",
+			"instagram": "",
+			"youtube": "JimInhofePressOffice",
+			"website": "http://www.inhofe.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Tom Coburn",
+		"shortname": "tomcoburn",
+		"personal": [{
+			"birthdate": "March 14, 1948",
+			"birthplace": "Casper, WY",
+			"sex": "m",
+			"race": "c",
+			"latlon": [42.866632, -106.31308100000001]
+		}],
+		"state": "ok",
+		"region": "southwest",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2005,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "172 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5754"
+		}],
+		"social": [{
+			"facebook": "teamcoburn",
+			"twitter": "TomCoburn",
+			"instagram": "",
+			"youtube": "SenatorCoburn",
+			"website": "http://www.coburn.senate.gov/"	
+		}]
+	},
+	{
+		"name": "David Vitter",
+		"shortname": "davidvitter",
+		"personal": [{
+			"birthdate": "May 3, 1961",
+			"birthplace": "New Orleans, LA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [29.95106579999999, -90.0715323]
+		}],
+		"state": "la",
+		"region": "southeast",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2005,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "516 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4623"
+		}],
+		"social": [{
+			"facebook": "DavidVitter",
+			"twitter": "DavidVitter",
+			"instagram": "",
+			"youtube": "SenatorVitter",
+			"website": "http://www.vitter.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Mary L. Landrieu",
+		"shortname": "maryllandrieu",
+		"personal": [{
+			"birthdate": "November 23, 1955",
+			"birthplace": "Arlington, VA",
+			"sex": "f",
+			"race": "c",
+			"latlon": [38.8799697, -77.1067698]
+		}],
+		"state": "la",
+		"region": "southeast",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 1997,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "703 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5824"
+		}],
+		"social": [{
+			"facebook": "senatormarylandrieu",
+			"twitter": "MaryLandrieu",
+			"instagram": "",
+			"youtube": "SenatorLandrieu",
+			"website": "http://www.landrieu.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Ted Cruz",
+		"shortname": "tedcruz",
+		"personal": [{
+			"birthdate": "December 22, 1970",
+			"birthplace": "Calgary, Alberta",
+			"sex": "m",
+			"race": "c",
+			"latlon": [51.0453246, -114.05810120000001]
+		}],
+		"state": "tx",
+		"region": "southwest",
+		"party": "republican",
+		"class": 1,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "185 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5922"
+		}],
+		"social": [{
+			"facebook": "SenatorTedCruz",
+			"twitter": "tedcruz",
+			"instagram": "",
+			"youtube": "SenTedCruz",
+			"website": "http://www.cruz.senate.gov/"	
+		}]
+	},
+	{
+		"name": "John Cornyn",
+		"shortname": "johncornyn",
+		"personal": [{
+			"birthdate": "February 2, 1952",
+			"birthplace": "Houston, TX",
+			"sex": "m",
+			"race": "c",
+			"latlon": [29.7601927, -95.36938959999998]
+		}],
+		"state": "tx",
+		"region": "southwest",
+		"party": "republican",
+		"class": 2,
+		"took_office": 2002,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "517 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2934"
+		}],
+		"social": [{
+			"facebook": "Sen.JohnCornyn",
+			"twitter": "JohnCornyn",
+			"instagram": "",
+			"youtube": "SenJohnCornyn",
+			"website": "http://www.cornyn.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Tom Udall",
+		"shortname": "tomudall",
+		"personal": [{
+			"birthdate": "May 18, 1948",
+			"birthplace": "Tuscon, AZ",
+			"sex": "m",
+			"race": "c",
+			"latlon": [32.2217429, -110.92647899999997]
+		}],
+		"state": "nm",
+		"region": "southwest",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 2009,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "110 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6621"
+		}],
+		"social": [{
+			"facebook": "senatortomudall",
+			"twitter": "SenatorTomUdall",
+			"instagram": "",
+			"youtube": "SenatorTomUdall",
+			"website": "http://www.tomudall.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Martin Heinrich",
+		"shortname": "martinheinrich",
+		"personal": [{
+			"birthdate": "October 17, 1971",
+			"birthplace": "Fallon, NV",
+			"sex": "m",
+			"race": "c",
+			"latlon": [39.4748693, -118.77704069999999]
+		}],
+		"state": "nm",
+		"region": "southwest",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "702 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5521"
+		}],
+		"social": [{
+			"facebook": "MartinHeinrich",
+			"twitter": "MartinHeinrich",
+			"instagram": "",
+			"youtube": "SenMartinHeinrich",
+			"website": "http://www.heinrich.senate.gov"	
+		}]
+	},
+	{
+		"name": "Rob Portman",
+		"shortname": "robportman",
+		"personal": [{
+			"birthdate": "December 19, 1955",
+			"birthplace": "Cincinnati, OH",
+			"sex": "m",
+			"race": "c",
+			"latlon": [39.1031182, -84.51201960000003]
+		}],
+		"state": "oh",
+		"region": "midwest",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2011,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "448 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3353"
+		}],
+		"social": [{
+			"facebook": "robportman",
+			"twitter": "robportman",
+			"instagram": "",
+			"youtube": "SenRobPortman",
+			"website": "https://www.portman.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Sherrod Brown",
+		"shortname": "sherrodbrown",
+		"personal": [{
+			"birthdate": "November 9, 1952",
+			"birthplace": "Mansfield, OH",
+			"sex": "m",
+			"race": "c",
+			"latlon": [40.75839, -82.51544710000002]
+		}],
+		"state": "oh",
+		"region": "midwest",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2007,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "713 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2315"
+		}],
+		"social": [{
+			"facebook": "sherrod",
+			"twitter": "SenSherrodBrown",
+			"instagram": "",
+			"youtube": "SherrodBrownOhio",
+			"website": "http://www.brown.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Joe Donnelly",
+		"shortname": "joedonnelly",
+		"personal": [{
+			"birthdate": "September 29, 1955",
+			"birthplace": "New York, NY",
+			"sex": "m",
+			"race": "c",
+			"latlon": [40.7056308, -73.9780035]
+		}],
+		"state": "in",
+		"region": "midwest",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "720 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4814"
+		}],
+		"social": [{
+			"facebook": "senatordonnelly",
+			"twitter": "SenDonnelly",
+			"instagram": "",
+			"youtube": "sendonnelly",
+			"website": "http://www.donnelly.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Daniel Coats",
+		"shortname": "danielcoats",
+		"personal": [{
+			"birthdate": "May 16, 1943",
+			"birthplace": "Jackson, MI",
+			"sex": "m",
+			"race": "c",
+			"latlon": [42.245869, -84.40134619999998]
+		}],
+		"state": "in",
+		"region": "midwest",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2011,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "493 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5623"
+		}],
+		"social": [{
+			"facebook": "",
+			"twitter": "SenDanCoats",
+			"instagram": "",
+			"youtube": "SenatorCoats",
+			"website": "http://www.coats.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Debbie Stabenow",
+		"shortname": "debbiestabenow",
+		"personal": [{
+			"birthdate": "April 29, 1950",
+			"birthplace": "Gladwin, MI",
+			"sex": "f",
+			"race": "c",
+			"latlon": [43.9808549, -84.48640069999999]
+		}],
+		"state": "mi",
+		"region": "midwest",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2001,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "133 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4822"
+		}],
+		"social": [{
+			"facebook": "stabenow",
+			"twitter": "stabenow",
+			"instagram": "",
+			"youtube": "SenatorStabenow",
+			"website": "http://www.stabenow.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Carl Levin",
+		"shortname": "carllevin",
+		"personal": [{
+			"birthdate": "June 28, 1934",
+			"birthplace": "Detroit, MI",
+			"sex": "m",
+			"race": "c",
+			"latlon": [42.331427, -83.0457538]
+		}],
+		"state": "mi",
+		"region": "midwest",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 1979,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "269 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6221"
+		}],
+		"social": [{
+			"facebook": "carllevin",
+			"twitter": "SenCarlLevin",
+			"instagram": "",
+			"youtube": "SenCarlLevin",
+			"website": "http://www.levin.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Mark Kirk",
+		"shortname": "markkirk",
+		"personal": [{
+			"birthdate": "September 15, 1959",
+			"birthplace": "Champaign, IL",
+			"sex": "m",
+			"race": "c",
+			"latlon": [40.1164204, -88.24338290000003]
+		}],
+		"state": "il",
+		"region": "midwest",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2010,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "524 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2854"
+		}],
+		"social": [{
+			"facebook": "SenatorKirk",
+			"twitter": "SenatorKirk",
+			"instagram": "",
+			"youtube": "SenatorKirk",
+			"website": "http://www.kirk.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Richard J. Durbin",
+		"shortname": "richardjdurbin",
+		"personal": [{
+			"birthdate": "November 21, 1944",
+			"birthplace": "East St. Louis, IL",
+			"sex": "m",
+			"race": "c",
+			"latlon": [38.624514, -90.1506465]
+		}],
+		"state": "il",
+		"region": "midwest",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 1997,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "711 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2152"
+		}],
+		"social": [{
+			"facebook": "SenatorDurbin",
+			"twitter": "SenatorDurbin",
+			"instagram": "",
+			"youtube": "",
+			"website": "http://www.durbin.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Ron Johnson",
+		"shortname": "ronjohnson",
+		"personal": [{
+			"birthdate": "April 8, 1955",
+			"birthplace": "Mankato, WI",
+			"sex": "m",
+			"race": "c",
+			"latlon": [43.0730517, -89.40123019999999]
+		}],
+		"state": "wi",
+		"region": "midwest",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2011,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "328 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5323"
+		}],
+		"social": [{
+			"facebook": "ron4senate",
+			"twitter": "SenRonJohnson",
+			"instagram": "",
+			"youtube": "SenatorRonJohnson",
+			"website": "http://www.ronjohnson.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Tammy Baldwin",
+		"shortname": "tammybaldwin",
+		"personal": [{
+			"birthdate": "February 11, 1962",
+			"birthplace": "Madison, WI",
+			"sex": "f",
+			"race": "c",
+			"latlon": [43.0730517, -89.40123019999999]
+		}],
+		"state": "wi",
+		"region": "midwest",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2013,
+		"facts": ["gay"],
+		"contact": [{
+			"address": "717 Hart Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5653"
+		}],
+		"social": [{
+			"facebook": "senatortammybaldwin",
+			"twitter": "SenatorBaldwin",
+			"instagram": "",
+			"youtube": "TammyBaldwinSenate",
+			"website": "http://www.baldwin.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Claire McCaskill",
+		"shortname": "clairemccaskill",
+		"personal": [{
+			"birthdate": "July 24, 1953",
+			"birthplace": "Rolla, MO",
+			"sex": "f",
+			"race": "c",
+			"latlon": [37.948544, -91.7715303]
+		}],
+		"state": "mo",
+		"region": "midwest",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2007,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "506 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6154"
+		}],
+		"social": [{
+			"facebook": "senatormccaskill",
+			"twitter": "McCaskillOffice",
+			"instagram": "",
+			"youtube": "SenatorMcCaskill",
+			"website": "http://www.mccaskill.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Roy Blunt",
+		"shortname": "royblunt",
+		"personal": [{
+			"birthdate": "January 10, 1950",
+			"birthplace": "Niangua, MO",
+			"sex": "m",
+			"race": "c",
+			"latlon": [37.3872686, -92.83267519999998]
+		}],
+		"state": "mo",
+		"region": "midwest",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2011,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "260 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5721"
+		}],
+		"social": [{
+			"facebook": "RoyForMissouri",
+			"twitter": "RoyBlunt",
+			"instagram": "",
+			"youtube": "SenatorBlunt",
+			"website": "http://www.blunt.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Tom Harkin",
+		"shortname": "tomharkin",
+		"personal": [{
+			"birthdate": "November 19, 1939",
+			"birthplace": "Cumming, IA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [41.4833235, -93.7624442]
+		}],
+		"state": "ia",
+		"region": "midwest",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 1985,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "731 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3254"
+		}],
+		"social": [{
+			"facebook": "tomharkin",
+			"twitter": "SenatorHarkin",
+			"instagram": "",
+			"youtube": "SenatorTomHarkin",
+			"website": "http://www.harkin.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Chuck Grassley",
+		"shortname": "chuckgrassley",
+		"personal": [{
+			"birthdate": "September 17, 1933",
+			"birthplace": "New Hartford, IA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [42.5669261, -92.62213680000002]
+		}],
+		"state": "ia",
+		"region": "midwest",
+		"party": "republican",
+		"class": 3,
+		"took_office": 1981,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "135 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3744"
+		}],
+		"social": [{
+			"facebook": "grassley",
+			"twitter": "ChuckGrassley",
+			"instagram": "",
+			"youtube": "SenChuckGrassley",
+			"website": "http://www.grassley.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Amy Klobuchar",
+		"shortname": "amyklobuchar",
+		"personal": [{
+			"birthdate": "May 25, 1960",
+			"birthplace": "Plymouth, MN",
+			"sex": "f",
+			"race": "c",
+			"latlon": [45.0105194, -93.45550930000002]
+		}],
+		"state": "mn",
+		"region": "midwest",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2007,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "302 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3244"
+		}],
+		"social": [{
+			"facebook": "amyklobuchar",
+			"twitter": "amyklobuchar",
+			"instagram": "",
+			"youtube": "SenatorKlobuchar",
+			"website": "http://www.klobuchar.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Al Franken",
+		"shortname": "alfranken",
+		"personal": [{
+			"birthdate": "May 21, 1951",
+			"birthplace": "New York, NY",
+			"sex": "m",
+			"race": "c",
+			"latlon": [40.7143528, -74.0059731]
+		}],
+		"state": "mn",
+		"region": "midwest",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 2009,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "309 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5641"
+		}],
+		"social": [{
+			"facebook": "Sen.Franken",
+			"twitter": "alfranken",
+			"instagram": "",
+			"youtube": "SenatorFranken",
+			"website": "http://www.franken.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Pat Roberts",
+		"shortname": "patroberts",
+		"personal": [{
+			"birthdate": "April 20, 1936",
+			"birthplace": "Topeka, KS",
+			"sex": "m",
+			"race": "c",
+			"latlon": [39.0558235, -95.68901849999997]
+		}],
+		"state": "ks",
+		"region": "midwest",
+		"party": "republican",
+		"class": 2,
+		"took_office": 1997,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "109 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4774"
+		}],
+		"social": [{
+			"facebook": "SenPatRoberts",
+			"twitter": "PatRoberts2014",
+			"instagram": "",
+			"youtube": "SenPatRoberts",
+			"website": "http://www.roberts.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Jerry Moran",
+		"shortname": "jerrymoran",
+		"personal": [{
+			"birthdate": "May 29, 1954",
+			"birthplace": "Great Bend, KS",
+			"sex": "m",
+			"race": "c",
+			"latlon": [38.3644567, -98.76480730000003]
+		}],
+		"state": "ks",
+		"region": "midwest",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2011,
+		"facts": ["Tea Party"],
+		"contact": [{
+			"address": "361A Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6521"
+		}],
+		"social": [{
+			"facebook": "jerrymoran",
+			"twitter": "JerryMoran",
+			"instagram": "",
+			"youtube": "SenatorJerryMoran",
+			"website": "http://www.moran.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Mike Johanns",
+		"shortname": "mikejohanns",
+		"personal": [{
+			"birthdate": "June 18, 1950",
+			"birthplace": "Osage, IA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [43.2841382, -92.81908379999999]
+		}],
+		"state": "ne",
+		"region": "midwest",
+		"party": "republican",
+		"class": 2,
+		"took_office": 2009,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "404 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4224"
+		}],
+		"social": [{
+			"facebook": "MikeJohanns",
+			"twitter": "Mike_Johanns",
+			"instagram": "",
+			"youtube": "SenatorMikeJohanns",
+			"website": "http://www.johanns.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Deb Fischer",
+		"shortname": "debfischer",
+		"personal": [{
+			"birthdate": "March 1, 1951",
+			"birthplace": "Lincoln, NE",
+			"sex": "f",
+			"race": "c",
+			"latlon": [40.806862, -96.68167900000003]
+		}],
+		"state": "ne",
+		"region": "midwest",
+		"party": "republican",
+		"class": 1,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "383 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6551"
+		}],
+		"social": [{
+			"facebook": "senatordebfischer",
+			"twitter": "SenatorFischer",
+			"instagram": "",
+			"youtube": "SenatorDebFischer",
+			"website": "http://www.fischer.senate.gov/"	
+		}]
+	},
+	{
+		"name": "John Thune",
+		"shortname": "johnthune",
+		"personal": [{
+			"birthdate": "January 7, 1961",
+			"birthplace": "Murdo, SD",
+			"sex": "m",
+			"race": "c",
+			"latlon": [43.8883224, -100.71291429999997]
+		}],
+		"state": "sd",
+		"region": "midwest",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2005,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "511 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2321"
+		}],
+		"social": [{
+			"facebook": "johnthune",
+			"twitter": "SenJohnThune",
+			"instagram": "",
+			"youtube": "JohnThune",
+			"website": "http://www.thune.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Tim Johnson",
+		"shortname": "timjohnson",
+		"personal": [{
+			"birthdate": "December 28, 1946",
+			"birthplace": "Canton, SD",
+			"sex": "m",
+			"race": "c",
+			"latlon": [43.3008146, -96.59281980000003]
+		}],
+		"state": "sd",
+		"region": "midwest",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 1997,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "136 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5842"
+		}],
+		"social": [{
+			"facebook": "",
+			"twitter": "RepTimJohnson",
+			"instagram": "",
+			"youtube": "SenatorJohnson",
+			"website": "http://www.johnson.senate.gov/"	
+		}]
+	},
+	{
+		"name": "Heidi Heitkamp",
+		"shortname": "heidiheitkamp",
+		"personal": [{
+			"birthdate": "October 30, 1955",
+			"birthplace": "Breckenridge, MN",
+			"sex": "f",
+			"race": "c",
+			"latlon": [46.26277779999999, -96.58694430000003]
+		}],
+		"state": "nd",
+		"region": "midwest",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "502 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2043"
+		}],
+		"social": [{
+			"facebook": "SenatorHeidiHeitkamp",
+			"twitter": "SenatorHeitkamp",
+			"instagram": "",
+			"youtube": "SenatorHeidiHeitkamp",
+			"website": "http://www.heitkamp.senate.gov/"	
+		}]
+	},
+	{
+		"name": "John Hoeven",
+		"shortname": "johnhoeven",
+		"personal": [{
+			"birthdate": "March 13, 1957",
+			"birthplace": "Bismark, ND",
+			"sex": "m",
+			"race": "c",
+			"latlon": [46.8083268, -100.78373920000001]
+		}],
+		"state": "nd",
+		"region": "midwest",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2011,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "338 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2551"
+		}],
+		"social": [{
+			"facebook": "SenatorJohnHoeven",
+			"twitter": "SenJohnHoeven",
+			"instagram": "",
+			"youtube": "SenatorJohnHoevenND",
+			"website": "http://www.hoeven.senate.gov/"
+		}]
+	},
+	{
+		"name": "Bernard Sanders",
+		"shortname": "bernardsanders",
+		"personal": [{
+			"birthdate": "September 8, 1941",
+			"birthplace": "New York, NY",
+			"sex": "m",
+			"race": "c",
+			"latlon": [40.7143528, -74.0059731]
+		}],
+		"state": "vt",
+		"region": "northeast",
+		"party": "independent",
+		"class": 1,
+		"took_office": 2007,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "332 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5141"
+		}],
+		"social": [{
+			"facebook": "senatorsanders",
+			"twitter": "SenSanders",
+			"instagram": "",
+			"youtube": "SenatorSanders",
+			"website": "http://www.sanders.senate.gov/"
+		}]
+	},
+	{
+		"name": "Patrick J. Leahy",
+		"shortname": "patrickjleahy",
+		"personal": [{
+			"birthdate": "March 31, 1940",
+			"birthplace": "Montpelier, VT",
+			"sex": "m",
+			"race": "c",
+			"latlon": [44.26005929999999, -72.57538690000001]
+		}],
+		"state": "vt",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 3,
+		"took_office": 2012,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "437 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4242"
+		}],
+		"social": [{
+			"facebook": "",
+			"twitter": "SenatorLeahy",
+			"instagram": "",
+			"youtube": "SenatorPatrickLeahy",
+			"website": "https://www.leahy.senate.gov/"
+		}]
+	},
+	{
+		"name": "Barbara A. Mikulski",
+		"shortname": "barbaraamikulski",
+		"personal": [{
+			"birthdate": "July 20, 1936",
+			"birthplace": "Baltimore, MD",
+			"sex": "f",
+			"race": "c",
+			"latlon": [39.2903848, -76.61218930000001]
+		}],
+		"state": "md",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 3,
+		"took_office": 1987,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "503 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4654"
+		}],
+		"social": [{
+			"facebook": "SenatorMikulski",
+			"twitter": "SenatorBarb",
+			"instagram": "",
+			"youtube": "SenatorMikulski",
+			"website": "http://www.mikulski.senate.gov/"
+		}]
+	},
+	{
+		"name": "Benjamin L. Cardin",
+		"shortname": "benjaminlcardin",
+		"personal": [{
+			"birthdate": "October 5, 1943",
+			"birthplace": "Baltimore, MD",
+			"sex": "m",
+			"race": "c",
+			"latlon": [39.2903848, -76.61218930000001]
+		}],
+		"state": "md",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2007,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "509 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4524"
+		}],
+		"social": [{
+			"facebook": "",
+			"twitter": "SenatorCardin",
+			"instagram": "",
+			"youtube": "SenatorCardin",
+			"website": "http://www.cardin.senate.gov/"
+		}]
+	},
+	{
+		"name": "Christopher A. Coons",
+		"shortname": "christopheracoons",
+		"personal": [{
+			"birthdate": "September 9, 1963",
+			"birthplace": "Greenwich, CT",
+			"sex": "m",
+			"race": "c",
+			"latlon": [41.0262417, -73.62819639999998]
+		}],
+		"state": "de",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 2010,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "127A Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5042"
+		}],
+		"social": [{
+			"facebook": "senatorchriscoons",
+			"twitter": "SenCoonsOffice",
+			"instagram": "",
+			"youtube": "senatorchriscoons",
+			"website": "http://www.coons.senate.gov/"
+		}]
+	},
+	{
+		"name": "Thomas R. Carper",
+		"shortname": "thomasrcarper",
+		"personal": [{
+			"birthdate": "January 23, 1947",
+			"birthplace": "Beckley, WV",
+			"sex": "m",
+			"race": "c",
+			"latlon": [41.03398620000001, -73.76290970000002]
+		}],
+		"state": "de",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2001,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "513 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2441"
+		}],
+		"social": [{
+			"facebook": "tomcarper",
+			"twitter": "SenatorCarper",
+			"instagram": "",
+			"youtube": "carperfordelaware",
+			"website": "http://www.carper.senate.gov/"
+		}]
+	},
+	{
+		"name": "Christopher Murphy",
+		"shortname": "christophermurphy",
+		"personal": [{
+			"birthdate": "August 3, 1973",
+			"birthplace": "White Plains, NY",
+			"sex": "m",
+			"race": "c",
+			"latlon": [41.03398620000001, -73.76290970000002]
+		}],
+		"state": "ct",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "303 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4041"
+		}],
+		"social": [{
+			"facebook": "ChrisMurphyCT",
+			"twitter": "ChrisMurphyCT",
+			"instagram": "",
+			"youtube": "SenChrisMurphy",
+			"website": "http://www.murphy.senate.gov/"
+		}]
+	},
+	{
+		"name": "Richard Blumenthal",
+		"shortname": "richardblumenthal",
+		"personal": [{
+			"birthdate": "February 13, 1946",
+			"birthplace": "Brooklyn, NY",
+			"sex": "m",
+			"race": "c",
+			"latlon": [40.65, -73.94999999999999]
+		}],
+		"state": "ct",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 3,
+		"took_office": 2011,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "724 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2823"
+		}],
+		"social": [{
+			"facebook": "SenBlumenthal",
+			"twitter": "SenBlumenthal",
+			"instagram": "",
+			"youtube": "SenatorBlumenthal",
+			"website": "https://www.blumenthal.senate.gov/"
+		}]
+	},
+	{
+		"name": "Sheldon Whitehouse",
+		"shortname": "sheldonwhitehouse",
+		"personal": [{
+			"birthdate": "October 20, 1955",
+			"birthplace": "New York, NY",
+			"sex": "m",
+			"race": "c",
+			"latlon": [40.7143528, -74.0059731]
+		}],
+		"state": "ri",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2007,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "530 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2921"
+		}],
+		"social": [{
+			"facebook": "SenatorWhitehouse",
+			"twitter": "SenWhitehouse",
+			"instagram": "",
+			"youtube": "SenatorWhitehouse",
+			"website": "http://www.whitehouse.senate.gov/"
+		}]
+	},
+	{
+		"name": "Jack Reed",
+		"shortname": "jackreed",
+		"personal": [{
+			"birthdate": "November 12, 1949",
+			"birthplace": "Cranston, RI",
+			"sex": "m",
+			"race": "c",
+			"latlon": [41.7798226, -71.43727960000001]
+		}],
+		"state": "ri",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 1997,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "728 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4642"
+		}],
+		"social": [{
+			"facebook": "SenJackReed",
+			"twitter": "SenJackReed",
+			"instagram": "",
+			"youtube": "SenatorReed",
+			"website": "http://www.reed.senate.gov/"
+		}]
+	},
+	{
+		"name": "Elizabeth Warren",
+		"shortname": "elizabethwarren",
+		"personal": [{
+			"birthdate": "June 22, 1949",
+			"birthplace": "Oklahoma City, OK",
+			"sex": "f",
+			"race": "c",
+			"latlon": [35.4675602, -97.51642759999999]
+		}],
+		"state": "ma",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "317 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4543"
+		}],
+		"social": [{
+			"facebook": "senatorelizabethwarren",
+			"twitter": "SenWarren",
+			"instagram": "",
+			"youtube": "senelizabethwarren",
+			"website": "http://www.warren.senate.gov/"
+		}]
+	},
+	{
+		"name": "Edward J. Markey",
+		"shortname": "edwardjmarkey",
+		"personal": [{
+			"birthdate": "July 11, 1946",
+			"birthplace": "Malden, MA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [42.4250964, -71.06616300000002]
+		}],
+		"state": "ma",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "218 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2742"
+		}],
+		"social": [{
+			"facebook": "EdJMarkey",
+			"twitter": "MarkeyMemo",
+			"instagram": "",
+			"youtube": "RepMarkey",
+			"website": "http://www.markey.senate.gov/"
+		}]
+	},
+	{
+		"name": "Jeanne Shaheen",
+		"shortname": "jeanneshaheen",
+		"personal": [{
+			"birthdate": "January 28, 1947",
+			"birthplace": "St. Charles, MO",
+			"sex": "f",
+			"race": "c",
+			"latlon": [42.7653662, -71.46756599999998]
+		}],
+		"state": "nh",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 2009,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "520 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2841"
+		}],
+		"social": [{
+			"facebook": "SenatorShaheen",
+			"twitter": "JeanneShaheen",
+			"instagram": "",
+			"youtube": "SenatorShaheen",
+			"website": "http://www.shaheen.senate.gov/"
+		}]
+	},
+	{
+		"name": "Kelly Ayotte",
+		"shortname": "kellyayotte",
+		"personal": [{
+			"birthdate": "June 27, 1968",
+			"birthplace": "Nashua, NH",
+			"sex": "f",
+			"race": "c",
+			"latlon": [42.7653662, -71.46756599999998]
+		}],
+		"state": "nh",
+		"region": "northeast",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2011,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "144 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3324"
+		}],
+		"social": [{
+			"facebook": "kellyayottenh",
+			"twitter": "KellyAyotte",
+			"instagram": "",
+			"youtube": "SenatorAyotte",
+			"website": "http://www.ayotte.senate.gov/"
+		}]
+	},
+	{
+		"name": "Angus S. King, Jr.",
+		"shortname": "angusskingjr",
+		"personal": [{
+			"birthdate": "March 31, 1944",
+			"birthplace": "Alexandria, VA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [38.8048355, -77.04692139999997]
+		}],
+		"state": "me",
+		"region": "northeast",
+		"party": "independent",
+		"class": 1,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "359 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5344"
+		}],
+		"social": [{
+			"facebook": "SenatorAngusSKingJr",
+			"twitter": "SenAngusKing",
+			"instagram": "",
+			"youtube": "senatorangusking",
+			"website": "http://www.king.senate.gov/"
+		}]
+	},
+	{
+		"name": "Susan M. Collins",
+		"shortname": "susanmcollins",
+		"personal": [{
+			"birthdate": "December 7, 1952",
+			"birthplace": "Caribou, MA",
+			"sex": "f",
+			"race": "c",
+			"latlon": [41.770447, -71.1712081]
+		}],
+		"state": "me",
+		"region": "northeast",
+		"party": "republican",
+		"class": 2,
+		"took_office": 1997,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "413 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2523"
+		}],
+		"social": [{
+			"facebook": "susancollins",
+			"twitter": "SenatorCollins",
+			"instagram": "",
+			"youtube": "",
+			"website": "http://www.collins.senate.gov/"
+		}]
+	},
+	{
+		"name": "Mark Udall",
+		"shortname": "markudall",
+		"personal": [{
+			"birthdate": "July 18, 1950",
+			"birthplace": "Tucson, AZ",
+			"sex": "m",
+			"race": "c",
+			"latlon": [32.2217429, -110.92647899999997]
+		}],
+		"state": "co",
+		"region": "west",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 2009,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "730 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5941"
+		}],
+		"social": [{
+			"facebook": "markudall",
+			"twitter": "MarkUdall",
+			"instagram": "",
+			"youtube": "SenatorMarkUdall",
+			"website": "http://www.markudall.senate.gov/"
+		}]
+	},
+	{
+		"name": "Michael F. Bennet",
+		"shortname": "michaelfbennet",
+		"personal": [{
+			"birthdate": "November 28, 1964",
+			"birthplace": "New Delhi, India",
+			"sex": "m",
+			"race": "c",
+			"latlon": [28.635308, 77.22496000000001]
+		}],
+		"state": "co",
+		"region": "west",
+		"party": "democrat",
+		"class": 3,
+		"took_office": 2009,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "458 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5852"
+		}],
+		"social": [{
+			"facebook": "senatorbennet",
+			"twitter": "BennetForCO",
+			"instagram": "",
+			"youtube": "SenatorBennet",
+			"website": "http://www.bennet.senate.gov/"
+		}]
+	},
+	{
+		"name": "Michael B. Enzi",
+		"shortname": "michaelbenzi",
+		"personal": [{
+			"birthdate": "February 1, 1944",
+			"birthplace": "Bremerton, WA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [47.5673202, -122.6329356]
+		}],
+		"state": "wy",
+		"region": "west",
+		"party": "republican",
+		"class": 2,
+		"took_office": 1997,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "379A Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3424"
+		}],
+		"social": [{
+			"facebook": "mikeenzi",
+			"twitter": "",
+			"instagram": "",
+			"youtube": "",
+			"website": "http://www.enzi.senate.gov/"
+		}]
+	},
+	{
+		"name": "John Barrasso",
+		"shortname": "johnbarrasso",
+		"personal": [{
+			"birthdate": "July 21, 1952",
+			"birthplace": "Reading, PA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [40.3356483, -75.92687469999998]
+		}],
+		"state": "wy",
+		"region": "west",
+		"party": "republican",
+		"class": 1,
+		"took_office": 2007,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "307 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6441"
+		}],
+		"social": [{
+			"facebook": "johnbarrasso",
+			"twitter": "SenJohnBarrasso",
+			"instagram": "",
+			"youtube": "barrassowyo",
+			"website": "http://www.barrasso.senate.gov/"
+		}]
+	},
+	{
+		"name": "John E. Walsh",
+		"shortname": "johnewalsh",
+		"personal": [{
+			"birthdate": "November 3, 1960",
+			"birthplace": "Butte, MT",
+			"sex": "m",
+			"race": "c",
+			"latlon": [46.0038232, -112.53477759999998]
+		}],
+		"state": "mt",
+		"region": "west",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 2014,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "2 Russell Courtyard Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2651"
+		}],
+		"social": [{
+			"facebook": "",
+			"twitter": "",
+			"instagram": "",
+			"youtube": "",
+			"website": "http://www.walsh.senate.gov/"
+		}]
+	},
+	{
+		"name": "John Tester",
+		"shortname": "johntester",
+		"personal": [{
+			"birthdate": "August 21, 1956",
+			"birthplace": "Havre, MT",
+			"sex": "m",
+			"race": "c",
+			"latlon": [48.549999, -109.68408870000002]
+		}],
+		"state": "mt",
+		"region": "west",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2007,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "706 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2644"
+		}],
+		"social": [{
+			"facebook": "senatortester",
+			"twitter": "jontester",
+			"instagram": "",
+			"youtube": "",
+			"website": "http://www.tester.senate.gov/"
+		}]
+	},
+	{
+		"name": "Mike Lee",
+		"shortname": "mikelee",
+		"personal": [{
+			"birthdate": "June 4, 1971",
+			"birthplace": "Mesa, AR",
+			"sex": "m",
+			"race": "c",
+			"latlon": [-34.5855904, -60.92325210000001]
+		}],
+		"state": "ut",
+		"region": "west",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2011,
+		"facts": ["Tea Party"],
+		"contact": [{
+			"address": "316 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5444"
+		}],
+		"social": [{
+			"facebook": "senatormikelee",
+			"twitter": "SenMikeLee",
+			"instagram": "",
+			"youtube": "senatormikelee",
+			"website": "http://www.lee.senate.gov/"
+		}]
+	},
+	{
+		"name": "Orrin G. Hatch",
+		"shortname": "orringhatch",
+		"personal": [{
+			"birthdate": "March 22, 1934",
+			"birthplace": "Pittsburgh, PA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [40.44062479999999, -79.99588640000002]
+		}],
+		"state": "ut",
+		"region": "west",
+		"party": "republican",
+		"class": 1,
+		"took_office": 1977,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "104 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5251"
+		}],
+		"social": [{
+			"facebook": "OrrinHatch",
+			"twitter": "",
+			"instagram": "",
+			"youtube": "",
+			"website": "http://www.hatch.senate.gov/"
+		}]
+	},
+	{
+		"name": "Harry Reid",
+		"shortname": "harryreid",
+		"personal": [{
+			"birthdate": "December 2, 1939",
+			"birthplace": "Searchlight, NV",
+			"sex": "m",
+			"race": "c",
+			"latlon": [35.4652685, -114.91970049999998]
+		}],
+		"state": "nv",
+		"region": "west",
+		"party": "democrat",
+		"class": 3,
+		"took_office": 1987,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "522 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3542"
+		}],
+		"social": [{
+			"facebook": "HarryReid",
+			"twitter": "SenatorReid",
+			"instagram": "",
+			"youtube": "SenatorReid",
+			"website": "http://www.reid.senate.gov/"
+		}]
+	},
+	{
+		"name": "Dean Heller",
+		"shortname": "deanheller",
+		"personal": [{
+			"birthdate": "May 10, 1960",
+			"birthplace": "Castro Valley, CA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [37.6940973, -122.08635219999996]
+		}],
+		"state": "nv",
+		"region": "west",
+		"party": "republican",
+		"class": 1,
+		"took_office": 2011,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "324 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6244"
+		}],
+		"social": [{
+			"facebook": "DeanHeller",
+			"twitter": "DeanHeller",
+			"instagram": "",
+			"youtube": "DeanHeller",
+			"website": "http://www.heller.senate.gov/"
+		}]
+	},
+	{
+		"name": "James E. Risch",
+		"shortname": "jameserisch",
+		"personal": [{
+			"birthdate": "May 3, 1943",
+			"birthplace": "Milwaukee, WI",
+			"sex": "m",
+			"race": "c",
+			"latlon": [43.0389025, -87.90647360000003]
+		}],
+		"state": "id",
+		"region": "west",
+		"party": "republican",
+		"class": 2,
+		"took_office": 2009,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "483 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2752"
+		}],
+		"social": [{
+			"facebook": "",
+			"twitter": "SenatorRisch",
+			"instagram": "",
+			"youtube": "SenatorJamesRisch",
+			"website": "http://www.risch.senate.gov/"
+		}]
+	},
+	{
+		"name": "Mike Crapo",
+		"shortname": "mikecrapo",
+		"personal": [{
+			"birthdate": "May 20, 1951",
+			"birthplace": "Bonneville County, ID",
+			"sex": "m",
+			"race": "c",
+			"latlon": [43.4508683, -111.54552890000002]
+		}],
+		"state": "id",
+		"region": "west",
+		"party": "republican",
+		"class": 3,
+		"took_office": 1999,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "239 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6142"
+		}],
+		"social": [{
+			"facebook": "mikecrapo",
+			"twitter": "MikeCrapo",
+			"instagram": "",
+			"youtube": "senatorcrapo",
+			"website": "http://www.crapo.senate.gov/"
+		}]
+	},
+	{
+		"name": "Brian Schatz",
+		"shortname": "brianschatz",
+		"personal": [{
+			"birthdate": "October 20, 1972",
+			"birthplace": "Ann Arbor, MI",
+			"sex": "m",
+			"race": "c",
+			"latlon": [42.2808256, -83.74303780000002]
+		}],
+		"state": "hi",
+		"region": "west",
+		"party": "democrat",
+		"class": 3,
+		"took_office": 2012,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "722 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3934"
+		}],
+		"social": [{
+			"facebook": "SenBrianSchatz",
+			"twitter": "SenBrianSchatz",
+			"instagram": "",
+			"youtube": "",
+			"website": "http://www.schatz.senate.gov/"
+		}]
+	},
+	{
+		"name": "Mazie K. Hirono",
+		"shortname": "maziekhirono",
+		"personal": [{
+			"birthdate": "November 3, 1947",
+			"birthplace": "Kōri, Fukushima, Japan",
+			"sex": "f",
+			"race": "c",
+			"latlon": [37.8495365, 140.51635220000003]
+		}],
+		"state": "hi",
+		"region": "west",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "330 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6361"
+		}],
+		"social": [{
+			"facebook": "mazie.hirono",
+			"twitter": "maziehirono",
+			"instagram": "",
+			"youtube": "CongresswomanHirono",
+			"website": "http://www.hirono.senate.gov/"
+		}]
+	},
+	{
+		"name": "Mark Begich",
+		"shortname": "markbegich",
+		"personal": [{
+			"birthdate": "March 30, 1962",
+			"birthplace": "Anchorage, AK",
+			"sex": "m",
+			"race": "c",
+			"latlon": [61.2180556, -149.90027780000003]
+		}],
+		"state": "ak",
+		"region": "west",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 2009,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "111 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3004"
+		}],
+		"social": [{
+			"facebook": "Begich",
+			"twitter": "MarkBegich",
+			"instagram": "",
+			"youtube": "USSenatorMarkBegich",
+			"website": "http://www.begich.senate.gov/"
+		}]
+	},
+	{
+		"name": "Lisa Murkowski",
+		"shortname": "lisamurkowski",
+		"personal": [{
+			"birthdate": "May 22, 1957",
+			"birthplace": "Ketchikan, AK",
+			"sex": "f",
+			"race": "c",
+			"latlon": [55.34222219999999, -131.64611109999998]
+		}],
+		"state": "ak",
+		"region": "west",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2002,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "709 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6665"
+		}],
+		"social": [{
+			"facebook": "SenLisaMurkowski",
+			"twitter": "lisamurkowski",
+			"instagram": "",
+			"youtube": "senatormurkowski",
+			"website": "http://www.murkowski.senate.gov/"
+		}]
+	},
+	{
+		"name": "Dianne Feinstein",
+		"shortname": "diannefeinstein",
+		"personal": [{
+			"birthdate": "June 22, 1933",
+			"birthplace": "San Francisco, CA",
+			"sex": "f",
+			"race": "c",
+			"latlon": [37.7749295, -122.41941550000001]
+		}],
+		"state": "ca",
+		"region": "west",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 1992,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "331 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3841"
+		}],
+		"social": [{
+			"facebook": "SenatorFeinstein",
+			"twitter": "SenFeinstein",
+			"instagram": "",
+			"youtube": "SenatorFeinstein",
+			"website": "https://www.feinstein.senate.gov/"
+		}]
+	},
+	{
+		"name": "Barbara Boxer",
+		"shortname": "barbaraboxer",
+		"personal": [{
+			"birthdate": "November 11, 1940",
+			"birthplace": "Brooklyn, NY",
+			"sex": "f",
+			"race": "c",
+			"latlon": [40.65, -73.94999999999999]
+		}],
+		"state": "ca",
+		"region": "west",
+		"party": "democrat",
+		"class": 3,
+		"took_office": 1993,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "112 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3553"
+		}],
+		"social": [{
+			"facebook": "senatorboxer",
+			"twitter": "BarbaraBoxer",
+			"instagram": "",
+			"youtube": "SenatorBoxer",
+			"website": "http://www.boxer.senate.gov/"
+		}]
+	},
+	{
+		"name": "Jeff Merkley",
+		"shortname": "jeffmerkley",
+		"personal": [{
+			"birthdate": "October 24, 1956",
+			"birthplace": "Myrtle Creek, OR",
+			"sex": "m",
+			"race": "c",
+			"latlon": [43.0201173, -123.29312049999999]
+		}],
+		"state": "or",
+		"region": "west",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 2009,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "313 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3753"
+		}],
+		"social": [{
+			"facebook": "JeffMerkleyOregon",
+			"twitter": "SenJeffMerkley",
+			"instagram": "",
+			"youtube": "SenatorJeffMerkley",
+			"website": "http://www.merkley.senate.gov/"
+		}]
+	},
+	{
+		"name": "Ron Wyden",
+		"shortname": "ronwyden",
+		"personal": [{
+			"birthdate": "May 3, 1949",
+			"birthplace": "Wichita, KS",
+			"sex": "m",
+			"race": "c",
+			"latlon": [37.68888889999999, -97.33611109999998]
+		}],
+		"state": "or",
+		"region": "west",
+		"party": "democrat",
+		"class": 3,
+		"took_office": 1996,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "221 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5244"
+		}],
+		"social": [{
+			"facebook": "wyden",
+			"twitter": "RonWyden",
+			"instagram": "",
+			"youtube": "SenRonWyden",
+			"website": "http://www.wyden.senate.gov/"
+		}]
+	},
+	{
+		"name": "Maria Cantwell",
+		"shortname": "mariacantwell",
+		"personal": [{
+			"birthdate": "October 13, 1958",
+			"birthplace": "Indianapolis, IN",
+			"sex": "f",
+			"race": "c",
+			"latlon": [39.768403, -86.15806800000001]
+		}],
+		"state": "wa",
+		"region": "west",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2001,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "311 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3441"
+		}],
+		"social": [{
+			"facebook": "senatorcantwell",
+			"twitter": "MariaCantwell",
+			"instagram": "",
+			"youtube": "mariacantwell2012",
+			"website": "http://www.cantwell.senate.gov/"
+		}]
+	},
+	{
+		"name": "Patty Murray",
+		"shortname": "pattymurray",
+		"personal": [{
+			"birthdate": "October 11, 1950",
+			"birthplace": "Bothell, WA",
+			"sex": "f",
+			"race": "c",
+			"latlon": [47.7623204, -122.20540349999999]
+		}],
+		"state": "wa",
+		"region": "west",
+		"party": "democrat",
+		"class": 3,
+		"took_office": 1993,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "154 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2621"
+		}],
+		"social": [{
+			"facebook": "pattymurray",
+			"twitter": "PattyMurray",
+			"instagram": "",
+			"youtube": "SenatorPattyMurray",
+			"website": "http://www.murray.senate.gov/"
+		}]
+	},
+	{
+		"name": "Jeff Flake",
+		"shortname": "jeffflake",
+		"personal": [{
+			"birthdate": "December 31, 1962",
+			"birthplace": "Snowflake, AR",
+			"sex": "m",
+			"race": "c",
+			"latlon": [34.258791, -94.357101]
+		}],
+		"state": "az",
+		"region": "southwest",
+		"party": "republican",
+		"class": 1,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "368 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4521"
+		}],
+		"social": [{
+			"facebook": "senatorjeffflake",
+			"twitter": "JeffFlake",
+			"instagram": "",
+			"youtube": "flakeoffice",
+			"website": "http://www.flake.senate.gov/"
+		}]
+	},
+	{
+		"name": "John McCain",
+		"shortname": "johnmccain",
+		"personal": [{
+			"birthdate": "August 29, 1936",
+			"birthplace": "Coco Solo, Panama Canal Zone",
+			"sex": "m",
+			"race": "c",
+			"latlon": [9.37262, -79.88119999999998]
+		}],
+		"state": "az",
+		"region": "southwest",
+		"party": "republican",
+		"class": 3,
+		"took_office": 1987,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "241 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2235"
+		}],
+		"social": [{
+			"facebook": "johnmccain",
+			"twitter": "SenJohnMcCain",
+			"instagram": "",
+			"youtube": "SenatorJohnMcCain",
+			"website": "http://www.mccain.senate.gov/"
+		}]
+	},
+	{
+		"name": "Charles E. Schumer",
+		"shortname": "charleseschumer",
+		"personal": [{
+			"birthdate": "November 23, 1950",
+			"birthplace": "Brooklyn, NY",
+			"sex": "m",
+			"race": "c",
+			"latlon": [40.65, -73.94999999999999]
+		}],
+		"state": "ny",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 3,
+		"took_office": 1999,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "322 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6542"
+		}],
+		"social": [{
+			"facebook": "chuckschumer",
+			"twitter": "SenSchumer",
+			"instagram": "",
+			"youtube": "SenatorSchumer",
+			"website": "http://www.schumer.senate.gov/"
+		}]
+	},
+	{
+		"name": "Kirsten E. Gillibrand",
+		"shortname": "kirstenegillibrand",
+		"personal": [{
+			"birthdate": "December 9, 1966",
+			"birthplace": "Albany, NY",
+			"sex": "f",
+			"race": "c",
+			"latlon": [42.6525793, -73.7562317]
+		}],
+		"state": "ny",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2009,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "478 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4451"
+		}],
+		"social": [{
+			"facebook": "KirstenGillibrand",
+			"twitter": "SenGillibrand",
+			"instagram": "kirstengillibrand",
+			"youtube": "KirstenEGillibrand",
+			"website": "http://www.gillibrand.senate.gov/"
+		}]
+	},
+	{
+		"name": "Robert Menendez",
+		"shortname": "robertmenendez",
+		"personal": [{
+			"birthdate": "January 1, 1954",
+			"birthplace": "New York, NY",
+			"sex": "m",
+			"race": "c",
+			"latlon": [40.7143528, -74.0059731]
+		}],
+		"state": "nj",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2006,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "528 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4744"
+		}],
+		"social": [{
+			"facebook": "MenendezForNJ",
+			"twitter": "Menendez4NJ",
+			"instagram": "",
+			"youtube": "SenatorMenendezNJ",
+			"website": "http://www.menendez.senate.gov/"
+		}]
+	},
+	{
+		"name": "Cory A. Booker",
+		"shortname": "coryabooker",
+		"personal": [{
+			"birthdate": "April 27, 1969",
+			"birthplace": "Washington, D.C.",
+			"sex": "m",
+			"race": "am",
+			"latlon": [38.90723089999999, -77.03646409999999]
+		}],
+		"state": "nj",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "141 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3224"
+		}],
+		"social": [{
+			"facebook": "corybooker",
+			"twitter": "CoryBooker",
+			"instagram": "",
+			"youtube": "CoryBookerdotcom",
+			"website": "http://www.booker.senate.gov/"
+		}]
+	},
+	{
+		"name": "Robert P. Casey Jr.",
+		"shortname": "robertpcaseyjr",
+		"personal": [{
+			"birthdate": "April 13, 1960",
+			"birthplace": "Scranton, PA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [41.408969, -75.6624122]
+		}],
+		"state": "pa",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2007,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "393 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6324"
+		}],
+		"social": [{
+			"facebook": "SenatorBobCasey",
+			"twitter": "Bob_Casey",
+			"instagram": "",
+			"youtube": "",
+			"website": "http://www.casey.senate.gov/"
+		}]
+	},
+	{
+		"name": "Patrick J. Toomey",
+		"shortname": "patrickjtoomey",
+		"personal": [{
+			"birthdate": "November 17, 1961",
+			"birthplace": "Providence, RI",
+			"sex": "m",
+			"race": "c",
+			"latlon": [41.8239891, -71.41283429999999]
+		}],
+		"state": "pa",
+		"region": "northeast",
+		"party": "democrat",
+		"class": 3,
+		"took_office": 2011,
+		"facts": ["Tea Party"],
+		"contact": [{
+			"address": "248 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4254"
+		}],
+		"social": [{
+			"facebook": "",
+			"twitter": "",
+			"instagram": "",
+			"youtube": "",
+			"website": "http://www.toomey.senate.gov/"
+		}]
+	},
+	{
+		"name": "John Boozman",
+		"shortname": "johnboozman",
+		"personal": [{
+			"birthdate": "December 10, 1950",
+			"birthplace": "Shreveport, LA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [32.5251516, -93.75017889999998]
+		}],
+		"state": "ar",
+		"region": "southeast",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2011,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "320 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4843"
+		}],
+		"social": [{
+			"facebook": "JohnBoozman",
+			"twitter": "JohnBoozman",
+			"instagram": "",
+			"youtube": "BoozmanPressOffice",
+			"website": "http://www.boozman.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Mark L. Pryor",
+		"shortname": "marklpryor",
+		"personal": [{
+			"birthdate": "January 10, 1963",
+			"birthplace": "Fayetteville, AR",
+			"sex": "m",
+			"race": "c",
+			"latlon": [36.0625795, -94.1574263]
+		}],
+		"state": "ar",
+		"region": "southeast",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 2003,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "255 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2353"
+		}],
+		"social": [{
+			"facebook": "MarkPryor",
+			"twitter": "SenMarkPryor",
+			"instagram": "",
+			"youtube": "",
+			"website": "http://www.pryor.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Richard Shelby",
+		"shortname": "richardshelby",
+		"personal": [{
+			"birthdate": "May 6, 1934",
+			"birthplace": "Birmingham, AL",
+			"sex": "m",
+			"race": "c",
+			"latlon": [33.520661, -86.80249]
+		}],
+		"state": "al",
+		"region": "southeast",
+		"party": "republican",
+		"class": 3,
+		"took_office": 1987,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "304 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5744"
+		}],
+		"social": [{
+			"facebook": "RichardShelby",
+			"twitter": "SenShelby",
+			"instagram": "",
+			"youtube": "SenatorRichardShelby",
+			"website": "http://www.shelby.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Jeff Sessions",
+		"shortname": "jeffsessions",
+		"personal": [{
+			"birthdate": "December 24, 1946",
+			"birthplace": "Selma, AL",
+			"sex": "m",
+			"race": "c",
+			"latlon": [32.407359, -87.021101]
+		}],
+		"state": "al",
+		"region": "southeast",
+		"party": "republican",
+		"class": 2,
+		"took_office": 1997,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "326 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4124"
+		}],
+		"social": [{
+			"facebook": "jeffsessions",
+			"twitter": "SenatorSessions",
+			"instagram": "",
+			"youtube": "SenatorSessions",
+			"website": "http://www.sessions.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Johnny Isakson",
+		"shortname": "johnnyisakson",
+		"personal": [{
+			"birthdate": "December 28, 1944",
+			"birthplace": "Atlanta, GA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [33.748995, -84.387982]
+		}],
+		"state": "ga",
+		"region": "southeast",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2005,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "131 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3643"
+		}],
+		"social": [{
+			"facebook": "isakson",
+			"twitter": "SenatorIsakson",
+			"instagram": "",
+			"youtube": "SenatorIsakson",
+			"website": "http://www.isakson.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Saxby Chambliss",
+		"shortname": "saxbychambliss",
+		"personal": [{
+			"birthdate": "November 10, 1943",
+			"birthplace": "Warrenton, NC",
+			"sex": "m",
+			"race": "c",
+			"latlon": [36.398480, -78.155271]
+		}],
+		"state": "ga",
+		"region": "southeast",
+		"party": "republican",
+		"class": 2,
+		"took_office": 2003,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "416 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3521"
+		}],
+		"social": [{
+			"facebook": "SaxbyChambliss",
+			"twitter": "SaxbyChambliss",
+			"instagram": "",
+			"youtube": "SenatorChambliss",
+			"website": "http://www.chambliss.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Marco Rubio",
+		"shortname": "marcorubio",
+		"personal": [{
+			"birthdate": "May 28, 1971",
+			"birthplace": "Miami, FL",
+			"sex": "m",
+			"race": "c",
+			"latlon": [25.788969, -80.226439]
+		}],
+		"state": "fl",
+		"region": "southeast",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2011,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "284 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3041"
+		}],
+		"social": [{
+			"facebook": "MarcoRubio",
+			"twitter": "marcorubio",
+			"instagram": "",
+			"youtube": "SenatorMarcoRubio",
+			"website": "http://www.rubio.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Bill Nelson",
+		"shortname": "billnelson",
+		"personal": [{
+			"birthdate": "September 29, 1942",
+			"birthplace": "Miami, FL",
+			"sex": "m",
+			"race": "c",
+			"latlon": [25.788969, -80.226439]
+		}],
+		"state": "fl",
+		"region": "southeast",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2001,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "716 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5274"
+		}],
+		"social": [{
+			"facebook": "billnelson",
+			"twitter": "SenBillNelson",
+			"instagram": "",
+			"youtube": "SenBillNelson",
+			"website": "http://www.billnelson.senate.gov/"
+		}]
+	},
+	{
+		"name": "Thad Cochran",
+		"shortname": "thadcochran",
+		"personal": [{
+			"birthdate": "December 7, 1937",
+			"birthplace": "Pontotoc, MS",
+			"sex": "m",
+			"race": "c",
+			"latlon": [34.247883, -88.998673]
+		}],
+		"state": "ms",
+		"region": "southeast",
+		"party": "republican",
+		"class": 2,
+		"took_office": 1978,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "113 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5054"
+		}],
+		"social": [{
+			"facebook": "Thad-Cochran",
+			"twitter": "Thad Cochran",
+			"instagram": "",
+			"youtube": "sencochran",
+			"website": "http://www.cochran.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Roger F. Wicker",
+		"shortname": "rogerfwicker",
+		"personal": [{
+			"birthdate": "July 5, 1951",
+			"birthplace": "Pontotoc, MS",
+			"sex": "m",
+			"race": "c",
+			"latlon": [34.247883, -88.998673]
+		}],
+		"state": "ms",
+		"region": "southeast",
+		"party": "republican",
+		"class": 1,
+		"took_office": 2007,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "555 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6253"
+		}],
+		"social": [{
+			"facebook": "SenatorWicker",
+			"twitter": "",
+			"instagram": "",
+			"youtube": "SenatorWicker",
+			"website": "http://www.wicker.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Lindsey Graham",
+		"shortname": "lindseygraham",
+		"personal": [{
+			"birthdate": "July 9, 1955",
+			"birthplace": "SC",
+			"sex": "m",
+			"race": "c",
+			"latlon": [33.836081, -81.163725]
+		}],
+		"state": "sc",
+		"region": "southeast",
+		"party": "republican",
+		"class": 2,
+		"took_office": 2003,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "290 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-5972"
+		}],
+		"social": [{
+			"facebook": "LindseyGrahamSC",
+			"twitter": "LindseyGrahamSC",
+			"instagram": "",
+			"youtube": "USSenLindseyGraham",
+			"website": "http://lgraham.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Tim Scott",
+		"shortname": "timscott",
+		"personal": [{
+			"birthdate": "September 19, 1965",
+			"birthplace": "North Charleston, SC",
+			"sex": "m",
+			"race": "am",
+			"latlon": [32.854620, -79.97481]
+		}],
+		"state": "sc",
+		"region": "southeast",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "167 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6121"
+		}],
+		"social": [{
+			"facebook": "SenatorTimScott",
+			"twitter": "SenatorTimScott",
+			"instagram": "",
+			"youtube": "SenatorTimScott",
+			"website": "http://www.scott.senate.gov/"
+		}]
+	},
+	{
+		"name": "Lamar Alexander",
+		"shortname": "lamaralexander",
+		"personal": [{
+			"birthdate": "July 3, 1940",
+			"birthplace": "Maryville, TN",
+			"sex": "m",
+			"race": "c",
+			"latlon": [35.756472, -83.970459]
+		}],
+		"state": "tn",
+		"region": "southeast",
+		"party": "republican",
+		"class": 2,
+		"took_office": 2003,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "455 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4944"
+		}],
+		"social": [{
+			"facebook": "senatorlamaralexander",
+			"twitter": "SenAlexander",
+			"instagram": "",
+			"youtube": "lamaralexander",
+			"website": "http://www.alexander.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Bob Corker",
+		"shortname": "bobcorker",
+		"personal": [{
+			"birthdate": "August 24, 1952",
+			"birthplace": "Orangeburg, SC",
+			"sex": "m",
+			"race": "c",
+			"latlon": [33.491820, -80.855648]
+		}],
+		"state": "tn",
+		"region": "southeast",
+		"party": "republican",
+		"class": 1,
+		"took_office": 2007,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "425 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3344"
+		}],
+		"social": [{
+			"facebook": "bobcorker",
+			"twitter": "SenBobCorker",
+			"instagram": "",
+			"youtube": "senatorcorker",
+			"website": "http://www.corker.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Mitch McConnell",
+		"shortname": "mitchmcconnell",
+		"personal": [{
+			"birthdate": "February 20, 1942",
+			"birthplace": "Sheffield, AL",
+			"sex": "m",
+			"race": "c",
+			"latlon": [34.765089, -87.698641]
+		}],
+		"state": "ky",
+		"region": "southeast",
+		"party": "republican",
+		"class": 2,
+		"took_office": 1985,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "317 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2541"
+		}],
+		"social": [{
+			"facebook": "McConnellForSenate",
+			"twitter": "McConnellPress",
+			"instagram": "",
+			"youtube": "McConnellForSenate",
+			"website": "http://www.mcconnell.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Rand Paul",
+		"shortname": "randpaul",
+		"personal": [{
+			"birthdate": "January 7, 1963",
+			"birthplace": "Pittsburgh, PA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [40.440625, -79.995886]
+		}],
+		"state": "ky",
+		"region": "southeast",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2011,
+		"facts": ["Tea Party"],
+		"contact": [{
+			"address": "124 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4343"
+		}],
+		"social": [{
+			"facebook": "RandPaul",
+			"twitter": "SenRandPaul",
+			"instagram": "",
+			"youtube": "SenatorRandPaul",
+			"website": "http://www.paul.senate.gov/"
+		}]
+	},
+	{
+		"name": "Richard Burr",
+		"shortname": "richardburr",
+		"personal": [{
+			"birthdate": "November 30, 1955",
+			"birthplace": "Charlottesville, VA",
+			"sex": "m",
+			"race": "c",
+			"latlon": [38.029306, -78.476678]
+		}],
+		"state": "nc",
+		"region": "southeast",
+		"party": "republican",
+		"class": 3,
+		"took_office": 2005,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "217 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3154"
+		}],
+		"social": [{
+			"facebook": "senatorburr",
+			"twitter": "SenatorBurr",
+			"instagram": "",
+			"youtube": "SenatorRichardBurr",
+			"website": "http://www.burr.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Kay R. Hagan",
+		"shortname": "kayrhagan",
+		"personal": [{
+			"birthdate": "May 26, 1953",
+			"birthplace": "Shelby, NC",
+			"sex": "f",
+			"race": "c",
+			"latlon": [35.292351, -81.535646]
+		}],
+		"state": "nc",
+		"region": "southeast",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 2009,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "521 Dirksen Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6342"
+		}],
+		"social": [{
+			"facebook": "SenatorHagan",
+			"twitter": "kayhagan",
+			"instagram": "",
+			"youtube": "HaganForSenate",
+			"website": "http://www.hagan.senate.gov/"
+		}]
+	},
+	{
+		"name": "Tim Kaine",
+		"shortname": "timkaine",
+		"personal": [{
+			"birthdate": "February 26, 1958",
+			"birthplace": "St. Paul, MN",
+			"sex": "m",
+			"race": "c",
+			"latlon": [44.953703, -93.089958]
+		}],
+		"state": "va",
+		"region": "southeast",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2013,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "388 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-4024"
+		}],
+		"social": [{
+			"facebook": "timkaine",
+			"twitter": "SenKaineOffice",
+			"instagram": "",
+			"youtube": "SenatorTimKaine",
+			"website": "http://www.kaine.senate.gov/"
+		}]
+	},
+	{
+		"name": "Mark R. Warner",
+		"shortname": "markrwarner",
+		"personal": [{
+			"birthdate": "December 15, 1954",
+			"birthplace": "Indianapolis, IN",
+			"sex": "m",
+			"race": "c",
+			"latlon": [39.768403, -86.158068]
+		}],
+		"state": "va",
+		"region": "southeast",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 2009,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "475 Russell Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-2023"
+		}],
+		"social": [{
+			"facebook": "MarkRWarner",
+			"twitter": "MarkWarner",
+			"instagram": "",
+			"youtube": "SenatorMarkWarner",
+			"website": "http://www.warner.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "Joe Manchin III",
+		"shortname": "joemanchiniii",
+		"personal": [{
+			"birthdate": "August 24, 1947",
+			"birthplace": "Farmingtion, WV",
+			"sex": "m",
+			"race": "c",
+			"latlon": [39.5128612, -80.24897149999998]
+		}],
+		"state": "wv",
+		"region": "southeast",
+		"party": "democrat",
+		"class": 1,
+		"took_office": 2010,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+			"address": "306 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-3954"
+		}],
+		"social": [{
+			"facebook": "JoeManchinIII",
+			"twitter": "Sen_JoeManchin",
+			"instagram": "",
+			"youtube": "joemanchinwv",
+			"website": "http://www.manchin.senate.gov/public/"
+		}]
+	},
+	{
+		"name": "John D. Rockefeller IV",
+		"shortname": "johndrockefelleriv",
+		"personal": [{
+			"birthdate": "June 18, 1937",
+			"birthplace": "New York, NY",
+			"sex": "m",
+			"race": "c",
+			"latlon": [40.7143528, -74.0059731]
+		}],
+		"state": "wv",
+		"region": "southeast",
+		"party": "democrat",
+		"class": 2,
+		"took_office": 1985,
+		"facts": ["Lorem ipsum dolor sit amet."],
+		"contact": [{
+		"address": "531 Hart Senate Office Building Washington DC 20510",
+			"email": "",
+			"phone": "(202) 224-6472"
+		}],
+		"social": [{
+			"facebook": "JohndrockefellerIV",
+			"twitter": "",
+			"instagram": "",
+			"youtube": "SenateCommercePress",
+			"website": "http://www.rockefeller.senate.gov/public/"
+		}]
+	}
+]
