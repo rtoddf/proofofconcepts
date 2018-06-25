@@ -2,7 +2,6 @@ import UIKit
 
 class GroupingCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout, UINavigationControllerDelegate {
     var mainController: MainViewController?
-    weak var navigationController: UINavigationController?
     
     let feedMusicSource = "reviews-music"
     let feedMoviesSource = "reviews-movies"
@@ -111,16 +110,12 @@ class GroupingCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegat
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         if indexPath.item % 7 == 0 {
             let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "articleImageLargeCellId", for: indexPath) as! ArticleImageLargeCell
-//            cell.groupCellIndex = groupCellIndex
-//            cell.layoutCellIndex = indexPath.row
-            cell.mainController = MainViewController()
             cell.article = articlesMovies?[groupCellIndex]
             return cell
         }
         
         if indexPath.item % 7 == 1 || indexPath.item % 7 == 2 {
             let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "articleImageLeftCellId", for: indexPath) as! ArticleImageLeftCell
-
             cell.article = articlesMusic?[getCellIndex(numItems: 2, group: groupCellIndex, item: indexPath.item)]
             return cell
         }

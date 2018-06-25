@@ -3,7 +3,6 @@ import UIKit
 class MainViewController: UICollectionViewController, UICollectionViewDelegateFlowLayout  {
     let groupingCellId = "groupingCellId"
     var menu:[Menu]?
-    let groupingCell = GroupingCell()
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -23,8 +22,6 @@ class MainViewController: UICollectionViewController, UICollectionViewDelegateFl
             self.menuLauncher.items = menuItems
             self.setupNavBarButtons()
         }
-        
-        groupingCell.mainController = self
     }
     
     func setupNavBarButtons() {
@@ -40,12 +37,6 @@ class MainViewController: UICollectionViewController, UICollectionViewDelegateFl
         launcher.mainController = self
         return launcher
     }()
-    
-//    lazy var groupingCell: GroupingCell = {
-//        let controller = GroupingCell()
-//        controller.mainController = self
-//        return controller
-//    }()
     
     @objc func showMenu(){
         menuLauncher.showMenu()
@@ -73,9 +64,7 @@ class MainViewController: UICollectionViewController, UICollectionViewDelegateFl
             navigationController?.pushViewController(sectionArticleViewController, animated: true)
         }
     }
-    
 
-    
     func showArticleDetail(article: Article) {
         let layout = UICollectionViewFlowLayout()
         let articleDetailController = ArticleDetailController(collectionViewLayout: layout)
@@ -88,7 +77,7 @@ class MainViewController: UICollectionViewController, UICollectionViewDelegateFl
     }
     
     @objc func handleSearch(){
-        print("navigationController")
+        print("handle search")
     }
     
     override func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
@@ -101,7 +90,6 @@ class MainViewController: UICollectionViewController, UICollectionViewDelegateFl
         // set maincontroller here!!! - https://stackoverflow.com/questions/31956495/uicollectionview-within-a-uicollectionviewcell-swift
 //        it's self, not MainViewController!!!!
         cell.mainController = self
-        cell.navigationController = navigationController
         return cell
     }
     
