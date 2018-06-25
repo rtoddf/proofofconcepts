@@ -1,6 +1,8 @@
 import UIKit
 
 class ArticleImageLargeCell:BaseCell {
+    var mainController: MainViewController?
+    
     var article:Article? {
         didSet {
             guard let leadMedia = article?.leadMedia?.path else { return }

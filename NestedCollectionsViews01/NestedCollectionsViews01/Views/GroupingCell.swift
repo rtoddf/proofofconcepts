@@ -1,7 +1,8 @@
 import UIKit
 
-class GroupingCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout {
+class GroupingCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout, UINavigationControllerDelegate {
     var mainController: MainViewController?
+    weak var navigationController: UINavigationController?
     
     let feedMusicSource = "reviews-music"
     let feedMoviesSource = "reviews-movies"
@@ -18,6 +19,8 @@ class GroupingCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegat
     var articlesMovies:[Article]?
     var articlesPlaces:[Article]?
     var events:[Event]?
+    
+    var result:[Article] = []
 
     var groupCellIndexSet:Int = 0
     var groupCellIndex: Int!{
@@ -75,6 +78,8 @@ class GroupingCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegat
             self.collectionView.reloadData()
         }
         
+        
+        
         collectionView.dataSource = self
         collectionView.delegate = self
         
@@ -108,6 +113,7 @@ class GroupingCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegat
             let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "articleImageLargeCellId", for: indexPath) as! ArticleImageLargeCell
 //            cell.groupCellIndex = groupCellIndex
 //            cell.layoutCellIndex = indexPath.row
+            cell.mainController = MainViewController()
             cell.article = articlesMovies?[groupCellIndex]
             return cell
         }
