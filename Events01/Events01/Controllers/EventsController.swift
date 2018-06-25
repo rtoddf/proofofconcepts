@@ -1,18 +1,16 @@
 import UIKit
 
 class EventsController: UICollectionViewController, UICollectionViewDelegateFlowLayout {
-    let feedMusicSource = "reviews-music"
-    let feedMoviesSource = "reviews-movies"
+    let feedSource = "reviews-movies"
     let version = ""
-    let menuFeed = "http://rtodd.net/swift/data/menu-music.json"
+    let menuFeed = "http://rtodd.net/swift/data/menu-movies.json"
     
     let imageLargeCellId = "imageLargeCellId"
     let imageLeftCellId = "imageLeftCellId"
     let imageRightCellId = "imageRightCellId"
     let imageTopCellId = "imageTopCellId"
 
-    var articlesMusic:[Article]?
-    var articlesMovies:[Article]?
+    var articles:[Article]?
 //    var logo:String?
     var menu:[Menu]?
     var largeStoryCellHeadlineHeight:CGFloat = 20.0
@@ -57,15 +55,10 @@ class EventsController: UICollectionViewController, UICollectionViewDelegateFlow
             navigationItemImageView.loadImageUsingUrlString(imageUrl: logo)
         }
 
-        let feedMusic = "\(feedMusicSource)\(version)"
-        Feed.downloadData(feedUrl: feedMusic) { articles in
-            self.articlesMusic = articles
-            self.collectionView?.reloadData()
-        }
-        
-        let feedMovies = "\(feedMoviesSource)\(version)"
-        Feed.downloadData(feedUrl: feedMovies) { articles in
-            self.articlesMovies = articles
+        let feed = "\(feedSource)\(version)"
+
+        Feed.downloadData(feedUrl: feed) { articles in
+            self.articles = articles
             self.collectionView?.reloadData()
         }
 
@@ -153,7 +146,7 @@ class EventsController: UICollectionViewController, UICollectionViewDelegateFlow
     }
     
     override func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        if let count = articlesMusic?.count {
+        if let count = articles?.count {
             return count
         }
         return 0
@@ -161,43 +154,25 @@ class EventsController: UICollectionViewController, UICollectionViewDelegateFlow
     
     override func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         if indexPath.item % 7 == 0 {
-//            print("articlesMusic: \(articlesMusic)")
-//            print("articlesMovies: \(articlesMovies)")
-            
-            if let count = articlesMovies?.count {
-                print("indexPath. count: \(count)")
-            }
-            
-            print("indexPath.item: \(indexPath.item)")
-            print("indexPath.row: \(indexPath.makeIterator())")
-            print("indexPath.section: \(indexPath.section)")
-            print("indexPath.item % 1: \(indexPath.item % 1)")
-            
-            var whichOne:Int = 0
-            
-            if indexPath.item >= 7 {
-                whichOne = 1
-            }
-            
             let cell = collectionView.dequeueReusableCell(withReuseIdentifier: imageLargeCellId, for: indexPath) as! ArticleImageLargeCell
-            cell.article = articlesMovies?[whichOne]
+            cell.article = articles?[indexPath.item]
             return cell
         }
         
         if indexPath.item % 7 == 1 || indexPath.item % 7 == 2 {
             let cell = collectionView.dequeueReusableCell(withReuseIdentifier: imageLeftCellId, for: indexPath) as! ArticleImageLeftCell
-            cell.article = articlesMusic?[indexPath.item]
+            cell.article = articles?[indexPath.item]
             return cell
         }
         
         if indexPath.item % 7 == 3 || indexPath.item % 7 == 4 {
             let cell = collectionView.dequeueReusableCell(withReuseIdentifier: imageRightCellId, for: indexPath) as! ArticleImageRightCell
-            cell.article = articlesMusic?[indexPath.item]
+            cell.article = articles?[indexPath.item]
             return cell
         }
         
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: imageTopCellId, for: indexPath) as! ArticleImageTopCell
-        cell.article = articlesMusic?[indexPath.item]
+        cell.article = articles?[indexPath.item]
         
         return cell
     }
@@ -231,7 +206,7 @@ class EventsController: UICollectionViewController, UICollectionViewDelegateFlow
     //    }
     
     override func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
-        guard let article = articlesMusic?[indexPath.item] else { return }
+        guard let article = articles?[indexPath.item] else { return }
         showArticleDetail(article: article)
     }
     

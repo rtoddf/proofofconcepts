@@ -15,7 +15,7 @@ import UIKit
 //    return NSMutableAttributedString(string: string + "\n", attributes: textAttributes)
 //}
 
-let group:String = "music"
+let group:String = "movies"
 
 func getCategoryColor(group:String, category:String) -> String {
     var categoryColors: [String: String] = [:]
