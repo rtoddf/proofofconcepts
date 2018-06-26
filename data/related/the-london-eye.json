@@ -33,10 +33,10 @@
 			"guid": "f21f6d26-aaaa-1111-8401-ed4dfe8ebc2c",
 			"pub_date": "Fri, 22 Jun 2018 09:25:00 EDT",
 			"summary": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
-			"full_text": "<p>The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.</p>",
+			"full_text": "<p>The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.</p><p>The structure is 135 metres (443 ft) tall and the wheel has a diameter of 120 metres (394 ft). When it opened to the public in 2000 it was the world's tallest Ferris wheel. Its height was surpassed by the 525-foot (160 m) Star of Nanchang in 2006, the 165 metres (541 ft) Singapore Flyer in 2008, and the 550-foot tall (167.6 m) High Roller (Las Vegas) in 2014. Supported by an A-frame on one side only, unlike the taller Nanchang and Singapore wheels, the Eye is described by its operators as \"the world's tallest cantilevered observation wheel\".</p><p>It is Europe's tallest Ferris wheel, and offered the highest public viewing point in London until it was superseded by the 245 metres (804 ft) high observation deck on the 72nd floor of The Shard, which opened to the public on 1 February 2013. It is the most popular paid tourist attraction in the United Kingdom with over 3.75 million visitors annually, and has made many appearances in popular culture.</p><p>The London Eye adjoins the western end of Jubilee Gardens (previously the site of the former Dome of Discovery), on the South Bank of the River Thames between Westminster Bridge and Hungerford Bridge beside County Hall, in the London Borough of Lambeth.</p><h3>Ownership and branding</h3><img src=\"http://www.rtodd.net/swift/images/reviews-places/the-london-eye01.jpg\" /><p>The Eye on the South Bank of the Thames, with Jubilee Gardens (left) and County Hall (right) in the background Marks Barfield (the lead architects), The Tussauds Group, and British Airways were the original owners of the London Eye. Tussauds bought out British Airways in 2005 and then Marks Barfield in 2006 to become sole owner.</p><p>In May 2007, the Blackstone Group purchased The Tussauds Group which was then the owner of the Eye; Tussauds was merged with Blackstone's Merlin Entertainments and disappeared as an entity. British Airways continued its brand association, but from the beginning of 2008 the name British Airways was dropped from the logo.</p><p>On 12 August 2009, the London Eye saw another rebrand, this time being called \"The Merlin Entertainments London Eye\" to showcase Merlin Entertainments' ownership. A new logo was designed for the attraction—this time taking the form of an eye made out of London's famous landmarks. This coincided with the launch of Merlin Entertainments 4D Experience preflight show underneath the ticket centre in County Hall. The refurbished ticket hall and 4D cinema experience were designed by architect Kay Elliott working with Merlin Studios project designer Craig Sciba. Merlin Studios later appointed Simex-Iwerks as the 4D theatre hardware specialists. The film was written and directed by 3D director Julian Napier and 3D produced by Phil Streather.</p><p>In January 2011, a lighting-up ceremony marked the start of a three-year deal between EDF Energy and Merlin Entertainments. On 1 August 2014 the logo was reverted to the previous \"The Merlin Entertainments London Eye\" version, with the name becoming simply \"The London Eye\".</p><p>In September 2014, Coca-Cola signed an agreement to sponsor the London Eye for two years, starting from January 2015. On the day of the announcement, the London Eye was lit in red.</p>",
 			"lead_media": {
 				"type": "image",
-				"path": "http://www.rtodd.net/swift/images/reviews-places/related/the-london-eye.jpg",
+				"path": "http://www.rtodd.net/swift/images/reviews-places/the-london-eye.jpg",
 				"title": "The London Eye",
 				"caption": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
 				"credit": "The London Eye"
@@ -44,7 +44,35 @@
 			"media": [
 				{
 					"type": "image",
-					"path": "http://www.rtodd.net/swift/images/reviews-places/related/the-london-eye.jpg",
+					"path": "http://www.rtodd.net/swift/images/reviews-places/the-london-eye01.jpg",
+					"title": "The London Eye",
+					"caption": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
+					"credit": "The London Eye"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/reviews-places/the-london-eye02.jpg",
+					"title": "The London Eye",
+					"caption": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
+					"credit": "The London Eye"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/reviews-places/the-london-eye03.jpg",
+					"title": "The London Eye",
+					"caption": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
+					"credit": "The London Eye"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/reviews-places/the-london-eye04.jpg",
+					"title": "The London Eye",
+					"caption": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
+					"credit": "The London Eye"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/reviews-places/the-london-eye05.jpg",
 					"title": "The London Eye",
 					"caption": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
 					"credit": "The London Eye"
@@ -63,11 +91,11 @@
 					{
 						"headline": "The London Eye",
 						"summary": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
-						"guid": "http://www.rtodd.net/swift/data/related/the-london-eye.json",
+						"guid": "http://www.rtodd.net/swift/data/the-london-eye.json",
 						"pub_date": "Fri, 22 Jun 2018 09:25:00 EDT",
 						"lead_media": {
 							"type": "image",
-							"path": "http://www.rtodd.net/swift/images/reviews-places/related/the-london-eye.jpg",
+							"path": "http://www.rtodd.net/swift/images/reviews-places/the-london-eye.jpg",
 							"title": "The London Eye",
 							"caption": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
 							"credit": "London Tourism Board"
@@ -76,11 +104,11 @@
 					{
 						"headline": "The Eiffel Tower",
 						"summary": "The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
-						"guid": "http://www.rtodd.net/swift/data/related/the-eiffel-tower.json",
+						"guid": "http://www.rtodd.net/swift/data/the-eiffel-tower.json",
 						"pub_date": "Fri, 22 Jun 2018 09:25:00 EDT",
 						"lead_media": {
 							"type": "image",
-							"path": "http://www.rtodd.net/swift/images/reviews-places/related/the-eiffel-tower.jpg",
+							"path": "http://www.rtodd.net/swift/images/reviews-places/the-eiffel-tower.jpg",
 							"title": "The Eiffel Tower",
 							"caption": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
 							"credit": "Paris Tourism Board"
@@ -89,11 +117,11 @@
 					{
 						"headline": "Sydney Opera House",
 						"summary": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. It is one of the 20th century's most famous and distinctive buildings.",
-						"guid": "http://www.rtodd.net/swift/data/related/sydney-opera-house.json",
+						"guid": "http://www.rtodd.net/swift/data/sydney-opera-house.json",
 						"pub_date": "Fri, 22 Jun 2018 09:25:00 EDT",
 						"lead_media": {
 							"type": "image",
-							"path": "http://www.rtodd.net/swift/images/reviews-places/related/sydney-opera-house.jpg",
+							"path": "http://www.rtodd.net/swift/images/reviews-places/sydney-opera-house.jpg",
 							"title": "Sydney Opera House",
 							"caption": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. It is one of the 20th century's most famous and distinctive buildings.",
 							"credit": "Sydney Tourism Board"
@@ -102,11 +130,11 @@
 					{
 						"headline": "Trevi Fountain",
 						"summary": "The Trevi Fountain is a fountain in the Trevi district in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Giuseppe Pannini.",
-						"guid": "http://www.rtodd.net/swift/data/related/trevi-fountain.json",
+						"guid": "http://www.rtodd.net/swift/data/trevi-fountain.json",
 						"pub_date": "Fri, 22 Jun 2018 09:25:00 EDT",
 						"lead_media": {
 							"type": "image",
-							"path": "http://www.rtodd.net/swift/images/reviews-places/related/trevi-fountain.jpg",
+							"path": "http://www.rtodd.net/swift/images/reviews-places/trevi-fountain.jpg",
 							"title": "Trevi Fountain",
 							"caption": "The Trevi Fountain is a fountain in the Trevi district in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Giuseppe Pannini.",
 							"credit": "Rome Tourism Board"
