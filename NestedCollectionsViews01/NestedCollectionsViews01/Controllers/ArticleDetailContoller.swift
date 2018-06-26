@@ -153,6 +153,10 @@ class ArticleDetailController:UICollectionViewController, UICollectionViewDelega
         collectionView?.collectionViewLayout.invalidateLayout()
     }
     
+    func showArticleDetail() {
+        print("click in view controller")
+    }
+    
     // can this move somehwere else???
     
     let zoomedImageBackgroundView = UIView()

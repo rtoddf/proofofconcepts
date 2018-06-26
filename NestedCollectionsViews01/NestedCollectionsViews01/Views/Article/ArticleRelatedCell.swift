@@ -1,6 +1,7 @@
 import UIKit
 
 class ArticleRelatedCell:BaseCell, UITableViewDataSource, UITableViewDelegate {
+    var articleDetailController: ArticleDetailController?
     let storyCellId = "storyCellId"
     
     var article:Article? {
@@ -50,7 +51,18 @@ class ArticleRelatedCell:BaseCell, UITableViewDataSource, UITableViewDelegate {
             cell.item = relatedContent[indexPath.item]
         }
         
+        cell.articleDetailController = self
         return cell
+    }
+    
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        guard let relatedContent = article?.relatedContent?.items else { return }
+        print("click: \(relatedContent[indexPath.item]))")
+        self.articleDetailController?.showArticleDetail()
+        
+//        let layout = UICollectionViewFlowLayout()
+//        let articleDetailController = ArticleDetailController(collectionViewLayout: layout)
+//        navigationController?.pushViewController(articleDetailController, animated: true)
     }
     
     override func setupViews() {
@@ -68,6 +80,8 @@ class ArticleRelatedCell:BaseCell, UITableViewDataSource, UITableViewDelegate {
 }
 
 class RelatedTableCell:UITableViewCell {
+    var articleDetailController: ArticleDetailController?
+    
     var item:Item? {
         didSet {
             guard let headline = item?.headline else { return }
