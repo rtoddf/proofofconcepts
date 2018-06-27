@@ -2,13 +2,19 @@ import UIKit
 
 class ArticleImagesCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout {
     var articleDetailContoller:ArticleDetailController?
+    var relatedDetailContoller:RelatedDetailController?
     
-    @objc func animateView(sender: MyTapGesture){
+    @objc func animateView(sender: MyTapGesture){        
         guard let imageView = sender.view else { return }
         guard let title = sender.title else { return }
         guard let caption = sender.caption else { return }
         guard let credit = sender.credit else { return }
-        articleDetailContoller?.animate(image: imageView as! UIImageView, title: title, caption: caption, credit: credit)
+        
+        if articleDetailContoller != nil {
+            articleDetailContoller?.animate(image: imageView as! UIImageView, title: title, caption: caption, credit: credit)
+        } else {
+            relatedDetailContoller?.animate(image: imageView as! UIImageView, title: title, caption: caption, credit: credit)
+        }
     }
     
     let cellId = "cellId"

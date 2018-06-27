@@ -221,6 +221,7 @@ class ArticleDetailController:UICollectionViewController, UICollectionViewDelega
         view.addSubview(imageInfoLabel)
         
         UIView.animate(withDuration: 0.5, delay: 0, usingSpringWithDamping: 1, initialSpringVelocity: 0.5, options: .curveEaseOut, animations: {
+            print("animate in articledetailcontroller")
             let width:CGFloat
             let height:CGFloat
             let x:CGFloat

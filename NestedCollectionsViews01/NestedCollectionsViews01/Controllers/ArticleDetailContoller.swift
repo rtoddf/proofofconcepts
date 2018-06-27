@@ -1,7 +1,7 @@
 import UIKit
 
 class ArticleDetailController:UICollectionViewController, UICollectionViewDelegateFlowLayout {
-    var articleDetailController = self
+//    var articleDetailController = self
     
     let cellId = "cellId"
     let cellTextId = "cellTextid"
@@ -91,7 +91,7 @@ class ArticleDetailController:UICollectionViewController, UICollectionViewDelega
         if indexPath.item == 2 {
             let cell = collectionView.dequeueReusableCell(withReuseIdentifier: cellImagesId, for: indexPath) as! ArticleImagesCell
             cell.article = article
-//            cell.articleDetailContoller = self
+            cell.articleDetailContoller = self
             return cell
         }
 
@@ -175,6 +175,8 @@ class ArticleDetailController:UICollectionViewController, UICollectionViewDelega
     // https://www.youtube.com/watch?v=kzdI2aiTX4k&t=1370s - 32:30
     
     func animate(image:UIImageView, title:String, caption:String, credit:String){
+        print("animate in Article Detail Controller")
+        
         // can you create ane extension for this?
 
         // tweak zoomed images for animateOut and ratios
