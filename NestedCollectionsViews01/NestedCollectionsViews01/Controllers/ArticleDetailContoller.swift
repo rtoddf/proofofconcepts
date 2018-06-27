@@ -156,7 +156,8 @@ class ArticleDetailController:UICollectionViewController, UICollectionViewDelega
         collectionView?.collectionViewLayout.invalidateLayout()
     }
     
-    func showArticleDetail(article: Item) {
+    func showArticleDetail(article:Article) {
+        print("article in articledetailcontroller: \(article)")
         let layout = UICollectionViewFlowLayout()
         let relatedDetailController = RelatedDetailController(collectionViewLayout: layout)
         relatedDetailController.article = article

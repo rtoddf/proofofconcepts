@@ -56,8 +56,20 @@ class ArticleRelatedCell:BaseCell, UITableViewDataSource, UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         guard let relatedContent = article?.relatedContent?.items else { return }
-        print("click")
-        self.articleDetailController?.showArticleDetail(article: relatedContent[indexPath.item])
+        
+        guard let guid = relatedContent[indexPath.item].guid else { return }
+        
+        print("click: \(guid)")
+        
+        Feed.downloadData(feedUrl: guid) { articles in
+            print("article: \(articles[0])")
+            
+//            if let relatedAarticle = articles[0] {
+                self.articleDetailController?.showArticleDetail(article: articles[0])
+//            }
+            
+//            self.relatedArticle = articles[0]
+        }
     }
     
     override func setupViews() {

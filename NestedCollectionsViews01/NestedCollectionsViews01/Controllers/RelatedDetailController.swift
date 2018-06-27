@@ -13,25 +13,16 @@ class RelatedDetailController:UICollectionViewController, UICollectionViewDelega
     var detailTextCellHeight:CGFloat = 22.0
     
     var relatedArticle:Article?
-    var feed:String?
     
-    var article:Item? {
+    var article:Article? {
         didSet {
-            guard let guid = article?.guid else { return }
-            self.feed = guid
+            self.relatedArticle = article
         }
     }
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        collectionView?.backgroundColor = UIColor(hexString: "#fff")
-        
-        guard let feed = feed else { return }
-        Feed.downloadData(feedUrl: feed) { articles in
-//            print("article: \(articles[0])")
-            self.relatedArticle = articles[0]
-        }
-        
+
         collectionView?.backgroundColor = UIColor(hexString: "#fff")
         collectionView?.alwaysBounceVertical = true
         collectionView?.register(ArticleDetailCell.self, forCellWithReuseIdentifier: cellId)
