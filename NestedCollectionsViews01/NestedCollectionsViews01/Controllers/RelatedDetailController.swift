@@ -33,24 +33,41 @@ class RelatedDetailController:UICollectionViewController, UICollectionViewDelega
     }
     
     override func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        return 1
+        return 3
     }
     
     override func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
-//        if indexPath.item == 0 {
+        if indexPath.item == 0 {
             let cell = collectionView.dequeueReusableCell(withReuseIdentifier: cellId, for: indexPath) as! ArticleDetailCell
-        print("relatedArticle: \(self.relatedArticle)")
-        cell.article = self.relatedArticle
+            cell.article = self.relatedArticle
             return cell
-//        }
+        }
+        
+        if indexPath.item == 2 {
+            let cell = collectionView.dequeueReusableCell(withReuseIdentifier: cellImagesId, for: indexPath) as! ArticleImagesCell
+            cell.article = self.relatedArticle
+            return cell
+        }
+        
+        // article text
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: cellTextId, for: indexPath) as! ArticleDetailTextCell
+        cell.article = self.relatedArticle
+        return cell
     }
     
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
         // lead image, headline, pubdate, and creator
-//        if indexPath.item == 0 {
+        if indexPath.item == 0 {
             // we dynamically size the cell based on the image, returned captionheight, returned headlinelabelheight + spacing in between all items
             return CGSize(width: view.frame.width, height: ((9 / 16) * view.frame.width) + 20)
-//        }
+        }
+        
+        if indexPath.item == 2 {
+            let height = (9 / 16) * (view.frame.width * 0.40) + 28
+            return CGSize(width: view.frame.width, height: height)
+        }
+        
+        return CGSize(width: view.frame.width, height: 400)
 
     }
     
