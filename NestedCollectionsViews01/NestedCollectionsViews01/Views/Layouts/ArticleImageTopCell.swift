@@ -31,8 +31,8 @@ class ArticleImageTopCell:BaseCell {
         fatalError("init(coder:) has not been implemented")
     }
     
-    let leadImageView:UIImageView = {
-        let iv = UIImageView()
+    let leadImageView:CustomImageView = {
+        let iv = CustomImageView()
         iv.contentMode = .scaleAspectFill
         iv.clipsToBounds = true
         iv.backgroundColor = UIColor(hexString: "#333333")

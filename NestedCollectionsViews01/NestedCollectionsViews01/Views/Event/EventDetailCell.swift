@@ -21,8 +21,8 @@ class EventDetailCell:BaseCell {
         }
     }
     
-    let imageView:UIImageView = {
-        let iv = UIImageView()
+    let imageView:CustomImageView = {
+        let iv = CustomImageView()
         iv.contentMode = .scaleAspectFill
         iv.clipsToBounds = true
         iv.backgroundColor = UIColor(hexString: "#333333")

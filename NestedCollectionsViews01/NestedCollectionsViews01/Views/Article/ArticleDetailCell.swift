@@ -50,8 +50,8 @@ class ArticleDetailCell:BaseCell {
         }
     }
     
-    let leadMediaView:UIImageView = {
-        let iv = UIImageView()
+    let leadMediaView:CustomImageView = {
+        let iv = CustomImageView()
         iv.contentMode = .scaleAspectFill
         iv.clipsToBounds = true
         iv.isUserInteractionEnabled = true
@@ -87,8 +87,8 @@ class ArticleDetailCell:BaseCell {
         return label
     }()
     
-    let creatorImageView:UIImageView = {
-        let iv = UIImageView()
+    let creatorImageView:CustomImageView = {
+        let iv = CustomImageView()
         iv.contentMode = .scaleAspectFit
         iv.clipsToBounds = true
         return iv

@@ -104,8 +104,8 @@ class ArticleImagesCell:BaseCell, UICollectionViewDataSource, UICollectionViewDe
 }
 
 class ImageCell:BaseCell {
-    let articleImageView:UIImageView = {
-        let iv = UIImageView()
+    let articleImageView:CustomImageView = {
+        let iv = CustomImageView()
         iv.contentMode = .scaleAspectFit
         iv.clipsToBounds = true
         iv.backgroundColor = UIColor(hexString: "#333")

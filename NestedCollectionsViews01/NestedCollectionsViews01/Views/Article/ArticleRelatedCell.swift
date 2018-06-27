@@ -125,8 +125,8 @@ class RelatedTableCell:UITableViewCell {
         return label
     }()
     
-    let articleImageView:UIImageView = {
-        let iv = UIImageView()
+    let articleImageView:CustomImageView = {
+        let iv = CustomImageView()
         iv.contentMode = .scaleAspectFill
         iv.clipsToBounds = true
         iv.backgroundColor = UIColor(hexString: "#333")
