@@ -119,7 +119,7 @@ class RelatedTableCell:UITableViewCell {
     
     var summaryLabel:UILabel = {
         let label = UILabel()
-        label.font = .labelFont
+        label.font = .detailsFont
         label.numberOfLines = 2
         label.translatesAutoresizingMaskIntoConstraints = false
         return label

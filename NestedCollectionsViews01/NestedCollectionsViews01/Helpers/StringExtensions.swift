@@ -120,10 +120,10 @@ extension UIFont {
         return font
     }
 
-    static var labelFont:UIFont {
-        guard let font = UIFont(name: "Helvetica", size: 11) else { return UIFont.systemFont(ofSize: 11) }
-        return font
-    }
+//    static var labelFont:UIFont {
+//        guard let font = UIFont(name: "Helvetica", size: 11) else { return UIFont.systemFont(ofSize: 11) }
+//        return font
+//    }
 
     static var boldLabelFont:UIFont {
         guard let font = UIFont(name: "Helvetica-Bold", size: 10) else { return UIFont.boldSystemFont(ofSize: 10) }

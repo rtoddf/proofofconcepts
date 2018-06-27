@@ -65,7 +65,7 @@ class ArticleDetailCell:BaseCell {
     
     let leadMediaCaptionLabel:UILabel = {
         let label = UILabel()
-        label.font = .labelFont
+        label.font = .detailsFont
         label.textColor = UIColor(hexString: "#666")
         label.numberOfLines = 0
         label.lineBreakMode = NSLineBreakMode.byWordWrapping
@@ -81,7 +81,7 @@ class ArticleDetailCell:BaseCell {
     
     let creatorLabel:UILabel = {
         let label = UILabel()
-        label.font = .labelFont
+        label.font = .detailsFont
         label.textColor = UIColor(hexString: "#000")
         label.numberOfLines = 2
         return label

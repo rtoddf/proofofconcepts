@@ -38,7 +38,7 @@ class EventDetailCell:BaseCell {
     
     let detailsLabel:UILabel = {
         let label = UILabel()
-        label.font = .labelFont
+        label.font = .detailsFont
         label.textColor = UIColor(hexString: "#000")
         label.numberOfLines = 4
         return label
