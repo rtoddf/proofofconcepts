@@ -91,7 +91,7 @@
 					{
 						"headline": "The London Eye",
 						"summary": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
-						"guid": "http://www.rtodd.net/swift/data/related/the-london-eye.json",
+						"guid": "related/the-london-eye",
 						"pub_date": "Fri, 22 Jun 2018 09:25:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -104,7 +104,7 @@
 					{
 						"headline": "The Eiffel Tower",
 						"summary": "The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
-						"guid": "http://www.rtodd.net/swift/data/related/the-eiffel-tower.json",
+						"guid": "related/the-eiffel-tower",
 						"pub_date": "Fri, 22 Jun 2018 09:25:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -117,7 +117,7 @@
 					{
 						"headline": "Sydney Opera House",
 						"summary": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. It is one of the 20th century's most famous and distinctive buildings.",
-						"guid": "http://www.rtodd.net/swift/data/related/sydney-opera-house.json",
+						"guid": "related/sydney-opera-house",
 						"pub_date": "Fri, 22 Jun 2018 09:25:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -130,7 +130,7 @@
 					{
 						"headline": "Trevi Fountain",
 						"summary": "The Trevi Fountain is a fountain in the Trevi district in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Giuseppe Pannini.",
-						"guid": "http://www.rtodd.net/swift/data/related/trevi-fountain.json",
+						"guid": "related/trevi-fountain",
 						"pub_date": "Fri, 22 Jun 2018 09:25:00 EDT",
 						"lead_media": {
 							"type": "image",

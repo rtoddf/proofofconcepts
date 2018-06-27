@@ -86,7 +86,7 @@
 					{
 						"headline": "2112 - Rush",
 						"summary": "2112 is the fourth studio album by Canadian rock band Rush, released on April 1, 1976 by Anthem Records. After they finished touring their previous album, Caress of Steel, in early 1976, the band were in financial hardship due to the album's disappointing sales, unfavourable critical reception, and a decline in numbers at their shows.",
-						"guid": "http://www.rtodd.net/swift/data/related/rush.json",
+						"guid": "related/rush",
 						"pub_date": "Wed, 09 May 2018 09:25:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -99,7 +99,7 @@
 					{
 						"headline": "Dead Man's Party - Oingo Boingo",
 						"summary": "Dead Man's Party is the fifth album by American new wave band Oingo Boingo, released in 1985. The album cover art is an homage to the Mexican holiday Día de Muertos.",
-						"guid": "http://www.rtodd.net/swift/data/related/oingo-boingo.json",
+						"guid": "related/oingo-boingo",
 						"pub_date": "Wed, 09 May 2018 09:25:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -112,7 +112,7 @@
 					{
 						"headline": "Duran Duran",
 						"summary": "Duran Duran are an English new wave and synthpop band formed in Birmingham in 1978. The band grew from alternative sensations in 1982 to mainstream pop stars by 1984. By the end of the decade, membership and music style changes challenged the band before a resurgence in the early 1990s.",
-						"guid": "http://www.rtodd.net/swift/data/related/duran-duran.json",
+						"guid": "related/duran-duran",
 						"pub_date": "Wed, 09 May 2018 09:25:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -125,7 +125,7 @@
 					{
 						"headline": "Wham!",
 						"summary": "Wham! were an English musical duo formed by members George Michael and Andrew Ridgeley in 1981. They were briefly known in the United States as Wham! UK due to a naming conflict with an American band. Wham! sold more than 30 million certified records worldwide from 1982 to 1986.",
-						"guid": "http://www.rtodd.net/swift/data/related/wham.json",
+						"guid": "related/wham",
 						"pub_date": "Wed, 09 May 2018 09:25:00 EDT",
 						"lead_media": {
 							"type": "image",

@@ -84,7 +84,7 @@
 					{
 						"headline": "Venom",
 						"summary": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
-						"guid": "http://www.rtodd.net/swift/data/related/venom.json",
+						"guid": "related/venom",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -97,7 +97,7 @@
 					{
 						"headline": "Solo: A Star Wars Story",
 						"summary": "During an adventure into a dark criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
-						"guid": "http://www.rtodd.net/swift/data/related/solo.json",
+						"guid": "related/solo",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -110,7 +110,7 @@
 					{
 						"headline": "Robin Hood",
 						"summary": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown in a thrilling action-adventure packed with gritty battlefield exploits, mind-blowing fight choreography, and a timeless romance.",
-						"guid": "http://www.rtodd.net/swift/data/related/robin-hood.json",
+						"guid": "related/robin-hood",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -123,7 +123,7 @@
 					{
 						"headline": "Ant-Man and the Wasp",
 						"summary": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
-						"guid": "http://www.rtodd.net/swift/data/related/ant-man-and-the-wasp.json",
+						"guid": "related/ant-man-and-the-wasp",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -136,7 +136,7 @@
 					{
 						"headline": "Spider-Man: Into the Spider-Verse",
 						"summary": "In the \"classic Spider-Man mold\", Miles Morales must juggle his high school life with his status as a superhero, as he is introduced to the \"Spider-Verse\" where there can be more than one Spider-Man.",
-						"guid": "http://www.rtodd.net/swift/data/related/spider-man-verse.json",
+						"guid": "related/spider-man-verse",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -149,7 +149,7 @@
 					{
 						"headline": "The LEGO Movie 2: The Second Part",
 						"summary": "The much-anticipated sequel to the critically acclaimed, global box office phenomenon that started it all, \"The LEGO® Movie 2: The Second Part,\" reunites the heroes of Bricksburg in an all new action-packed adventure to save their beloved city.",
-						"guid": "http://www.rtodd.net/swift/data/related/lego-movie-2.json",
+						"guid": "related/lego-movie-2",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -244,7 +244,7 @@
 					{
 						"headline": "Venom",
 						"summary": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
-						"guid": "http://www.rtodd.net/swift/data/related/venom.json",
+						"guid": "related/venom",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -257,7 +257,7 @@
 					{
 						"headline": "Solo: A Star Wars Story",
 						"summary": "During an adventure into a dark criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
-						"guid": "http://www.rtodd.net/swift/data/related/solo.json",
+						"guid": "related/solo",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -270,7 +270,7 @@
 					{
 						"headline": "Robin Hood",
 						"summary": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown in a thrilling action-adventure packed with gritty battlefield exploits, mind-blowing fight choreography, and a timeless romance.",
-						"guid": "http://www.rtodd.net/swift/data/related/robin-hood.json",
+						"guid": "related/robin-hood",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -283,7 +283,7 @@
 					{
 						"headline": "Ant-Man and the Wasp",
 						"summary": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
-						"guid": "http://www.rtodd.net/swift/data/related/ant-man-and-the-wasp.json",
+						"guid": "related/ant-man-and-the-wasp",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -296,7 +296,7 @@
 					{
 						"headline": "Spider-Man: Into the Spider-Verse",
 						"summary": "In the \"classic Spider-Man mold\", Miles Morales must juggle his high school life with his status as a superhero, as he is introduced to the \"Spider-Verse\" where there can be more than one Spider-Man.",
-						"guid": "http://www.rtodd.net/swift/data/related/spider-man-verse.json",
+						"guid": "related/spider-man-verse",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -309,7 +309,7 @@
 					{
 						"headline": "The LEGO Movie 2: The Second Part",
 						"summary": "The much-anticipated sequel to the critically acclaimed, global box office phenomenon that started it all, \"The LEGO® Movie 2: The Second Part,\" reunites the heroes of Bricksburg in an all new action-packed adventure to save their beloved city.",
-						"guid": "http://www.rtodd.net/swift/data/related/lego-movie-2.json",
+						"guid": "related/lego-movie-2",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -418,7 +418,7 @@
 					{
 						"headline": "Venom",
 						"summary": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
-						"guid": "http://www.rtodd.net/swift/data/related/venom.json",
+						"guid": "related/venom",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -431,7 +431,7 @@
 					{
 						"headline": "Solo: A Star Wars Story",
 						"summary": "During an adventure into a dark criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
-						"guid": "http://www.rtodd.net/swift/data/related/solo.json",
+						"guid": "related/solo",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -444,7 +444,7 @@
 					{
 						"headline": "Robin Hood",
 						"summary": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown in a thrilling action-adventure packed with gritty battlefield exploits, mind-blowing fight choreography, and a timeless romance.",
-						"guid": "http://www.rtodd.net/swift/data/related/robin-hood.json",
+						"guid": "related/robin-hood",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -457,7 +457,7 @@
 					{
 						"headline": "Ant-Man and the Wasp",
 						"summary": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
-						"guid": "http://www.rtodd.net/swift/data/related/ant-man-and-the-wasp.json",
+						"guid": "related/ant-man-and-the-wasp",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -470,7 +470,7 @@
 					{
 						"headline": "Spider-Man: Into the Spider-Verse",
 						"summary": "In the \"classic Spider-Man mold\", Miles Morales must juggle his high school life with his status as a superhero, as he is introduced to the \"Spider-Verse\" where there can be more than one Spider-Man.",
-						"guid": "http://www.rtodd.net/swift/data/related/spider-man-verse.json",
+						"guid": "related/spider-man-verse",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -483,7 +483,7 @@
 					{
 						"headline": "The LEGO Movie 2: The Second Part",
 						"summary": "The much-anticipated sequel to the critically acclaimed, global box office phenomenon that started it all, \"The LEGO® Movie 2: The Second Part,\" reunites the heroes of Bricksburg in an all new action-packed adventure to save their beloved city.",
-						"guid": "http://www.rtodd.net/swift/data/related/lego-movie-2.json",
+						"guid": "related/lego-movie-2",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -761,7 +761,7 @@
 					{
 						"headline": "Venom",
 						"summary": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
-						"guid": "http://www.rtodd.net/swift/data/related/venom.json",
+						"guid": "related/venom",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -774,7 +774,7 @@
 					{
 						"headline": "Solo: A Star Wars Story",
 						"summary": "During an adventure into a dark criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
-						"guid": "http://www.rtodd.net/swift/data/related/solo.json",
+						"guid": "related/solo",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -787,7 +787,7 @@
 					{
 						"headline": "Robin Hood",
 						"summary": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown in a thrilling action-adventure packed with gritty battlefield exploits, mind-blowing fight choreography, and a timeless romance.",
-						"guid": "http://www.rtodd.net/swift/data/related/robin-hood.json",
+						"guid": "related/robin-hood",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -800,7 +800,7 @@
 					{
 						"headline": "Ant-Man and the Wasp",
 						"summary": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
-						"guid": "http://www.rtodd.net/swift/data/related/ant-man-and-the-wasp.json",
+						"guid": "related/ant-man-and-the-wasp",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -813,7 +813,7 @@
 					{
 						"headline": "Spider-Man: Into the Spider-Verse",
 						"summary": "In the \"classic Spider-Man mold\", Miles Morales must juggle his high school life with his status as a superhero, as he is introduced to the \"Spider-Verse\" where there can be more than one Spider-Man.",
-						"guid": "http://www.rtodd.net/swift/data/related/spider-man-verse.json",
+						"guid": "related/spider-man-verse",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -826,7 +826,7 @@
 					{
 						"headline": "The LEGO Movie 2: The Second Part",
 						"summary": "The much-anticipated sequel to the critically acclaimed, global box office phenomenon that started it all, \"The LEGO® Movie 2: The Second Part,\" reunites the heroes of Bricksburg in an all new action-packed adventure to save their beloved city.",
-						"guid": "http://www.rtodd.net/swift/data/related/lego-movie-2.json",
+						"guid": "related/lego-movie-2",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -921,7 +921,7 @@
 					{
 						"headline": "Venom",
 						"summary": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
-						"guid": "http://www.rtodd.net/swift/data/related/venom.json",
+						"guid": "related/venom",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -934,7 +934,7 @@
 					{
 						"headline": "Solo: A Star Wars Story",
 						"summary": "During an adventure into a dark criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
-						"guid": "http://www.rtodd.net/swift/data/related/solo.json",
+						"guid": "related/solo",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -947,7 +947,7 @@
 					{
 						"headline": "Robin Hood",
 						"summary": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown in a thrilling action-adventure packed with gritty battlefield exploits, mind-blowing fight choreography, and a timeless romance.",
-						"guid": "http://www.rtodd.net/swift/data/related/robin-hood.json",
+						"guid": "related/robin-hood",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -960,7 +960,7 @@
 					{
 						"headline": "Ant-Man and the Wasp",
 						"summary": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
-						"guid": "http://www.rtodd.net/swift/data/related/ant-man-and-the-wasp.json",
+						"guid": "related/ant-man-and-the-wasp",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -973,7 +973,7 @@
 					{
 						"headline": "Spider-Man: Into the Spider-Verse",
 						"summary": "In the \"classic Spider-Man mold\", Miles Morales must juggle his high school life with his status as a superhero, as he is introduced to the \"Spider-Verse\" where there can be more than one Spider-Man.",
-						"guid": "http://www.rtodd.net/swift/data/related/spider-man-verse.json",
+						"guid": "related/spider-man-verse",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -986,7 +986,7 @@
 					{
 						"headline": "The LEGO Movie 2: The Second Part",
 						"summary": "The much-anticipated sequel to the critically acclaimed, global box office phenomenon that started it all, \"The LEGO® Movie 2: The Second Part,\" reunites the heroes of Bricksburg in an all new action-packed adventure to save their beloved city.",
-						"guid": "http://www.rtodd.net/swift/data/related/lego-movie-2.json",
+						"guid": "related/lego-movie-2",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -1088,7 +1088,7 @@
 					{
 						"headline": "Venom",
 						"summary": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
-						"guid": "http://www.rtodd.net/swift/data/related/venom.json",
+						"guid": "related/venom",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -1101,7 +1101,7 @@
 					{
 						"headline": "Solo: A Star Wars Story",
 						"summary": "During an adventure into a dark criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
-						"guid": "http://www.rtodd.net/swift/data/related/solo.json",
+						"guid": "related/solo",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -1114,7 +1114,7 @@
 					{
 						"headline": "Robin Hood",
 						"summary": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown in a thrilling action-adventure packed with gritty battlefield exploits, mind-blowing fight choreography, and a timeless romance.",
-						"guid": "http://www.rtodd.net/swift/data/related/robin-hood.json",
+						"guid": "related/robin-hood",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -1127,7 +1127,7 @@
 					{
 						"headline": "Ant-Man and the Wasp",
 						"summary": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
-						"guid": "http://www.rtodd.net/swift/data/related/ant-man-and-the-wasp.json",
+						"guid": "related/ant-man-and-the-wasp",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -1140,7 +1140,7 @@
 					{
 						"headline": "Spider-Man: Into the Spider-Verse",
 						"summary": "In the \"classic Spider-Man mold\", Miles Morales must juggle his high school life with his status as a superhero, as he is introduced to the \"Spider-Verse\" where there can be more than one Spider-Man.",
-						"guid": "http://www.rtodd.net/swift/data/related/spider-man-verse.json",
+						"guid": "related/spider-man-verse",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -1153,7 +1153,7 @@
 					{
 						"headline": "The LEGO Movie 2: The Second Part",
 						"summary": "The much-anticipated sequel to the critically acclaimed, global box office phenomenon that started it all, \"The LEGO® Movie 2: The Second Part,\" reunites the heroes of Bricksburg in an all new action-packed adventure to save their beloved city.",
-						"guid": "http://www.rtodd.net/swift/data/related/lego-movie-2.json",
+						"guid": "related/lego-movie-2",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -1241,7 +1241,7 @@
 					{
 						"headline": "Venom",
 						"summary": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
-						"guid": "http://www.rtodd.net/swift/data/related/venom.json",
+						"guid": "related/venom",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -1254,7 +1254,7 @@
 					{
 						"headline": "Solo: A Star Wars Story",
 						"summary": "During an adventure into a dark criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
-						"guid": "http://www.rtodd.net/swift/data/related/solo.json",
+						"guid": "related/solo",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -1267,7 +1267,7 @@
 					{
 						"headline": "Robin Hood",
 						"summary": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown in a thrilling action-adventure packed with gritty battlefield exploits, mind-blowing fight choreography, and a timeless romance.",
-						"guid": "http://www.rtodd.net/swift/data/related/robin-hood.json",
+						"guid": "related/robin-hood",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -1280,7 +1280,7 @@
 					{
 						"headline": "Ant-Man and the Wasp",
 						"summary": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
-						"guid": "http://www.rtodd.net/swift/data/related/ant-man-and-the-wasp.json",
+						"guid": "related/ant-man-and-the-wasp",
 						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -1293,7 +1293,7 @@
 					{
 						"headline": "Spider-Man: Into the Spider-Verse",
 						"summary": "In the \"classic Spider-Man mold\", Miles Morales must juggle his high school life with his status as a superhero, as he is introduced to the \"Spider-Verse\" where there can be more than one Spider-Man.",
-						"guid": "http://www.rtodd.net/swift/data/related/spider-man-verse.json",
+						"guid": "related/spider-man-verse",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
@@ -1306,7 +1306,7 @@
 					{
 						"headline": "The LEGO Movie 2: The Second Part",
 						"summary": "The much-anticipated sequel to the critically acclaimed, global box office phenomenon that started it all, \"The LEGO® Movie 2: The Second Part,\" reunites the heroes of Bricksburg in an all new action-packed adventure to save their beloved city.",
-						"guid": "http://www.rtodd.net/swift/data/related/lego-movie-2.json",
+						"guid": "related/lego-movie-2",
 						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
 						"lead_media": {
 							"type": "image",
