@@ -1,6 +1,8 @@
 import UIKit
 
 class ArticleDetailController:UICollectionViewController, UICollectionViewDelegateFlowLayout {
+//    var articleDetailController = self
+    
     let cellId = "cellId"
     let cellTextId = "cellTextid"
     let cellImagesId = "cellImagesId"
@@ -107,6 +109,7 @@ class ArticleDetailController:UICollectionViewController, UICollectionViewDelega
                 cell.isHidden = true
             }
 
+            cell.articleDetailController = self
             cell.article = article
             return cell
         }
@@ -153,6 +156,13 @@ class ArticleDetailController:UICollectionViewController, UICollectionViewDelega
         collectionView?.collectionViewLayout.invalidateLayout()
     }
     
+    func showArticleDetail(article:Article) {
+        let layout = UICollectionViewFlowLayout()
+        let relatedDetailController = RelatedDetailController(collectionViewLayout: layout)
+        relatedDetailController.article = article
+        navigationController?.pushViewController(relatedDetailController, animated: true)
+    }
+    
     // can this move somehwere else???
     
     let zoomedImageBackgroundView = UIView()
@@ -165,6 +175,8 @@ class ArticleDetailController:UICollectionViewController, UICollectionViewDelega
     // https://www.youtube.com/watch?v=kzdI2aiTX4k&t=1370s - 32:30
     
     func animate(image:UIImageView, title:String, caption:String, credit:String){
+        print("animate in Article Detail Controller")
+        
         // can you create ane extension for this?
 
         // tweak zoomed images for animateOut and ratios

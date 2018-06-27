@@ -1,6 +1,6 @@
 import UIKit
 
-class ArticleDetailCell:BaseCell {
+class ArticleDetailCell:BaseCell {    
     var article:Article? {
         didSet {
             guard let leadMedia = article?.leadMedia?.path else { return }

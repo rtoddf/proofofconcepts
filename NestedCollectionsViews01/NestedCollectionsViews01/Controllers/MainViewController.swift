@@ -16,7 +16,7 @@ class MainViewController: UICollectionViewController, UICollectionViewDelegateFl
         
         let menuFeed = "http://rtodd.net/swift/data/menu.json"
         
-        MenuItems.downloadData(feedUrl: menuFeed) {  menu in
+        MenuItems.downloadData(feedUrl: menuFeed) { menu in
             self.menu = menu
             guard let menuItems = self.menu else { return }
             self.menuLauncher.items = menuItems
@@ -36,12 +36,6 @@ class MainViewController: UICollectionViewController, UICollectionViewDelegateFl
         let launcher = MenuLauncher()
         launcher.mainController = self
         return launcher
-    }()
-    
-    lazy var groupingCell: GroupingCell = {
-        let controller = GroupingCell()
-        controller.mainController = self
-        return controller
     }()
     
     @objc func showMenu(){
@@ -70,16 +64,12 @@ class MainViewController: UICollectionViewController, UICollectionViewDelegateFl
             navigationController?.pushViewController(sectionArticleViewController, animated: true)
         }
     }
-    
+
     func showArticleDetail(article: Article) {
         let layout = UICollectionViewFlowLayout()
         let articleDetailController = ArticleDetailController(collectionViewLayout: layout)
         articleDetailController.article = article
-        self.navigationController?.pushViewController(articleDetailController, animated: true)
-
-        print("showArticleDetailn in MainController: \(article.headline)")
-        print("navigationController: \(self.navigationController)")
-        print("articleDetailController: \(articleDetailController)")
+        navigationController?.pushViewController(articleDetailController, animated: true)
     }
     
     func showEventDetail(event: Event) {
@@ -87,9 +77,7 @@ class MainViewController: UICollectionViewController, UICollectionViewDelegateFl
     }
     
     @objc func handleSearch(){
-        let layout = UICollectionViewFlowLayout()
-        let articleDetailController = ArticleDetailController(collectionViewLayout: layout)
-        navigationController?.pushViewController(articleDetailController, animated: true)
+        print("handle search")
     }
     
     override func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
@@ -100,7 +88,8 @@ class MainViewController: UICollectionViewController, UICollectionViewDelegateFl
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: groupingCellId, for: indexPath) as! GroupingCell
         cell.groupCellIndex = indexPath.item
         // set maincontroller here!!! - https://stackoverflow.com/questions/31956495/uicollectionview-within-a-uicollectionviewcell-swift
-        cell.mainController = MainViewController()
+//        it's self, not MainViewController!!!!
+        cell.mainController = self
         return cell
     }
     

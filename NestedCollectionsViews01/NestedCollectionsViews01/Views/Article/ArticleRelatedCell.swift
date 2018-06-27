@@ -1,6 +1,7 @@
 import UIKit
 
 class ArticleRelatedCell:BaseCell, UITableViewDataSource, UITableViewDelegate {
+    var articleDetailController: ArticleDetailController?
     let storyCellId = "storyCellId"
     
     var article:Article? {
@@ -49,8 +50,26 @@ class ArticleRelatedCell:BaseCell, UITableViewDataSource, UITableViewDelegate {
         if let relatedContent = article?.relatedContent?.items {
             cell.item = relatedContent[indexPath.item]
         }
-        
+
         return cell
+    }
+    
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        guard let relatedContent = article?.relatedContent?.items else { return }
+        
+        guard let guid = relatedContent[indexPath.item].guid else { return }
+        
+        print("click: \(guid)")
+        
+        Feed.downloadData(feedUrl: guid) { articles in
+            print("article: \(articles[0])")
+            
+//            if let relatedAarticle = articles[0] {
+                self.articleDetailController?.showArticleDetail(article: articles[0])
+//            }
+            
+//            self.relatedArticle = articles[0]
+        }
     }
     
     override func setupViews() {
@@ -68,6 +87,8 @@ class ArticleRelatedCell:BaseCell, UITableViewDataSource, UITableViewDelegate {
 }
 
 class RelatedTableCell:UITableViewCell {
+    var articleDetailController: ArticleDetailController?
+    
     var item:Item? {
         didSet {
             guard let headline = item?.headline else { return }

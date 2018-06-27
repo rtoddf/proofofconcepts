@@ -1,6 +1,6 @@
 import UIKit
 
-class GroupingCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout {
+class GroupingCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout, UINavigationControllerDelegate {
     var mainController: MainViewController?
     
     let feedMusicSource = "reviews-music"
@@ -18,6 +18,8 @@ class GroupingCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegat
     var articlesMovies:[Article]?
     var articlesPlaces:[Article]?
     var events:[Event]?
+    
+    var result:[Article] = []
 
     var groupCellIndexSet:Int = 0
     var groupCellIndex: Int!{
@@ -75,6 +77,8 @@ class GroupingCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegat
             self.collectionView.reloadData()
         }
         
+        
+        
         collectionView.dataSource = self
         collectionView.delegate = self
         
@@ -106,15 +110,12 @@ class GroupingCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegat
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         if indexPath.item % 7 == 0 {
             let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "articleImageLargeCellId", for: indexPath) as! ArticleImageLargeCell
-//            cell.groupCellIndex = groupCellIndex
-//            cell.layoutCellIndex = indexPath.row
             cell.article = articlesMovies?[groupCellIndex]
             return cell
         }
         
         if indexPath.item % 7 == 1 || indexPath.item % 7 == 2 {
             let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "articleImageLeftCellId", for: indexPath) as! ArticleImageLeftCell
-
             cell.article = articlesMusic?[getCellIndex(numItems: 2, group: groupCellIndex, item: indexPath.item)]
             return cell
         }

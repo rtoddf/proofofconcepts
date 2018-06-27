@@ -1,0 +1,140 @@
+{
+	"version": "1.0",
+	"title": "Places",
+	"items": [
+		{
+			"headline": "Sydney Opera House",
+			"subhead": "",
+			"creator": {
+				"name": "Kara Driscoll - Staff Writer",
+				"title": "Staff Writer",
+				"image": "http://www.rtodd.net/swift/images/reviews-places/creators/karadriscoll.jpg",
+				"social": [
+					{
+						"network": "facebook",
+						"user": ""
+					},
+					{
+						"network": "twitter",
+						"user": "https://twitter.com/karaddriscoll"
+					},
+					{
+						"network": "instagram",
+						"user": ""
+					}
+				]
+			},
+			"item_class": "place review",
+			"category": {
+				"title": "What To Do",
+				"background_color": "#603765",
+				"text_color": "#fff"
+			},
+			"guid": "f21f6d26-aaaa-1111-8401-ed4dfe8ebc2c",
+			"pub_date": "Tue, 26 Jun 2018 09:25:00 EDT",
+			"summary": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia",
+			"full_text": "<p>The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. It is one of the 20th century's most famous and distinctive buildings.</p><p>Designed by Danish architect Jørn Utzon, the building was formally opened on 20 October 1973 after a gestation beginning with Utzon's 1957 selection as winner of an international design competition. The government of New South Wales, led by the premier, Joseph Cahill, authorised work to begin in 1958 with Utzon directing construction. The government's decision to build Utzon's design is often overshadowed by circumstances that followed, including cost and scheduling overruns as well as the architect's ultimate resignation.</p><p>The building and its surrounds occupy the whole of Bennelong Point on Sydney Harbour, between Sydney Cove and Farm Cove, adjacent to the Sydney central business district and the Royal Botanic Gardens, and close by the Sydney Harbour Bridge.</p><p>Though its name suggests a single venue, the building comprises multiple performance venues which together host well over 1,500 performances annually, attended by more than 1.2 million people. Performances are presented by numerous performing artists, including three resident companies: Opera Australia, the Sydney Theatre Company and the Sydney Symphony Orchestra. As one of the most popular visitor attractions in Australia, more than eight million people visit the site annually, and approximately 350,000 visitors take a guided tour of the building each year. The building is managed by the Sydney Opera House Trust, an agency of the New South Wales State Government.</p><p>On 28 June 2007, the Sydney Opera House became a UNESCO World Heritage Site; having been listed on the (now defunct) Register of the National Estate since 1980, the National Trust of Australia register since 1983, the City of Sydney Heritage Inventory since 2000, the New South Wales State Heritage Register since 2003, and the Australian National Heritage List since 2005.</p><h3>Performance venues and facilities</h3><p>The Sydney Opera House includes a number of performance venues:</p><ul><li>Concert Hall: With 2,679 seats, the home of the Sydney Symphony Orchestra and used by a large number of other concert presenters. It contains the Sydney Opera House Grand Organ, the largest mechanical tracker action organ in the world, with over 10,000 pipes.</li><li>Joan Sutherland Theatre: A proscenium theatre with 1,507 seats, the Sydney home of Opera Australia and The Australian Ballet. Until 16 October 2012 it was known as the Opera Theatre.</li><li>Drama Theatre: A proscenium theatre with 544 seats, used by the Sydney Theatre Company and other dance and theatrical presenters.</li><li>Playhouse: An end-stage theatre with 398 seats.</li><li>Studio: A flexible space with 280 permanent seats (some of which can be folded up) and a maximum capacity of 400, depending on configuration.</li><li>Utzon Room: A small multi-purpose venue for parties, corporate functions and small productions (such as chamber music performances).</li><li>Recording Studio</li><li>Outdoor Forecourt: A flexible open-air venue with a wide range of configuration options, including the possibility of utilising the Monumental Steps as audience seating, used for a range of community events and major outdoor performances.</li></ul><p>Other areas (for example the northern and western foyers) are also used for performances on an occasional basis. Venues are also used for conferences, ceremonies and social functions.</p>",
+			"lead_media": {
+				"type": "image",
+				"path": "http://www.rtodd.net/swift/images/reviews-places/sydney-opera-house.jpg",
+				"title": "Sydney Opera House",
+				"caption": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia",
+				"credit": "Sydney Opera House"
+			},
+			"media": [
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/reviews-places/sydney-opera-house01.jpg",
+					"title": "Sydney Opera House",
+					"caption": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia",
+					"credit": "Sydney Opera House"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/reviews-places/sydney-opera-house02.jpg",
+					"title": "Sydney Opera House",
+					"caption": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia",
+					"credit": "Sydney Opera House"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/reviews-places/sydney-opera-house03.jpg",
+					"title": "Sydney Opera House",
+					"caption": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia",
+					"credit": "Sydney Opera House"
+				},
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/reviews-places/sydney-opera-house04.jpg",
+					"title": "Sydney Opera House",
+					"caption": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia",
+					"credit": "Sydney Opera House"
+				}
+			],
+			"locations": [
+				{
+					"latitude": -33.856784,
+					"longitude": 151.215297,
+					"name": "Sydney Opera House"
+				}
+			],
+			"related_content": {
+				"title": "More Things to Do",
+				"items": [
+					{
+						"headline": "The London Eye",
+						"summary": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
+						"guid": "related/the-london-eye",
+						"pub_date": "Fri, 22 Jun 2018 09:25:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/reviews-places/the-london-eye.jpg",
+							"title": "The London Eye",
+							"caption": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
+							"credit": "London Tourism Board"
+						}
+					},
+					{
+						"headline": "The Eiffel Tower",
+						"summary": "The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
+						"guid": "related/the-eiffel-tower",
+						"pub_date": "Fri, 22 Jun 2018 09:25:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/reviews-places/the-eiffel-tower.jpg",
+							"title": "The Eiffel Tower",
+							"caption": "The London Eye, known for sponsorship reasons as the Coca-Cola London Eye, is a giant Ferris wheel on the South Bank of the River Thames in London.",
+							"credit": "Paris Tourism Board"
+						}
+					},
+					{
+						"headline": "Sydney Opera House",
+						"summary": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. It is one of the 20th century's most famous and distinctive buildings.",
+						"guid": "related/sydney-opera-house",
+						"pub_date": "Fri, 22 Jun 2018 09:25:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/reviews-places/sydney-opera-house.jpg",
+							"title": "Sydney Opera House",
+							"caption": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. It is one of the 20th century's most famous and distinctive buildings.",
+							"credit": "Sydney Tourism Board"
+						}
+					},
+					{
+						"headline": "Trevi Fountain",
+						"summary": "The Trevi Fountain is a fountain in the Trevi district in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Giuseppe Pannini.",
+						"guid": "related/trevi-fountain",
+						"pub_date": "Fri, 22 Jun 2018 09:25:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/reviews-places/trevi-fountain.jpg",
+							"title": "Trevi Fountain",
+							"caption": "The Trevi Fountain is a fountain in the Trevi district in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Giuseppe Pannini.",
+							"credit": "Rome Tourism Board"
+						}
+					}
+				]
+			}
+		}
+	]
+}

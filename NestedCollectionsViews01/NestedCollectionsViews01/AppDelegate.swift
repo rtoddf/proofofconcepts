@@ -11,8 +11,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         window?.makeKeyAndVisible()
         
         let layout = UICollectionViewFlowLayout()
-        let eventsController = MainViewController(collectionViewLayout: layout)
-        let navigationController = UINavigationController(rootViewController: eventsController)
+        let mainController = MainViewController(collectionViewLayout: layout)
+        let navigationController = UINavigationController(rootViewController: mainController)
+        
         window?.rootViewController = navigationController
         
         UINavigationBar.appearance().barTintColor = UIColor(hexString: "#000000")

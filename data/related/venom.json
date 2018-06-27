@@ -1,0 +1,145 @@
+{
+	"version": "1.0",
+	"title": "Movies",
+	"items": [
+		{
+			"headline": "Venom",
+			"subhead": "",
+			"creator": {
+				"name": "Morgan Little",
+				"title": "Staff",
+				"image": "",
+				"social": [
+					{
+						"network": "facebook",
+						"user": ""
+					},
+					{
+						"network": "twitter",
+						"user": ""
+					},
+					{
+						"network": "instagram",
+						"user": ""
+					}
+				]
+			},
+			"item_class": "review",
+			"category": {
+				"title": "",
+				"background_color": "",
+				"text_color": ""
+			},
+			"guid": "f21f6d26-2163-11e8-8401-ed4dfe8ebc2c",
+			"pub_date": "Tue, 26 Jun 2018 09:25:00 EDT",
+			"summary": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
+			"full_text": "<p>Venom is an upcoming American superhero film based on the Marvel Comics character of the same name, produced by Columbia Pictures in association with Marvel and distributed by Sony Pictures Releasing. It is intended to be the first film in Sony's Marvel Universe, adjunct to the Marvel Cinematic Universe (MCU). The film is directed by Ruben Fleischer from a screenplay by Scott Rosenberg and Jeff Pinkner, Kelly Marcel, and Will Beall, and stars Tom Hardy as Eddie Brock / Venom, alongside Michelle Williams, Riz Ahmed, Scott Haze, and Reid Scott.</p><p>Development of a Venom film, a spin-off from the Spider-Man film franchise, first began with producer Avi Arad in 2007. After various iterations, work on a new version began in March 2017 to start a new shared universe featuring the Marvel characters to which Sony possessed the film rights, though Sony also intends for the film to share the world of Spider-Man: Homecoming, which is set in the MCU after a deal between Sony and Marvel Studios. Rosenberg and Pinkner were set to write, with Fleischer and Hardy added in May 2017. Principal photography began in October 2017, taking place in Atlanta, New York City, and San Francisco.</p><p>Venom is set to be released in the United States on October 5, 2018.</p><p>The Marvel Comics character Eddie Brock, a notable antagonist of Spider-Man, was first introduced in movies in the 2007 film Spider-Man 3, with Topher Grace in the role. The character initially played a minor role that did not explore his alter-ego Venom, but this was eventually changed to a major villain role for the latter because producer Avi Arad felt the series had relied too much on director Sam Raimi's personal favorite Spider-Man villains and not characters that modern fans were more interested in. Raimi had been hesitant to explore the character due to his \"lack of humanity\". Arad revealed plans for a spin-off film focused on Venom in July 2007.</p><p>By July 2008, Sony Pictures was actively developing Venom alongside direct sequels to Spider-Man 3, hoping the character could \"add longevity\" to the franchise in a similar fashion to Wolverine in 20th Century Fox's X-Men films. Jacob Estes had written a script for the film, but the studio was considering taking it in a different direction from that draft and was seeking new writers. Sony was also \"not yet convinced\" that Grace could \"carry\" the film. That September, Sony hired Paul Wernick and Rhett Reese to write a new script, while industry insiders suggested that Grace should return for the spin-off \"because the likeable actor could be a sympathetic evildoer\", in response to Venom co-creator Todd McFarlane suggesting that a Venom film could not do well with a villain as the central character. Wernick and Reese had pitched an original story idea for the film to Sony, which Reese described as \"realistic, grounded, a little more dark take on the character\". The pair then worked on an outline with Sony and Marvel, who \"had specific rules about the villain and the backstory and stuff like that\". They had completed a draft by April 2009, which included a role written specifically for Stan Lee,  and featured a sequence where the Venom symbiote jumps \"from body to body [through a city], and each person that it inhabits ends up becoming really violent and striking someone else and then it jumps to [them].\"</p><p>Venom was again revived by Sony in March 2016, with Arad and Tolmach producing, and Dante Harper writing a new screenplay. The project was envisioned as a standalone film, unrelated to Sony and Marvel's new Spider-Man films, which would launch its own franchise. A year later, Sony gave the film an October 5, 2018, release date, and explained that Kurtzman was not involved with the new project, and no new director had been signed, while the screenplay was now being written by Scott Rosenberg and Jeff Pinkner. Venom was expected to not only begin a new franchise, but also a new shared universe independent of the MCU, and was aiming for an R-rating on a smaller budget, inspired by 20th Century Fox's success doing so with X-Men films Deadpool and Logan. Sony's director shortlist for the film was believed to include Adi Shankar, known for his dark, R-rated takes \"on the properties he grew up on\", and Adam Wingard. In May, Sony announced that Tom Hardy would star as Eddie Brock / Venom in Venom, to be directed by Ruben Fleischer and officially begin \"Sony's Marvel Universe\". Venom is not considered a spin-off of any other film. Fleischer was chosen after a long search by Sony, while the casting of Hardy, a \"huge fan\" of Venom, happened very quickly after he left director J. C. Chandor's Triple Frontier in April and Sony \"saw an opportunity to court an in-demand talent.\"</p>",
+			"lead_media": {
+				"type": "image",
+				"path": "http://www.rtodd.net/swift/images/reviews-movies/venom01.jpg",
+				"title": "Venom",
+				"caption": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
+				"credit": "Some Magazine"
+			},
+			"media": [
+				{
+					"type": "image",
+					"path": "http://www.rtodd.net/swift/images/reviews-movies/venom01.jpg",
+					"title": "Venom",
+					"caption": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
+					"credit": "Some Magazine"
+				}
+			],
+			"locations": [
+				{
+					"latitude": 40.712775,
+					"longitude": -74.005973,
+					"name": "New York, NY"
+				}
+			],
+			"related_content": {
+				"title": "More Movies",
+				"items": [
+					{
+						"headline": "Venom",
+						"summary": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
+						"guid": "related/venom",
+						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/reviews-movies/venom01.jpg",
+							"title": "Venom",
+							"caption": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
+							"credit": "USA Today"
+						}
+					},
+					{
+						"headline": "Solo: A Star Wars Story",
+						"summary": "During an adventure into a dark criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
+						"guid": "related/solo",
+						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/reviews-movies/solo01.jpg",
+							"title": "Solo: A Star Wars Story",
+							"caption": "During an adventure into a dark criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
+							"credit": "USA Today"
+						}
+					},
+					{
+						"headline": "Robin Hood",
+						"summary": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown in a thrilling action-adventure packed with gritty battlefield exploits, mind-blowing fight choreography, and a timeless romance.",
+						"guid": "related/robin-hood",
+						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/reviews-movies/robin_hood01.jpg",
+							"title": "Robin Hood",
+							"caption": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown in a thrilling action-adventure packed with gritty battlefield exploits, mind-blowing fight choreography, and a timeless romance.",
+							"credit": "USA Today"
+						}
+					},
+					{
+						"headline": "Ant-Man and the Wasp",
+						"summary": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
+						"guid": "related/ant-man-and-the-wasp",
+						"pub_date": "Tue, 08 May 2018 09:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/reviews-movies/antman01.jpg",
+							"title": "Ant-Man and the Wasp",
+							"caption": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
+							"credit": "USA Today"
+						}
+					},
+					{
+						"headline": "Spider-Man: Into the Spider-Verse",
+						"summary": "In the \"classic Spider-Man mold\", Miles Morales must juggle his high school life with his status as a superhero, as he is introduced to the \"Spider-Verse\" where there can be more than one Spider-Man.",
+						"guid": "related/spider-man-verse",
+						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/reviews-movies/spider-man-verse01.jpg",
+							"title": "Spider-Man: Into the Spider-Verse",
+							"caption": "In the \"classic Spider-Man mold\", Miles Morales must juggle his high school life with his status as a superhero, as he is introduced to the \"Spider-Verse\" where there can be more than one Spider-Man.",
+							"credit": "USA Today"
+						}
+					},
+					{
+						"headline": "The LEGO Movie 2: The Second Part",
+						"summary": "The much-anticipated sequel to the critically acclaimed, global box office phenomenon that started it all, \"The LEGO® Movie 2: The Second Part,\" reunites the heroes of Bricksburg in an all new action-packed adventure to save their beloved city.",
+						"guid": "related/lego-movie-2",
+						"pub_date": "Fri, 22 Jun 2018 09:00:00 EDT",
+						"lead_media": {
+							"type": "image",
+							"path": "http://www.rtodd.net/swift/images/reviews-movies/lego-movie-201.jpg",
+							"title": "The LEGO Movie 2: The Second Part",
+							"caption": "The much-anticipated sequel to the critically acclaimed, global box office phenomenon that started it all, \"The LEGO® Movie 2: The Second Part,\" reunites the heroes of Bricksburg in an all new action-packed adventure to save their beloved city.",
+							"credit": "USA Today"
+						}
+					}
+				]
+			}
+		}
+	]
+}
