@@ -1,6 +1,8 @@
 import UIKit
 
 class ArticleDetailController:UICollectionViewController, UICollectionViewDelegateFlowLayout {
+    var articleDetailController = self
+    
     let cellId = "cellId"
     let cellTextId = "cellTextid"
     let cellImagesId = "cellImagesId"
@@ -89,7 +91,7 @@ class ArticleDetailController:UICollectionViewController, UICollectionViewDelega
         if indexPath.item == 2 {
             let cell = collectionView.dequeueReusableCell(withReuseIdentifier: cellImagesId, for: indexPath) as! ArticleImagesCell
             cell.article = article
-            cell.articleDetailContoller = self
+//            cell.articleDetailContoller = self
             return cell
         }
 
@@ -107,6 +109,7 @@ class ArticleDetailController:UICollectionViewController, UICollectionViewDelega
                 cell.isHidden = true
             }
 
+            cell.articleDetailController = self
             cell.article = article
             return cell
         }

@@ -50,8 +50,7 @@ class ArticleRelatedCell:BaseCell, UITableViewDataSource, UITableViewDelegate {
         if let relatedContent = article?.relatedContent?.items {
             cell.item = relatedContent[indexPath.item]
         }
-        
-        cell.articleDetailController = self
+
         return cell
     }
     
