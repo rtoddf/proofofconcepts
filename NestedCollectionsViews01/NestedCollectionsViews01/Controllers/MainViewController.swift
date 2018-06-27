@@ -16,7 +16,7 @@ class MainViewController: UICollectionViewController, UICollectionViewDelegateFl
         
         let menuFeed = "http://rtodd.net/swift/data/menu.json"
         
-        MenuItems.downloadData(feedUrl: menuFeed) {  menu in
+        MenuItems.downloadData(feedUrl: menuFeed) { menu in
             self.menu = menu
             guard let menuItems = self.menu else { return }
             self.menuLauncher.items = menuItems

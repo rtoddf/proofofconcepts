@@ -33,6 +33,7 @@
 		000FFFF520DC1E69007599CC /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000FFFF420DC1E69007599CC /* MainViewController.swift */; };
 		000FFFFA20DC1E6D007599CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 000FFFF920DC1E6D007599CC /* Assets.xcassets */; };
 		000FFFFD20DC1E6D007599CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 000FFFFB20DC1E6D007599CC /* LaunchScreen.storyboard */; };
+		0095671F20E3248F0052ED8B /* RelatedDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0095671E20E3248F0052ED8B /* RelatedDetailController.swift */; };
 		00C3209320DFFBBB006467FD /* ArticleImagesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C3209220DFFBBB006467FD /* ArticleImagesCell.swift */; };
 		00C3209520DFFEDA006467FD /* ArticleRelatedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C3209420DFFEDA006467FD /* ArticleRelatedCell.swift */; };
 		00C3209720E00E64006467FD /* SectionEventsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C3209620E00E64006467FD /* SectionEventsViewController.swift */; };
@@ -70,6 +71,7 @@
 		000FFFF920DC1E6D007599CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		000FFFFC20DC1E6D007599CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		000FFFFE20DC1E6D007599CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0095671E20E3248F0052ED8B /* RelatedDetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelatedDetailController.swift; sourceTree = "<group>"; };
 		00C3209220DFFBBB006467FD /* ArticleImagesCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleImagesCell.swift; sourceTree = "<group>"; };
 		00C3209420DFFEDA006467FD /* ArticleRelatedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleRelatedCell.swift; sourceTree = "<group>"; };
 		00C3209620E00E64006467FD /* SectionEventsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionEventsViewController.swift; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				000FFFF420DC1E69007599CC /* MainViewController.swift */,
 				0002210820DEC7F400FF4C39 /* ArticleDetailContoller.swift */,
 				00F72DF120E069AD00F72CD5 /* EventDetailController.swift */,
+				0095671E20E3248F0052ED8B /* RelatedDetailController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -329,6 +332,7 @@
 				0000857620DF1413004BAC68 /* Weather.swift in Sources */,
 				00F72DF620E06BD600F72CD5 /* EventDetailTextCell.swift in Sources */,
 				000FFFF320DC1E69007599CC /* AppDelegate.swift in Sources */,
+				0095671F20E3248F0052ED8B /* RelatedDetailController.swift in Sources */,
 				000F001320DC516C007599CC /* ArticleImageLeftCell.swift in Sources */,
 				000F001520DC54DE007599CC /* ArticleImageRightCell.swift in Sources */,
 				0000857920DF14F6004BAC68 /* CurrentConditionsCell.swift in Sources */,

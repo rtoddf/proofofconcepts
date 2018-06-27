@@ -56,12 +56,8 @@ class ArticleRelatedCell:BaseCell, UITableViewDataSource, UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         guard let relatedContent = article?.relatedContent?.items else { return }
-        print("click: \(relatedContent[indexPath.item]))")
-        self.articleDetailController?.showArticleDetail()
-        
-//        let layout = UICollectionViewFlowLayout()
-//        let articleDetailController = ArticleDetailController(collectionViewLayout: layout)
-//        navigationController?.pushViewController(articleDetailController, animated: true)
+        print("click")
+        self.articleDetailController?.showArticleDetail(article: relatedContent[indexPath.item])
     }
     
     override func setupViews() {

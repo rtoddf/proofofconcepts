@@ -156,8 +156,11 @@ class ArticleDetailController:UICollectionViewController, UICollectionViewDelega
         collectionView?.collectionViewLayout.invalidateLayout()
     }
     
-    func showArticleDetail() {
-        print("click in view controller")
+    func showArticleDetail(article: Item) {
+        let layout = UICollectionViewFlowLayout()
+        let relatedDetailController = RelatedDetailController(collectionViewLayout: layout)
+        relatedDetailController.article = article
+        navigationController?.pushViewController(relatedDetailController, animated: true)
     }
     
     // can this move somehwere else???
