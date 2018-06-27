@@ -74,7 +74,7 @@ class ArticleDetailCell:BaseCell {
     
     let headlineLabel:UILabel = {
         let label = UILabel()
-        label.font = .articleTitleFont
+        label.font = .headlineFont
         label.numberOfLines = 4
         return label
     }()

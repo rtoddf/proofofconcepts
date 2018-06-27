@@ -15,6 +15,8 @@ class EventDetailController:UICollectionViewController, UICollectionViewDelegate
         super.viewDidLoad()
         
         collectionView?.backgroundColor = UIColor(hexString: "#fff")
+        self.navigationController?.navigationBar.tintColor = .white
+        
         collectionView?.alwaysBounceVertical = true
         collectionView?.register(EventDetailCell.self, forCellWithReuseIdentifier: cellId)
         collectionView?.register(EventDetailTextCell.self, forCellWithReuseIdentifier: cellTextId)

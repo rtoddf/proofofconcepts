@@ -74,6 +74,11 @@ class MainViewController: UICollectionViewController, UICollectionViewDelegateFl
     
     func showEventDetail(event: Event) {
         print("showEventDetail in MainController: \(event.headline)")
+        
+        let layout = UICollectionViewFlowLayout()
+        let eventDetailController = EventDetailController(collectionViewLayout: layout)
+        eventDetailController.event = event
+        navigationController?.pushViewController(eventDetailController, animated: true)
     }
     
     @objc func handleSearch(){

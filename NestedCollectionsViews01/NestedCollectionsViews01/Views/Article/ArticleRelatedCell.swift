@@ -112,7 +112,7 @@ class RelatedTableCell:UITableViewCell {
     
     var headlineLabel:UILabel = {
         let label = UILabel()
-        label.font = .titleFont
+        label.font = .headlineFont
         label.numberOfLines = 2
         return label
     }()

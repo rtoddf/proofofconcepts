@@ -36,7 +36,7 @@ class CurrentConditionsCell:BaseCell {
     let cityLabel:UILabel = {
         let label = UILabel()
         label.textColor = UIColor(hexString: "#fff")
-        label.font = .eventHeadlineFont
+        label.font = .detailsFont
         return label
     }()
     
@@ -69,7 +69,7 @@ class CurrentConditionsCell:BaseCell {
     let skyLabel:UILabel = {
         let label = UILabel()
         label.textColor = UIColor(hexString: "#fff")
-        label.font = .eventHeadlineFont
+        label.font = .headlineFont
         return label
     }()
     

@@ -172,7 +172,7 @@ class GroupingCell:BaseCell, UICollectionViewDataSource, UICollectionViewDelegat
             mainController?.showArticleDetail(article: article)
         }
         
-        if indexPath.item % 7 == 5 || indexPath.item % 7 == 5 {
+        if indexPath.item % 7 == 5 || indexPath.item % 7 == 6 {
             guard let event = events?[getCellIndex(numItems: 2, group: groupCellIndex, item: indexPath.item)] else { return }
             mainController?.showEventDetail(event: event)
         }
