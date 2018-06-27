@@ -30,6 +30,43 @@ class RelatedDetailController:UICollectionViewController, UICollectionViewDelega
         collectionView?.register(ArticleImagesCell.self, forCellWithReuseIdentifier: cellImagesId)
         //        collectionView?.register(ArticleDetailMapCell.self, forCellWithReuseIdentifier: cellMapId)
         collectionView?.register(ArticleRelatedCell.self, forCellWithReuseIdentifier: cellRelatedId)
+        
+        notificationCenter.addObserver(self,
+                                       selector: #selector(updateHeadlineHeight),
+                                       name: .UpdateHeadlineHeight,
+                                       object: nil)
+        
+        // notification for caption and headline - ArticleDetailCell
+        notificationCenter.addObserver(self,
+                                       selector: #selector(updateImageCaptionHeight),
+                                       name: .UpdateImageCaptionHeight,
+                                       object: nil)
+        
+        notificationCenter.addObserver(self,
+                                       selector: #selector(updateArticleHeight),
+                                       name: .UpdateArticleHeight,
+                                       object: nil)
+    }
+    
+    @objc func updateHeadlineHeight(notification: Notification) {
+        guard let height = notification.object as? CGFloat else { return }
+        headlineLabelHeight = height
+        collectionView?.collectionViewLayout.invalidateLayout()
+        collectionView?.layoutIfNeeded()
+    }
+    
+    @objc func updateImageCaptionHeight(notification: Notification) {
+        guard let height = notification.object as? CGFloat else { return }
+        imageCaptionLabelHeight = height
+        collectionView?.collectionViewLayout.invalidateLayout()
+        collectionView?.layoutIfNeeded()
+    }
+    
+    @objc func updateArticleHeight(notification: Notification) {
+        guard let height = notification.object as? CGFloat else { return }
+        detailTextCellHeight = height
+        collectionView?.collectionViewLayout.invalidateLayout()
+        collectionView?.layoutIfNeeded()
     }
     
     override func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
@@ -59,7 +96,7 @@ class RelatedDetailController:UICollectionViewController, UICollectionViewDelega
         // lead image, headline, pubdate, and creator
         if indexPath.item == 0 {
             // we dynamically size the cell based on the image, returned captionheight, returned headlinelabelheight + spacing in between all items
-            return CGSize(width: view.frame.width, height: ((9 / 16) * view.frame.width) + 20)
+            return CGSize(width: view.frame.width, height: ((9 / 16) * view.frame.width) + headlineLabelHeight + imageCaptionLabelHeight + 20)
         }
         
         if indexPath.item == 2 {
@@ -67,7 +104,7 @@ class RelatedDetailController:UICollectionViewController, UICollectionViewDelega
             return CGSize(width: view.frame.width, height: height)
         }
         
-        return CGSize(width: view.frame.width, height: 400)
+        return CGSize(width: view.frame.width, height: detailTextCellHeight)
 
     }
     
