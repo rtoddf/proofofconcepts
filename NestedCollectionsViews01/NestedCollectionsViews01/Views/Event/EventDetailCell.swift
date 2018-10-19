@@ -14,43 +14,45 @@ class EventDetailCell:BaseCell {
             guard let parentCategoryName = event?.parentCategoryName else { return }
             
             imageView.loadPointsLocalImageUsingParentId(imageId: parentId)
-            titleLabel.text = headline
+            headlineLabel.text = headline
+            objectSizeToFit(label: headlineLabel)
+            
             detailsLabel.text = date + " | " + startTime + "-" + endTime + "\n" + venueName + "\n" + venueAddress
         }
     }
     
-    let imageView:UIImageView = {
-        let iv = UIImageView()
+    let imageView:CustomImageView = {
+        let iv = CustomImageView()
         iv.contentMode = .scaleAspectFill
         iv.clipsToBounds = true
         iv.backgroundColor = UIColor(hexString: "#333333")
         return iv
     }()
     
-    let titleLabel:UILabel = {
+    let headlineLabel:UILabel = {
         let label = UILabel()
-        label.font = UIFont.boldSystemFont(ofSize: 18)
-        label.numberOfLines = 3
+        label.font = .headlineFont
+        label.numberOfLines = 4
         return label
     }()
     
     let detailsLabel:UILabel = {
         let label = UILabel()
-        label.font = UIFont.systemFont(ofSize: 16)
-        label.textColor = UIColor(hexString: "#777777")
+        label.font = .detailsFont
+        label.textColor = UIColor(hexString: "#000")
         label.numberOfLines = 4
         return label
     }()
     
     override func setupViews() {
         addSubview(imageView)
-        addSubview(titleLabel)
+        addSubview(headlineLabel)
         addSubview(detailsLabel)
         
         addConstraintsWithFormat(format: "H:|[v0]|", views: imageView)
-        addConstraintsWithFormat(format: "H:|-14-[v0]-14-|", views: titleLabel)
+        addConstraintsWithFormat(format: "H:|-14-[v0]-14-|", views: headlineLabel)
         addConstraintsWithFormat(format: "H:|-14-[v0]-14-|", views: detailsLabel)
-        addConstraintsWithFormat(format: "V:|[v0(\((9 / 16) * frame.width))]-8-[v1]-8-[v2]", views: imageView, titleLabel, detailsLabel)
+        addConstraintsWithFormat(format: "V:|[v0(\((9 / 16) * frame.width))]-8-[v1]-8-[v2]", views: imageView, headlineLabel, detailsLabel)
     }
     
 }

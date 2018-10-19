@@ -81,8 +81,12 @@ extension UIColor {
     }
 }
 
-extension UIImageView {
+class CustomImageView:UIImageView {
+    var imageUrlString:String?
+    
     func loadImageUsingUrlString(imageUrl:String) {
+        imageUrlString = imageUrl
+        
         let imageNameSplit = imageUrl.components(separatedBy: "/")
         let savedImageName = imageNameSplit.last
         
@@ -111,6 +115,7 @@ extension UIImageView {
                 guard let image = UIImage(data: data) else { return }
                 
                 DispatchQueue.main.async { // Correct - https://developer.apple.com/documentation/code_diagnostics/main_thread_checker
+                    // https://www.youtube.com/watch?v=XFvs6eraBXM&list=PL0dzCUj1L5JGKdVUtA5xds1zcyzsz7HLj&index=6&frags=pl%2Cwn
                     self.image = image
                     
                     // searches for documents path

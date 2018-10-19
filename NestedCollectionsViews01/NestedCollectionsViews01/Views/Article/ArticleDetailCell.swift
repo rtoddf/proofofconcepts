@@ -50,8 +50,8 @@ class ArticleDetailCell:BaseCell {
         }
     }
     
-    let leadMediaView:UIImageView = {
-        let iv = UIImageView()
+    let leadMediaView:CustomImageView = {
+        let iv = CustomImageView()
         iv.contentMode = .scaleAspectFill
         iv.clipsToBounds = true
         iv.isUserInteractionEnabled = true
@@ -65,7 +65,7 @@ class ArticleDetailCell:BaseCell {
     
     let leadMediaCaptionLabel:UILabel = {
         let label = UILabel()
-        label.font = .labelFont
+        label.font = .detailsFont
         label.textColor = UIColor(hexString: "#666")
         label.numberOfLines = 0
         label.lineBreakMode = NSLineBreakMode.byWordWrapping
@@ -74,21 +74,21 @@ class ArticleDetailCell:BaseCell {
     
     let headlineLabel:UILabel = {
         let label = UILabel()
-        label.font = .articleTitleFont
+        label.font = .headlineFont
         label.numberOfLines = 4
         return label
     }()
     
     let creatorLabel:UILabel = {
         let label = UILabel()
-        label.font = .labelFont
+        label.font = .detailsFont
         label.textColor = UIColor(hexString: "#000")
         label.numberOfLines = 2
         return label
     }()
     
-    let creatorImageView:UIImageView = {
-        let iv = UIImageView()
+    let creatorImageView:CustomImageView = {
+        let iv = CustomImageView()
         iv.contentMode = .scaleAspectFit
         iv.clipsToBounds = true
         return iv

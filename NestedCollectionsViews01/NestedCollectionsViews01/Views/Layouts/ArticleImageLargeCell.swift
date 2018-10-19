@@ -25,8 +25,8 @@ class ArticleImageLargeCell:BaseCell {
         fatalError("init(coder:) has not been implemented")
     }
     
-    let leadImageView:UIImageView = {
-        let iv = UIImageView()
+    let leadImageView:CustomImageView = {
+        let iv = CustomImageView()
         iv.backgroundColor = .orange
         iv.contentMode = .scaleAspectFill
         iv.clipsToBounds = true
@@ -38,7 +38,7 @@ class ArticleImageLargeCell:BaseCell {
     
     let headlineLabel:UILabel = {
         let label = UILabel()
-        label.font = .articleHeadlineFont
+        label.font = .headlineFont
         label.textColor = UIColor(hexString: "#222")
         label.numberOfLines = 2
         return label
@@ -48,14 +48,14 @@ class ArticleImageLargeCell:BaseCell {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
         label.numberOfLines = 2
-        label.font = .articleBodyFont
+        label.font = .bodyFont
         label.textColor = UIColor(hexString: "#222")
         return label
     }()
     
     let detailsLabel:UILabel = {
         let label = UILabel()
-        label.font = .articleDetailsFont
+        label.font = .detailsFont
         label.textColor = UIColor(hexString: "#666")
         label.numberOfLines = 3
         return label

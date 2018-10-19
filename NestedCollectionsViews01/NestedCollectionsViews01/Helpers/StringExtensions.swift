@@ -115,21 +115,16 @@ extension UIFont {
         return font
     }
     
-    static var titleFont:UIFont {
-        guard let font = UIFont(name: "Helvetica-Bold", size: 14) else { return UIFont.boldSystemFont(ofSize: 14) }
+    static var headlineFont:UIFont {
+        guard let font = UIFont(name: "Helvetica-Bold", size: 15) else { return UIFont.boldSystemFont(ofSize: 15) }
         return font
     }
-    
-    static var articleTitleFont:UIFont {
-        guard let font = UIFont(name: "Helvetica-Bold", size: 24) else { return UIFont.boldSystemFont(ofSize: 24) }
-        return font
-    }
-    
-    static var labelFont:UIFont {
-        guard let font = UIFont(name: "Helvetica", size: 11) else { return UIFont.systemFont(ofSize: 11) }
-        return font
-    }
-    
+
+//    static var labelFont:UIFont {
+//        guard let font = UIFont(name: "Helvetica", size: 11) else { return UIFont.systemFont(ofSize: 11) }
+//        return font
+//    }
+
     static var boldLabelFont:UIFont {
         guard let font = UIFont(name: "Helvetica-Bold", size: 10) else { return UIFont.boldSystemFont(ofSize: 10) }
         return font
@@ -140,40 +135,13 @@ extension UIFont {
         return font
     }
     
-    // article stuff
-    static var articleHeadlineFont:UIFont {
-        guard let font = UIFont(name: "Helvetica-Bold", size: 15) else { return UIFont.boldSystemFont(ofSize: 15) }
-        return font
-    }
-    
-    static var articleBodyFont:UIFont {
-        guard let font = UIFont(name: "Helvetica", size: 13) else { return UIFont.systemFont(ofSize: 13) }
-        return font
-    }
-    
-    static var articleDetailsFont:UIFont {
+    static var detailsFont:UIFont {
         guard let font = UIFont(name: "Helvetica", size: 12) else { return UIFont.systemFont(ofSize: 12) }
         return font
     }
     
     static var articleCategoryFont:UIFont {
         guard let font = UIFont(name: "Helvetica-Bold", size: 10) else { return UIFont.boldSystemFont(ofSize: 10) }
-        return font
-    }
-    
-    // events stuff
-    static var eventHeadlineFont:UIFont {
-        guard let font = UIFont(name: "Helvetica-Bold", size: 16) else { return UIFont.boldSystemFont(ofSize: 16) }
-        return font
-    }
-    
-    static var eventDetailsFont:UIFont {
-        guard let font = UIFont(name: "Helvetica", size: 13) else { return UIFont.systemFont(ofSize: 13) }
-        return font
-    }
-    
-    static var eventBodyFont:UIFont {
-        guard let font = UIFont(name: "Helvetica", size: 15) else { return UIFont.systemFont(ofSize: 15) }
         return font
     }
     

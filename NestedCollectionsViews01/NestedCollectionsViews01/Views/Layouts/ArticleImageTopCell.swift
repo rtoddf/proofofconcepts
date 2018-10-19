@@ -31,8 +31,8 @@ class ArticleImageTopCell:BaseCell {
         fatalError("init(coder:) has not been implemented")
     }
     
-    let leadImageView:UIImageView = {
-        let iv = UIImageView()
+    let leadImageView:CustomImageView = {
+        let iv = CustomImageView()
         iv.contentMode = .scaleAspectFill
         iv.clipsToBounds = true
         iv.backgroundColor = UIColor(hexString: "#333333")
@@ -43,14 +43,14 @@ class ArticleImageTopCell:BaseCell {
     
     let headlineLabel:UILabel = {
         let label = UILabel()
-        label.font = .titleFont
+        label.font = .headlineFont
         label.numberOfLines = 2
         return label
     }()
     
     let detailsLabel:UILabel = {
         let label = UILabel()
-        label.font = .articleDetailsFont
+        label.font = .detailsFont
         label.textColor = UIColor(hexString: "#666")
         label.numberOfLines = 3
         return label
@@ -60,16 +60,10 @@ class ArticleImageTopCell:BaseCell {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
         label.numberOfLines = 2
-        label.font = .articleBodyFont
+        label.font = .bodyFont
         label.textColor = UIColor(hexString: "#222")
         return label
     }()
-
-//    let dividerLine:UIView = {
-//        let view = UIView()
-//        view.backgroundColor = UIColor(hexString: "#999")
-//        return view
-//    }()
     
     override func setupViews() {
         addSubview(leadImageView)

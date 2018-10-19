@@ -112,21 +112,21 @@ class RelatedTableCell:UITableViewCell {
     
     var headlineLabel:UILabel = {
         let label = UILabel()
-        label.font = .titleFont
+        label.font = .headlineFont
         label.numberOfLines = 2
         return label
     }()
     
     var summaryLabel:UILabel = {
         let label = UILabel()
-        label.font = .labelFont
+        label.font = .detailsFont
         label.numberOfLines = 2
         label.translatesAutoresizingMaskIntoConstraints = false
         return label
     }()
     
-    let articleImageView:UIImageView = {
-        let iv = UIImageView()
+    let articleImageView:CustomImageView = {
+        let iv = CustomImageView()
         iv.contentMode = .scaleAspectFill
         iv.clipsToBounds = true
         iv.backgroundColor = UIColor(hexString: "#333")
